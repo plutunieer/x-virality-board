@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest \u2014 2026-09-27",
   "date": "2026-09-27",
   "timezone": "Europe/Zurich",
-  "updated": "2026-09-27T18:23:59+02:00",
+  "updated": "2026-09-27T18:26:33+02:00",
   "brand_title": "bobbyships X Virality Score",
   "brand_handle": "@bobbyships",
   "hits": [
@@ -543,6 +543,16 @@
       "best_url": "https://x.com/clairevo/status/2102141999101231589"
     },
     {
+      "handle": "@bobbyships",
+      "name": "Bobby | shipping AI tools",
+      "views": 185,
+      "best_views": 185,
+      "total_views": 282,
+      "star": false,
+      "hit": false,
+      "best_url": "https://x.com/bobbyships/status/2104181247744639101"
+    },
+    {
       "handle": "@karpathy",
       "name": "Andrej Karpathy",
       "views": 0,
@@ -583,7 +593,17 @@
       "best_url": null
     }
   ],
-  "you_rank": null,
+  "you_rank": {
+    "handle": "@bobbyships",
+    "name": "Bobby | shipping AI tools",
+    "best_views": 185,
+    "total_views": 282,
+    "best_url": "https://x.com/bobbyships/status/2104181247744639101",
+    "rank_among_watchlist": 8,
+    "total_accounts": 12,
+    "note": null,
+    "posts_in_window": 4
+  },
   "x_score": 63425.1,
   "total_views": 63425091,
   "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anh\u00e4ngen.",
