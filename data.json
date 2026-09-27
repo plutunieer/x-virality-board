@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest \u2014 2026-09-27",
   "date": "2026-09-27",
   "timezone": "Europe/Zurich",
-  "updated": "2026-09-27T18:17:10+02:00",
+  "updated": "2026-09-27T18:17:19+02:00",
   "brand_title": "bobbyships X Virality Score",
   "brand_handle": "@bobbyships",
   "hits": [
@@ -13,13 +13,13 @@
       "views": 1974508,
       "url": "https://x.com/bcherny/status/2102543349102338309",
       "text": "I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached. TLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.",
-      "draft": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nHighest-ROI format: one tool name, one prompt claim, one receipt.\n\nFill brackets. Attach proof. Post as @bobbyships.",
-      "draft_en": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nHighest-ROI format: one tool name, one prompt claim, one receipt.\n\nFill brackets. Attach proof. Post as @bobbyships.",
+      "draft": "Used [dein Modell] + [Lean / Tests] to verify [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nFill brackets. Attach proof. Post.",
+      "draft_en": "Used [dein Modell] + [Lean / Tests] to verify [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nFill brackets. Attach proof. Post.",
       "video_tip": "20s screen recording: Lean goal \u2192 model prompt \u2192 PR list stacking to 16 \u2192 verify your SDK.",
       "star": true,
       "highlight": true,
       "hook": "Opus + Lean formal verify \u2192 16 PRs. Hard eng flex with receipts.",
-      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
+      "use_as": "Klammern ausf\u00fcllen + Screenshot + selbst posten"
     },
     {
       "handle": "@OfficialLoganK",
@@ -28,13 +28,13 @@
       "views": 1687463,
       "url": "https://x.com/OfficialLoganK/status/2101840695430435122",
       "text": "you are going to fail, so fail while daring greatly",
-      "draft": "Used [dein Modell] + [Lean / Tests / Review] on [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs / races. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nPick one invariant this week. Model drafts. You review.",
-      "draft_en": "Used [dein Modell] + [Lean / Tests / Review] on [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs / races. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nPick one invariant this week. Model drafts. You review.",
+      "draft": "You\u2019re going to ship something half-finished. Do it in public.\n\nToday: [dein Feature] behind a flag.\n\nPost the attempt \u2193\n[Screenshot: WIP]\n\nFill brackets or skip if this isn\u2019t your post today.",
+      "draft_en": "You\u2019re going to ship something half-finished. Do it in public.\n\nToday: [dein Feature] behind a flag.\n\nPost the attempt \u2193\n[Screenshot: WIP]\n\nFill brackets or skip if this isn\u2019t your post today.",
       "video_tip": "6s bold typography kinetic: fail \u2192 daring greatly \u2192 cut to ship button.",
       "star": true,
       "highlight": true,
       "hook": "Fail while daring greatly - contrarian one-liner that RTs itself.",
-      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
+      "use_as": "Klammern ausf\u00fcllen + Screenshot + selbst posten"
     },
     {
       "handle": "@OfficialLoganK",
@@ -43,13 +43,13 @@
       "views": 1118545,
       "url": "https://x.com/OfficialLoganK/status/2102156143007338594",
       "text": "if you are building a product using AI, you should be spending >25% of your time making benchmarks and trying to get the model labs to care about said benchmarks easiest path to accelerate your progress as a company",
-      "draft": "You will ship something half-finished. Do it in public.\n\n[dein Feature] behind a flag. Tell one person. Iterate.\n\nPost the attempt \u2193\n[Screenshot: WIP UI oder Flag]\n\nSkip if this is not your vibe today.",
-      "draft_en": "You will ship something half-finished. Do it in public.\n\n[dein Feature] behind a flag. Tell one person. Iterate.\n\nPost the attempt \u2193\n[Screenshot: WIP UI oder Flag]\n\nSkip if this is not your vibe today.",
+      "draft": "I spend [X%] of shipping time on [Benchmarks / Evals / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric]\n\nFill X% + metric. Post.",
+      "draft_en": "I spend [X%] of shipping time on [Benchmarks / Evals / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric]\n\nFill X% + metric. Post.",
       "video_tip": "10s: pie slice >25% labeled benchmarks \u2192 eval dashboard \u2192 make labs care.",
       "star": true,
       "highlight": true,
       "hook": ">25% time on benchmarks - operator lever post.",
-      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
+      "use_as": "Klammern ausf\u00fcllen + Screenshot + selbst posten"
     },
     {
       "handle": "@bcherny",
@@ -58,13 +58,13 @@
       "views": 833069,
       "url": "https://x.com/bcherny/status/2102854267782705648",
       "text": "If you've noticed how fast claude.ai and the Desktop app have become in the last few weeks, here's how we did it. Lots of juicy learnings & techniques in the blog post for engineers working on speeding up your own apps. https://t.co/9A6X5iqpbs",
-      "draft": "I spend [X%] of shipping time on [Benchmarks / Eval / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric or eval run]\n\nFill X% and the metric. Post.",
-      "draft_en": "I spend [X%] of shipping time on [Benchmarks / Eval / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric or eval run]\n\nFill X% and the metric. Post.",
+      "draft": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot oder Clip]\n\nFill brackets. Attach proof. Post.",
+      "draft_en": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot oder Clip]\n\nFill brackets. Attach proof. Post.",
       "video_tip": "15s before/after load timers \u2192 blog URL card \u2192 steal these techniques.",
       "star": true,
       "highlight": true,
       "hook": "How we made Claude fast - shipping diary with engineer bait.",
-      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
+      "use_as": "Klammern ausf\u00fcllen + Screenshot + selbst posten"
     },
     {
       "handle": "@mattpocockuk",
@@ -73,13 +73,13 @@
       "views": 791015,
       "url": "https://x.com/mattpocockuk/status/2102757949567291516",
       "text": "Opus 5.5 generated this with a single prompt \u2b07\ufe0f",
-      "draft": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot or short clip]\n\nEngineers copy the change, not the vibe.",
-      "draft_en": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot or short clip]\n\nEngineers copy the change, not the vibe.",
+      "draft": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nOne tool name. One prompt claim. One receipt.\n\nFill brackets. Attach proof. Post.",
+      "draft_en": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nOne tool name. One prompt claim. One receipt.\n\nFill brackets. Attach proof. Post.",
       "video_tip": "8s: prompt text typewriter \u2192 smash cut to artifact \u2192 single prompt badge.",
       "star": true,
       "highlight": true,
       "hook": "Single-prompt Opus flex - demo beats claim.",
-      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
+      "use_as": "Klammern ausf\u00fcllen + Screenshot + selbst posten"
     }
   ],
   "virals": [
