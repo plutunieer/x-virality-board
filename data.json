@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest \u2014 2026-09-27",
   "date": "2026-09-27",
   "timezone": "Europe/Zurich",
-  "updated": "2026-09-27T14:11:48+02:00",
+  "updated": "2026-09-27T18:17:10+02:00",
   "brand_title": "bobbyships X Virality Score",
   "brand_handle": "@bobbyships",
   "hits": [
@@ -13,12 +13,13 @@
       "views": 1974508,
       "url": "https://x.com/bcherny/status/2102543349102338309",
       "text": "I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached. TLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.",
-      "draft": "Used Opus 5.5 + Lean to formally verify the Claude Agent SDK. A couple short prompts turned into 16 PRs fixing bugs and race conditions. TLA+ in the mix for concurrency and data flow.\n\nThis is the new hard-eng flex: model as proof assistant, not autocomplete.\n\nIf you maintain an agent SDK or anything concurrent, try one invariant in Lean or TLA+ this week. Let the model draft the proof. You review.\n\nShip fewer races. Brag with PRs.",
-      "draft_en": "Used Opus 5.5 + Lean to formally verify the Claude Agent SDK. A couple short prompts turned into 16 PRs fixing bugs and race conditions. TLA+ in the mix for concurrency and data flow.\n\nThis is the new hard-eng flex: model as proof assistant, not autocomplete.\n\nIf you maintain an agent SDK or anything concurrent, try one invariant in Lean or TLA+ this week. Let the model draft the proof. You review.\n\nShip fewer races. Brag with PRs.",
+      "draft": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nHighest-ROI format: one tool name, one prompt claim, one receipt.\n\nFill brackets. Attach proof. Post as @bobbyships.",
+      "draft_en": "Built [was du gebaut hast] with one prompt in [dein Tool / Modell].\n\nNo essay. Artifact attached \u2193\n[Screenshot oder kurzes Video]\n\nHighest-ROI format: one tool name, one prompt claim, one receipt.\n\nFill brackets. Attach proof. Post as @bobbyships.",
       "video_tip": "20s screen recording: Lean goal \u2192 model prompt \u2192 PR list stacking to 16 \u2192 verify your SDK.",
       "star": true,
       "highlight": true,
-      "hook": "Opus + Lean formal verify \u2192 16 PRs. Hard eng flex with receipts."
+      "hook": "Opus + Lean formal verify \u2192 16 PRs. Hard eng flex with receipts.",
+      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
     },
     {
       "handle": "@OfficialLoganK",
@@ -27,12 +28,13 @@
       "views": 1687463,
       "url": "https://x.com/OfficialLoganK/status/2101840695430435122",
       "text": "you are going to fail, so fail while daring greatly",
-      "draft": "You are going to fail. So fail while daring greatly.\n\nShort. True. Quotable.\n\nIndie shipping is a pile of public misses with one hit that compounds. Post the attempt, not only the win.\n\nToday: ship the scary half-finished feature behind a flag. Tell one person. Iterate.",
-      "draft_en": "You are going to fail. So fail while daring greatly.\n\nShort. True. Quotable.\n\nIndie shipping is a pile of public misses with one hit that compounds. Post the attempt, not only the win.\n\nToday: ship the scary half-finished feature behind a flag. Tell one person. Iterate.",
+      "draft": "Used [dein Modell] + [Lean / Tests / Review] on [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs / races. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nPick one invariant this week. Model drafts. You review.",
+      "draft_en": "Used [dein Modell] + [Lean / Tests / Review] on [dein SDK / Feature].\n\n[Zahl] PRs fixing bugs / races. Receipt \u2193\n[Screenshot: PRs oder Diff]\n\nModel as proof assistant, not autocomplete.\n\nPick one invariant this week. Model drafts. You review.",
       "video_tip": "6s bold typography kinetic: fail \u2192 daring greatly \u2192 cut to ship button.",
       "star": true,
       "highlight": true,
-      "hook": "Fail while daring greatly - contrarian one-liner that RTs itself."
+      "hook": "Fail while daring greatly - contrarian one-liner that RTs itself.",
+      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
     },
     {
       "handle": "@OfficialLoganK",
@@ -41,12 +43,13 @@
       "views": 1118545,
       "url": "https://x.com/OfficialLoganK/status/2102156143007338594",
       "text": "if you are building a product using AI, you should be spending >25% of your time making benchmarks and trying to get the model labs to care about said benchmarks easiest path to accelerate your progress as a company",
-      "draft": "If you build with AI, spend more than 25% of your time on benchmarks and making the model labs care about them.\n\nThat is the fastest path to accelerate a product company right now.\n\nStop doomscrolling releases. Write the eval that measures your users' pain. Publish it. Tag the labs.\n\nOwn the scoreboard or rent someone else's.",
-      "draft_en": "If you build with AI, spend more than 25% of your time on benchmarks and making the model labs care about them.\n\nThat is the fastest path to accelerate a product company right now.\n\nStop doomscrolling releases. Write the eval that measures your users' pain. Publish it. Tag the labs.\n\nOwn the scoreboard or rent someone else's.",
+      "draft": "You will ship something half-finished. Do it in public.\n\n[dein Feature] behind a flag. Tell one person. Iterate.\n\nPost the attempt \u2193\n[Screenshot: WIP UI oder Flag]\n\nSkip if this is not your vibe today.",
+      "draft_en": "You will ship something half-finished. Do it in public.\n\n[dein Feature] behind a flag. Tell one person. Iterate.\n\nPost the attempt \u2193\n[Screenshot: WIP UI oder Flag]\n\nSkip if this is not your vibe today.",
       "video_tip": "10s: pie slice >25% labeled benchmarks \u2192 eval dashboard \u2192 make labs care.",
       "star": true,
       "highlight": true,
-      "hook": ">25% time on benchmarks - operator lever post."
+      "hook": ">25% time on benchmarks - operator lever post.",
+      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
     },
     {
       "handle": "@bcherny",
@@ -55,12 +58,13 @@
       "views": 833069,
       "url": "https://x.com/bcherny/status/2102854267782705648",
       "text": "If you've noticed how fast claude.ai and the Desktop app have become in the last few weeks, here's how we did it. Lots of juicy learnings & techniques in the blog post for engineers working on speeding up your own apps. https://t.co/9A6X5iqpbs",
-      "draft": "claude.ai and the Desktop app got noticeably faster. Boris posted the how: juicy techniques for anyone speeding up their own apps.\n\nShipping diary beats announcement.\n\nWhen you win a perf or cost fight, write the post the same day. Other builders will save it. That is distribution.\n\nDocument one speed trick you shipped this month. Publish it.",
-      "draft_en": "claude.ai and the Desktop app got noticeably faster. Boris posted the how: juicy techniques for anyone speeding up their own apps.\n\nShipping diary beats announcement.\n\nWhen you win a perf or cost fight, write the post the same day. Other builders will save it. That is distribution.\n\nDocument one speed trick you shipped this month. Publish it.",
+      "draft": "I spend [X%] of shipping time on [Benchmarks / Eval / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric or eval run]\n\nFill X% and the metric. Post.",
+      "draft_en": "I spend [X%] of shipping time on [Benchmarks / Eval / Feedback].\n\nOperator lever for [dein Tool]: measure before you polish.\n\nReceipt \u2193\n[Screenshot: metric or eval run]\n\nFill X% and the metric. Post.",
       "video_tip": "15s before/after load timers \u2192 blog URL card \u2192 steal these techniques.",
       "star": true,
       "highlight": true,
-      "hook": "How we made Claude fast - shipping diary with engineer bait."
+      "hook": "How we made Claude fast - shipping diary with engineer bait.",
+      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
     },
     {
       "handle": "@mattpocockuk",
@@ -69,12 +73,13 @@
       "views": 791015,
       "url": "https://x.com/mattpocockuk/status/2102757949567291516",
       "text": "Opus 5.5 generated this with a single prompt \u2b07\ufe0f",
-      "draft": "Opus 5.5 generated this with a single prompt.\n\nNo essay. Artifact attached.\n\nThat is still the highest-ROI post format in AI tools: one model name, one prompt claim, one receipt.\n\nYour move: pick a painful UI or diagram. One-shot it. Post the before prompt and after artifact.",
-      "draft_en": "Opus 5.5 generated this with a single prompt.\n\nNo essay. Artifact attached.\n\nThat is still the highest-ROI post format in AI tools: one model name, one prompt claim, one receipt.\n\nYour move: pick a painful UI or diagram. One-shot it. Post the before prompt and after artifact.",
+      "draft": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot or short clip]\n\nEngineers copy the change, not the vibe.",
+      "draft_en": "How we made [dein Tool] fast.\n\n[1 concrete change] \u2192 [before \u2192 after number].\n\nShipping diary \u2193\n[Screenshot or short clip]\n\nEngineers copy the change, not the vibe.",
       "video_tip": "8s: prompt text typewriter \u2192 smash cut to artifact \u2192 single prompt badge.",
       "star": true,
       "highlight": true,
-      "hook": "Single-prompt Opus flex - demo beats claim."
+      "hook": "Single-prompt Opus flex - demo beats claim.",
+      "use_as": "Klammern ausf\u00fcllen + Screenshot anh\u00e4ngen + selbst posten"
     }
   ],
   "virals": [
@@ -710,5 +715,6 @@
   ],
   "you_rank": null,
   "x_score": 63425.1,
-  "total_views": 63425091
+  "total_views": 63425091,
+  "howto_drafts_short": "Draft = Vorlage. Klammern [so] durch deine Inputs ersetzen. Screenshot dazu. Selbst posten."
 }
