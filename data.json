@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest \u2014 2026-09-27",
   "date": "2026-09-27",
   "timezone": "Europe/Zurich",
-  "updated": "2026-09-27T18:18:47+02:00",
+  "updated": "2026-09-27T18:23:59+02:00",
   "brand_title": "bobbyships X Virality Score",
   "brand_handle": "@bobbyships",
   "hits": [
@@ -473,248 +473,119 @@
   },
   "day_roster": [
     {
-      "handle": "@AnthropicAI",
-      "best_views": 25135109,
-      "total_views": 25135109,
-      "star": true
-    },
-    {
-      "handle": "@SpaceXAI",
-      "best_views": 9779432,
-      "total_views": 9779432,
-      "star": true
-    },
-    {
-      "handle": "@SpaceXAI",
-      "best_views": 5637978,
-      "total_views": 5637978,
-      "star": true
-    },
-    {
-      "handle": "@claudeai",
-      "best_views": 2149191,
-      "total_views": 2149191,
-      "star": true
-    },
-    {
       "handle": "@bcherny",
+      "name": "Boris Cherny",
+      "views": 1974508,
       "best_views": 1974508,
-      "total_views": 1974508,
-      "star": true
-    },
-    {
-      "handle": "@OpenAI",
-      "best_views": 1881169,
-      "total_views": 1881169,
-      "star": true
-    },
-    {
-      "handle": "@OpenAI",
-      "best_views": 1710901,
-      "total_views": 1710901,
-      "star": true
+      "total_views": 3645635,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/bcherny/status/2102543349102338309"
     },
     {
       "handle": "@OfficialLoganK",
+      "name": "Logan Kilpatrick",
+      "views": 1687463,
       "best_views": 1687463,
-      "total_views": 1687463,
-      "star": true
-    },
-    {
-      "handle": "@AnthropicAI",
-      "best_views": 1465437,
-      "total_views": 1465437,
-      "star": true
-    },
-    {
-      "handle": "@OfficialLoganK",
-      "best_views": 1118545,
-      "total_views": 1118545,
-      "star": true
-    },
-    {
-      "handle": "@AnthropicAI",
-      "best_views": 1043665,
-      "total_views": 1043665,
-      "star": true
-    },
-    {
-      "handle": "@AnthropicAI",
-      "best_views": 1018775,
-      "total_views": 1018775,
-      "star": true
-    },
-    {
-      "handle": "@OpenAI",
-      "best_views": 898854,
-      "total_views": 898854,
-      "star": true
-    },
-    {
-      "handle": "@bcherny",
-      "best_views": 833069,
-      "total_views": 833069,
-      "star": true
-    },
-    {
-      "handle": "@claudeai",
-      "best_views": 823671,
-      "total_views": 823671,
-      "star": true
+      "total_views": 3178491,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/OfficialLoganK/status/2101840695430435122"
     },
     {
       "handle": "@mattpocockuk",
+      "name": "Matt Pocock",
+      "views": 791015,
       "best_views": 791015,
-      "total_views": 791015,
-      "star": true
+      "total_views": 1594020,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/mattpocockuk/status/2102757949567291516"
     },
     {
       "handle": "@simonw",
+      "name": "Simon Willison",
+      "views": 592236,
       "best_views": 592236,
-      "total_views": 592236,
-      "star": true
-    },
-    {
-      "handle": "@cursor_ai",
-      "best_views": 515087,
-      "total_views": 515087,
-      "star": true
-    },
-    {
-      "handle": "@OfficialLoganK",
-      "best_views": 342440,
-      "total_views": 342440,
-      "star": true
-    },
-    {
-      "handle": "@cursor_ai",
-      "best_views": 333056,
-      "total_views": 333056,
-      "star": true
-    },
-    {
-      "handle": "@bcherny",
-      "best_views": 303107,
-      "total_views": 303107,
-      "star": true
-    },
-    {
-      "handle": "@bcherny",
-      "best_views": 295923,
-      "total_views": 295923,
-      "star": true
-    },
-    {
-      "handle": "@cursor_ai",
-      "best_views": 294703,
-      "total_views": 294703,
-      "star": true
+      "total_views": 803941,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/simonw/status/2103288927805476900"
     },
     {
       "handle": "@swyx",
+      "name": "swyx",
+      "views": 269835,
       "best_views": 269835,
-      "total_views": 269835,
-      "star": true
-    },
-    {
-      "handle": "@bcherny",
-      "best_views": 239028,
-      "total_views": 239028,
-      "star": true
-    },
-    {
-      "handle": "@SpaceXAI",
-      "best_views": 194560,
-      "total_views": 194560,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 166471,
-      "total_views": 166471,
-      "star": true
-    },
-    {
-      "handle": "@claudeai",
-      "best_views": 142955,
-      "total_views": 142955,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 141034,
-      "total_views": 141034,
-      "star": true
-    },
-    {
-      "handle": "@perplexity_ai",
-      "best_views": 137982,
-      "total_views": 137982,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 136177,
-      "total_views": 136177,
-      "star": true
+      "total_views": 294993,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/swyx/status/2103223477130129726"
     },
     {
       "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 133377,
       "best_views": 133377,
-      "total_views": 133377,
-      "star": true
-    },
-    {
-      "handle": "@OpenAI",
-      "best_views": 127901,
-      "total_views": 127901,
-      "star": true
-    },
-    {
-      "handle": "@simonw",
-      "best_views": 104434,
-      "total_views": 104434,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 101865,
-      "total_views": 101865,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 99606,
-      "total_views": 99606,
-      "star": true
-    },
-    {
-      "handle": "@mattpocockuk",
-      "best_views": 97654,
-      "total_views": 97654,
-      "star": true
-    },
-    {
-      "handle": "@perplexity_ai",
-      "best_views": 71276,
-      "total_views": 71276,
-      "star": true
+      "total_views": 221752,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/levelsio/status/2103150656131670486"
     },
     {
       "handle": "@clairevo",
+      "name": "claire vo \ud83d\udda4",
+      "views": 61066,
       "best_views": 61066,
-      "total_views": 61066,
-      "star": true
+      "total_views": 219006,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/clairevo/status/2102141999101231589"
     },
     {
-      "handle": "@simonw",
-      "best_views": 52993,
-      "total_views": 52993,
-      "star": true
+      "handle": "@karpathy",
+      "name": "Andrej Karpathy",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": null
+    },
+    {
+      "handle": "@leerob",
+      "name": "Lee Robinson",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": null
+    },
+    {
+      "handle": "@ammaar",
+      "name": "Ammaar Reshi",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": null
+    },
+    {
+      "handle": "@jxnlco",
+      "name": "Jason Liu",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": null
     }
   ],
   "you_rank": null,
   "x_score": 63425.1,
   "total_views": 63425091,
-  "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anh\u00e4ngen."
+  "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anh\u00e4ngen.",
+  "roster_note": "people-only \u00b7 one row per handle \u00b7 ranked by best post views"
 }
