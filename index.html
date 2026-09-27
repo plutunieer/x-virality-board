@@ -357,6 +357,8 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   box-shadow:inset 3px 0 0 var(--lime);padding-left:10px;margin:4px 0;border-radius:8px;
 }
 .you-chip{display:inline-flex;align-items:center;margin-left:8px;padding:2px 7px;border:1px solid var(--lime);color:var(--lime);font:800 9px "IBM Plex Mono",monospace;letter-spacing:.1em;vertical-align:middle;border-radius:999px}
+.target-note{margin:8px 0 0;font-size:12px;line-height:1.45;color:var(--muted);max-width:42ch}
+.yd-note{margin:4px 0 8px;font-size:12px;line-height:1.4;color:var(--muted)}
 .your-day{margin-top:18px;padding-top:16px;border-top:1px solid var(--line)}
 .your-day .yd-label{font:600 10px "IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.14em;color:var(--lime);margin-bottom:10px}
 .your-day .yd-meta{font:500 11px "IBM Plex Mono",monospace;color:var(--muted);margin-bottom:12px}
@@ -563,22 +565,24 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
             <div class="x-mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
             <h2>X Score</h2>
           </div>
-          <p>Daily momentum from watchlist hit volume and total view velocity.</p>
+          <p>How close the desk is to today's goal (12 strong watchlist posts + 100k views).</p>
         </div>
         <div class="score-ring" id="score-ring"><div class="score-inner"><div class="score-number" id="x-score" data-count="0">0</div><div class="score-of">/ 100</div><div class="trend flat" id="score-trend"><span class="trend-arrow">→</span><span>calculating</span></div></div></div>
       </article>
       <article class="panel target-panel reveal">
-        <div class="target-head"><div><div class="panel-label"><strong>02 /</strong> daily objective</div><div class="target-title">Day Target</div></div><div class="target-state pending" id="target-state">◷ NOT DONE</div></div>
+        <div class="target-head"><div><div class="panel-label"><strong>02 /</strong> desk goal</div><div class="target-title">Today's desk goal</div></div><div class="target-state pending" id="target-state">◷ NOT DONE</div></div>
+        <p class="target-note" id="target-note">Goal: ≥12 watchlist posts with 5k+ views AND ≥100k total views.</p>
         <div class="target-list">
-          <div><div class="target-row-head"><span>Watchlist hits</span><b id="hits-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="hits-progress"></div></div></div>
-          <div><div class="target-row-head"><span>Total views</span><b id="views-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="views-progress"></div></div></div>
+          <div><div class="target-row-head"><span>Strong posts from your list (≥5k)</span><b id="hits-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="hits-progress"></div></div></div>
+          <div><div class="target-row-head"><span>Views from those posts</span><b id="views-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="views-progress"></div></div></div>
         </div>
         <div class="your-day" id="your-day">
-          <div class="yd-label" id="your-day-label">Your day · @your_handle</div>
+          <div class="yd-label" id="your-day-label">YOUR DAY · @your_handle</div>
+          <div class="yd-note" id="your-day-note">Your own posts today (not the watchlist).</div>
           <div class="yd-meta" id="your-day-meta">loading…</div>
           <div class="target-list" style="padding-top:0;margin-top:0;gap:16px">
-            <div><div class="target-row-head"><span>Best post vs 5k</span><b id="you-5k-copy">—</b></div><div class="target-track"><div class="target-fill" id="you-5k-progress"></div></div></div>
-            <div><div class="target-row-head"><span>Best post vs 10k ★</span><b id="you-10k-copy">—</b></div><div class="target-track"><div class="target-fill" id="you-10k-progress"></div></div></div>
+            <div><div class="target-row-head"><span>Your best post toward 5k</span><b id="you-5k-copy">—</b></div><div class="target-track"><div class="target-fill" id="you-5k-progress"></div></div></div>
+            <div><div class="target-row-head"><span>Your best post toward 10k</span><b id="you-10k-copy">—</b></div><div class="target-track"><div class="target-fill" id="you-10k-progress"></div></div></div>
           </div>
         </div>
       </article>
@@ -586,9 +590,9 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
 
     <section class="stats" id="stats" aria-label="Daily metrics"></section>
 
-    <div class="section-head reveal"><div><div class="section-index">03 / you vs watchlist</div><h2>Daily rank</h2></div><div class="section-note" id="roster-note">best / total · ranked by best</div></div>
-    <section class="panel roster-panel reveal" aria-label="You versus watchlist">
-      <div class="panel-label"><strong>YOU /</strong> ranked by best</div>
+    <div class="section-head reveal"><div><div class="section-index">03 / where you stand</div><h2>Where you stand</h2></div><div class="section-note" id="roster-note">One row per person. Sorted by their strongest post today. You = @bobbyships.</div></div>
+    <section class="panel roster-panel reveal" aria-label="Ranking by best post">
+      <div class="panel-label"><strong>RANK /</strong> by best post</div>
       <div class="roster-list" id="day-roster"></div>
     </section>
 
@@ -613,7 +617,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       <article class="panel board-panel reveal"><div class="panel-label"><strong>M /</strong> calendar month</div><h3 id="month-title">Month</h3><div id="month-board"></div></article>
     </section>
 
-    <div class="section-head reveal"><div><div class="section-index">06 / watchlist</div><h2>Top hits</h2></div><div class="section-note">full drafts · copy ready · per-hit target status</div></div>
+    <div class="section-head reveal"><div><div class="section-index">06 / drafts</div><h2>Drafts to fill in (max 5)</h2></div><div class="section-note">Paste-ready templates · only replace [brackets] · screenshot optional</div></div>
     <section class="hits-col" id="hits"></section>
 
     <div class="section-head reveal"><div><div class="section-index">07 / pattern layer</div><h2>Pattern brief</h2></div><div class="section-note">keywords + recurring hooks and structures</div></div>
@@ -775,7 +779,7 @@ function applyBrand(d){
   const tEl=document.getElementById('brand-title');
   const yd=document.getElementById('your-day-label');
   if(tEl) tEl.innerHTML=`${esc(title)} <span class="handle" id="brand-handle">· ${esc(handle)}</span>`;
-  if(yd) yd.textContent=`Your day · ${handle}`;
+  if(yd) yd.textContent=`YOUR DAY ${handle}`;
   document.title=`${title} · ${handle}`;
   return {handle, name:op.name||'Operator', profile_url:op.profile_url};
 }
@@ -799,7 +803,7 @@ function renderDayRoster(list, op, youRank){
   if(note){
     const ybt=youRank?fmtBestTotal(youRank.best_views, youRank.total_views!=null?youRank.total_views:youRank.best_views):'—';
     const rk=youRank&&youRank.rank_among_watchlist!=null?`#${youRank.rank_among_watchlist}`:'—';
-    note.textContent=`you ${rk} / ${list.length} · best / total · ranked by best · ${ybt}`;
+    note.textContent=`You ${rk} of ${list.length} · best / total shown · ${ybt}`;
   }
   el.innerHTML=list.map((r,i)=>{
     const you=isYouEntry(r,op);
@@ -824,7 +828,8 @@ function renderYourDay(youRank, handle){
     }else{
       const link=youRank.best_url?` · <a href="${esc(youRank.best_url)}" target="_blank" rel="noopener">open best post ↗</a>`:'';
       const rk=youRank.rank_among_watchlist!=null?` · rank #${youRank.rank_among_watchlist}/${youRank.total_accounts||'?'} `:'';
-      meta.innerHTML=`Today <b style="color:var(--text)">${esc(fmtBestTotal(bv,tv))}</b> best / total${rk}${link}`;
+      const posts=youRank.posts_in_window!=null?` · ${youRank.posts_in_window} posts`:'';
+      meta.innerHTML=`best <b style="color:var(--text)">${esc(fmt(bv))}</b> · total <b style="color:var(--text)">${esc(fmt(tv))}</b>${rk}${posts}${link}`;
     }
   }
   const v=num(bv);
@@ -832,8 +837,8 @@ function renderYourDay(youRank, handle){
   const p10=Math.min(100, pct(v, DASHBOARD_TARGETS.starViews));
   const c5=document.getElementById('you-5k-copy');
   const c10=document.getElementById('you-10k-copy');
-  if(c5) c5.textContent = bv==null ? '—' : `${fmt(v)} / 5K · ${p5}% · ${youRank.vs_5k==='done'?'DONE':'PENDING'}`;
-  if(c10) c10.textContent = bv==null ? '—' : `${fmt(v)} / 10K · ${p10}% · ${youRank.vs_10k==='done'?'DONE':'PENDING'}`;
+  if(c5) c5.textContent = bv==null ? '—' : `${fmt(v)} / 5K · ${p5}%${p5>=100?' · reached':''}`;
+  if(c10) c10.textContent = bv==null ? '—' : `${fmt(v)} / 10K · ${p10}%${p10>=100?' · reached':''}`;
   requestAnimationFrame(()=>{
     const a=document.getElementById('you-5k-progress');
     const b=document.getElementById('you-10k-progress');
@@ -890,9 +895,9 @@ async function boot(){
   requestAnimationFrame(()=>{[['hits-progress',hp],['views-progress',vp]].forEach(([id,p])=>{const el=document.getElementById(id);el.style.width=Math.min(100,p)+'%';if(p>=100)el.classList.add('done')})});
   const targetDone=hp>=100&&vp>=100;const targetState=document.getElementById('target-state');targetState.className='target-state '+(targetDone?'done':'pending');targetState.textContent=targetDone?'✓ DONE':'◷ NOT DONE';
   const metrics=[
-    ['Hits',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs target')],
-    ['★ Highlights',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} each`}],
-    ['Total views',totalViews,fmt,trendMarkup(pct(totalViews,DASHBOARD_TARGETS.views)-100,'vs target')],
+    ['Strong posts (≥5k)',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs goal')],
+    ['★ Over 10k',highlights,null,{dir:highlights?'up':'flat',html:`${highlights?'↑':'→'} ≥${fmt(DASHBOARD_TARGETS.starViews)} each`}],
+    ['Views from those',totalViews,fmt,trendMarkup(pct(totalViews,DASHBOARD_TARGETS.views)-100,'vs goal')],
     ['Outsiders',virals.length,null,trendMarkup(virals.length-num(d.virals_target||20),'vs brief')],
     ['Top view',maxViews,fmt,trendMarkup(pct(maxViews,DASHBOARD_TARGETS.starViews)-100,'vs ★ line')]
   ];
@@ -929,7 +934,7 @@ async function boot(){
   document.getElementById('theme-toggle')?.addEventListener('click',()=>{
     setTimeout(()=>{renderSparkline(hits);renderDayCompare(d.day_roster||[], op)}, 50);
   });
-  const sorted=[...hits].sort((a,b)=>num(b.views)-num(a.views));document.getElementById('hits').innerHTML=sorted.map((h,i)=>{const threshold=h.highlight===true?DASHBOARD_TARGETS.starViews:DASHBOARD_TARGETS.minHitViews;const done=num(h.views)>=threshold;const draftId='draft-'+i;const draft=h.draft_en||'';return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(h.name||h.display_name||'Unknown')}</div><div class="handle">${esc(h.handle||'')}</div></div></div><div class="views-big">${esc(h.views_label||fmt(h.views))}<small>views</small></div></div><div class="hit-target ${done?'done':'not-done'}"><span class="mark">${done?'✓':'×'}</span><span>${done?'DONE':'NOT DONE'} · day target ≥${fmt(threshold)}${threshold===DASHBOARD_TARGETS.starViews?' ★':''}</span></div><div class="hook">${esc(h.hook||h.text||'')}</div>${h.video_tip?`<div class="chip">${esc(h.video_tip)}</div>`:''}<div class="draft-block"><div class="draft-head"><span class="draft-label">Draft · EN</span><button type="button" class="copy-btn" data-draft-id="${draftId}">COPY DRAFT</button></div><pre class="draft-text" id="${draftId}">${esc(draft)}</pre></div><a class="post-link" href="${esc(h.url||h.status_url||'#')}" target="_blank" rel="noopener">OPEN POST ↗</a></article>`}).join('')||'<p class="muted">No watchlist hits today.</p>';
+  const draftHits=[...hits].filter(h=>String(h.draft_en||'').trim()).sort((a,b)=>num(b.views)-num(a.views)).slice(0,5);document.getElementById('hits').innerHTML=draftHits.map((h,i)=>{const draftId='draft-'+i;const draft=h.draft_en||'';return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(h.name||h.display_name||'Unknown')}</div><div class="handle">${esc(h.handle||'')}</div></div></div><div class="views-big">${esc(h.views_label||fmt(h.views))}<small>views</small></div></div><div class="hit-target done"><span class="mark">✓</span><span>${esc(fmt(h.views))} views · watchlist post ≥5k</span></div><div class="hook">${esc(h.hook||h.text||'')}</div>${h.video_tip?`<div class="chip">${esc(h.video_tip)}</div>`:''}<div class="draft-block"><div class="draft-head"><span class="draft-label">Draft to fill in</span><button type="button" class="copy-btn" data-draft-id="${draftId}">COPY DRAFT</button></div><pre class="draft-text" id="${draftId}">${esc(draft)}</pre></div><a class="post-link" href="${esc(h.url||h.status_url||'#')}" target="_blank" rel="noopener">OPEN POST ↗</a></article>`}).join('')||'<p class="muted">No draft templates today.</p>';
   document.querySelectorAll('.copy-btn').forEach(btn=>btn.addEventListener('click',()=>{const el=document.getElementById(btn.dataset.draftId);copyDraft(btn,el?el.textContent:'')}));
   staggerCards('#hits .card');
   document.getElementById('patterns').innerHTML=(d.patterns||[]).map(p=>`<span class="tag">${esc(p)}</span>`).join('');document.getElementById('viral-count').textContent=`${virals.length} outsider signals`;
