@@ -27,7 +27,7 @@
   },
   "date": "2026-09-30",
   "title": "Daily X narrative digest — 2026-09-30",
-  "updated": "2026-09-30T12:03:43+02:00",
+  "updated": "2026-09-30T12:08:30+02:00",
   "timezone": "Europe/Zurich",
   "x_score": 1897.2,
   "total_views": 1897244,
@@ -535,13 +535,295 @@
     "Shipping diary / how we did it",
     "Essay / year-so-far roundup"
   ],
-  "narrative_synthesis": "Pending outsider scout.",
-  "virals_narrative": "Pending outsider scout.",
-  "virals": [],
+  "narrative_synthesis": "Outside the watchlist, the last ~48h is still release/agent week: (1) Sonnet 5.5 builder guides and speed/cost receipts (ClaudeDevs ~1.2M / ~545k) plus GPT-6.1 Sol vs Opus/Sonnet head-to-heads and Terminal-Bench \"jaw dropped\" takes; (2) always-on agents as the new story — OpenAI dots, Nvidia Open Agent Safety Platform containing rogue agents in milliseconds (Forbes/Verge), budget Hermes agents on surplus PCs, Apodex moving research into task execution; (3) Claude Code money-workflow bait and \"will the IDE still matter\" takes. For @bobbyships the transferable move is a named demo or metric stack on Sonnet 5.5 / Sol / dots (artifact + 1–2 hard numbers), not another launch RT or status-bot screenshot.",
+  "virals_narrative": "Outside the watchlist, the last ~48h is still release/agent week: (1) Sonnet 5.5 builder guides and speed/cost receipts (ClaudeDevs ~1.2M / ~545k) plus GPT-6.1 Sol vs Opus/Sonnet head-to-heads and Terminal-Bench \"jaw dropped\" takes; (2) always-on agents as the new story — OpenAI dots, Nvidia Open Agent Safety Platform containing rogue agents in milliseconds (Forbes/Verge), budget Hermes agents on surplus PCs, Apodex moving research into task execution; (3) Claude Code money-workflow bait and \"will the IDE still matter\" takes. For @bobbyships the transferable move is a named demo or metric stack on Sonnet 5.5 / Sol / dots (artifact + 1–2 hard numbers), not another launch RT or status-bot screenshot.",
+  "virals": [
+    {
+      "handle": "ClaudeDevs",
+      "display_name": "ClaudeDevs",
+      "views": 1197187,
+      "url": "",
+      "text": "Claude Sonnet 5.5 is out! We wrote a guide for building with it: • choosing between Sonnet 5.5 and Opus 5.5 • migrating from Sonnet 5 and tuning effort • using it in Claude Code claude.dev/blog/building-"
+    },
+    {
+      "handle": "ClaudeDevs",
+      "display_name": "ClaudeDevs",
+      "views": 544503,
+      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "text": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goes further too. Use it for well-scoped everyday tasks like fixing bugs and quickly iterating on features."
+    },
+    {
+      "handle": "Forbes",
+      "display_name": "Forbes",
+      "views": 27488,
+      "url": "",
+      "text": "Amid the ongoing debate over AI safety, chipmaker Nvidia launched a new security system that it claims can prevent AI agents from breaching their testing environment — weeks after news broke that OpenAI agents did exactly that in hacking the company Hugging Face. Read more:"
+    },
+    {
+      "handle": "verge",
+      "display_name": "The Verge",
+      "views": 27203,
+      "url": "",
+      "text": "The Open Agent Safety Platform is designed to enforce AI boundaries. theverge.com Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’ From theverge.com"
+    },
+    {
+      "handle": "AJEnglish",
+      "display_name": "Al Jazeera English",
+      "views": 22525,
+      "url": "",
+      "text": "OpenAI has launched an “always-on” personal AI assistant designed to manage tasks ranging from restaurant bookings to website design. aljazeera.com OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ From aljazeera.com"
+    },
+    {
+      "handle": "DataChaz",
+      "display_name": "Charly Wargnier",
+      "views": 17121,
+      "url": "",
+      "text": "THE PROBLEM WITH MOST AI RESEARCH TOOLS IS SIMPLE: THEY STOP AT RESEARCH. @Apodex_AI 1.1 just dropped and moves reasoning into real task execution. ...and this is where things get interesting! @ArtificialAnlys puts Apodex ahead of major frontier models on agentic work and"
+    },
+    {
+      "handle": "NFT_Chen",
+      "display_name": "SuSu_酥酥 👅",
+      "views": 16323,
+      "url": "",
+      "text": "Sam Altman responds for the first time: OpenAI directly scraps GPT-6.1 Astra! They even decided not to train it at all for safety reasons! He said on CNBC: “We're controlling the pace, which includes sometimes even not training models at all. Alignment, safety, monitoring, and"
+    },
+    {
+      "handle": "siyabuilt",
+      "display_name": "Siya",
+      "views": 15972,
+      "url": "",
+      "text": "I gave the newly released GPT-6.1 Sol and Claude Sonnet 5.5 the same challenge \"Build your worst nightmare\""
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 13635,
+      "url": "https://x.com/pc_watch/status/2105041950244327834",
+      "text": "Runs on cracked-screen Macs and surplus PCs! Start your “budget” miniature AI agent with Hermes Agent pc.watch.impress.co.jp/docs/topic/fea"
+    },
+    {
+      "handle": "0x0SojalSec",
+      "display_name": "Md Ismail Šojal",
+      "views": 11308,
+      "url": "",
+      "text": "\"We should slow down AI anyway\" Then dropped : Grok 4.7, GPT-6.1 Sol, Claude Opus 5.5, now Sonnet 5.5"
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 11157,
+      "url": "https://x.com/pc_watch/status/2105149153697542258",
+      "text": "No longer a virtual human. OpenAI's always-on AI agent \"dots\" pc.watch.impress.co.jp/docs/news/2144"
+    },
+    {
+      "handle": "0xMarioNawfal",
+      "display_name": "0xMarioNawfal",
+      "views": 10159,
+      "url": "",
+      "text": "someone just broke down a Claude Code + YouTube workflow he claims can make up to $62,000/month. the entire setup takes 13 minutes to explain. bookmark this one."
+    },
+    {
+      "handle": "Scobleizer",
+      "display_name": "Robert Scoble",
+      "views": 9452,
+      "url": "",
+      "text": "“How do you advertise to an AI?” @IrenaCronin and I write this newsletter every week. AI agents could reshape advertising by making purchasing decisions based more on price, performance, reliability, and verified data than on emotional marketing. Brands may increasingly"
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 6250,
+      "url": "",
+      "text": "\"GPT-6.1 Sol\" debuts. Intelligence rivaling Astra at one-fifth the price pc.watch.impress.co.jp/docs/news/2144"
+    },
+    {
+      "handle": "pmddomingos",
+      "display_name": "Pedro Domingos",
+      "views": 4566,
+      "url": "",
+      "text": "\"AlphaFold and Claude are very similar, but we don't worry that AlphaFold will become conscious . . . the fact that we worry about it for Claude says more about us than about it.\""
+    },
+    {
+      "handle": "Aditya_181105",
+      "display_name": "Aditya",
+      "views": 1441,
+      "url": "https://x.com/Aditya_181105/status/2105138082567926185",
+      "text": "VS Code has spent years becoming the default editor for developers. Now AI coding agents are changing how we write code. Will the IDE still matter in five years?"
+    },
+    {
+      "handle": "viktoroddy",
+      "display_name": "Viktor Oddy",
+      "views": 1419,
+      "url": "",
+      "text": "Claude Opus 5.5 vs GPT-6.1 Sol in cinematic web design. Luxury car rental site made with 1 prompt"
+    },
+    {
+      "handle": "JonhernandezIA",
+      "display_name": "Jon Hernandez",
+      "views": 952,
+      "url": "https://x.com/JonhernandezIA/status/2105220104036258241",
+      "text": "👉🏻 DevDay’s sleeper announcement may be GPT-6.1 Sol. Theo ran his own Terminal-Bench 4 tests before independent benchmarks were available. His reaction: “Jaw dropped.” In his Codex setup, GPT-6.1 Sol performed better than Claude Opus 5.5 at roughly 1/30th the cost. A frontier"
+    },
+    {
+      "handle": "sairahul1",
+      "display_name": "Rahul",
+      "views": 918,
+      "url": "https://x.com/sairahul1/status/2105231735109931157",
+      "text": "OpenAI just launched Dots. And this may be the first AI agent you can actually turn into a 24/7 business operator. It can research, create, post, analyze, and repeat on its own. I broke down exactly how to use Dots + GPT-6.1 Sol to make money:"
+    },
+    {
+      "handle": "IsClaudeDownBot",
+      "display_name": "Is Claude Down Today?",
+      "views": 6497,
+      "url": "",
+      "text": "Automated by @eliphatfs Yes. Elevated errors on claude.ai, Claude Code and Claude Cowork — 7:21 AM PDT claude.ai Claude From claude.ai"
+    }
+  ],
   "virals_target": 20,
   "virals_window": "last ~48h",
-  "outsiders": [],
-  "outsiders_count": 0,
+  "outsiders": [
+    {
+      "handle": "ClaudeDevs",
+      "display_name": "ClaudeDevs",
+      "views": 1197187,
+      "url": "",
+      "text": "Claude Sonnet 5.5 is out! We wrote a guide for building with it: • choosing between Sonnet 5.5 and Opus 5.5 • migrating from Sonnet 5 and tuning effort • using it in Claude Code claude.dev/blog/building-"
+    },
+    {
+      "handle": "ClaudeDevs",
+      "display_name": "ClaudeDevs",
+      "views": 544503,
+      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "text": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goes further too. Use it for well-scoped everyday tasks like fixing bugs and quickly iterating on features."
+    },
+    {
+      "handle": "Forbes",
+      "display_name": "Forbes",
+      "views": 27488,
+      "url": "",
+      "text": "Amid the ongoing debate over AI safety, chipmaker Nvidia launched a new security system that it claims can prevent AI agents from breaching their testing environment — weeks after news broke that OpenAI agents did exactly that in hacking the company Hugging Face. Read more:"
+    },
+    {
+      "handle": "verge",
+      "display_name": "The Verge",
+      "views": 27203,
+      "url": "",
+      "text": "The Open Agent Safety Platform is designed to enforce AI boundaries. theverge.com Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’ From theverge.com"
+    },
+    {
+      "handle": "AJEnglish",
+      "display_name": "Al Jazeera English",
+      "views": 22525,
+      "url": "",
+      "text": "OpenAI has launched an “always-on” personal AI assistant designed to manage tasks ranging from restaurant bookings to website design. aljazeera.com OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ From aljazeera.com"
+    },
+    {
+      "handle": "DataChaz",
+      "display_name": "Charly Wargnier",
+      "views": 17121,
+      "url": "",
+      "text": "THE PROBLEM WITH MOST AI RESEARCH TOOLS IS SIMPLE: THEY STOP AT RESEARCH. @Apodex_AI 1.1 just dropped and moves reasoning into real task execution. ...and this is where things get interesting! @ArtificialAnlys puts Apodex ahead of major frontier models on agentic work and"
+    },
+    {
+      "handle": "NFT_Chen",
+      "display_name": "SuSu_酥酥 👅",
+      "views": 16323,
+      "url": "",
+      "text": "Sam Altman responds for the first time: OpenAI directly scraps GPT-6.1 Astra! They even decided not to train it at all for safety reasons! He said on CNBC: “We're controlling the pace, which includes sometimes even not training models at all. Alignment, safety, monitoring, and"
+    },
+    {
+      "handle": "siyabuilt",
+      "display_name": "Siya",
+      "views": 15972,
+      "url": "",
+      "text": "I gave the newly released GPT-6.1 Sol and Claude Sonnet 5.5 the same challenge \"Build your worst nightmare\""
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 13635,
+      "url": "https://x.com/pc_watch/status/2105041950244327834",
+      "text": "Runs on cracked-screen Macs and surplus PCs! Start your “budget” miniature AI agent with Hermes Agent pc.watch.impress.co.jp/docs/topic/fea"
+    },
+    {
+      "handle": "0x0SojalSec",
+      "display_name": "Md Ismail Šojal",
+      "views": 11308,
+      "url": "",
+      "text": "\"We should slow down AI anyway\" Then dropped : Grok 4.7, GPT-6.1 Sol, Claude Opus 5.5, now Sonnet 5.5"
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 11157,
+      "url": "https://x.com/pc_watch/status/2105149153697542258",
+      "text": "No longer a virtual human. OpenAI's always-on AI agent \"dots\" pc.watch.impress.co.jp/docs/news/2144"
+    },
+    {
+      "handle": "0xMarioNawfal",
+      "display_name": "0xMarioNawfal",
+      "views": 10159,
+      "url": "",
+      "text": "someone just broke down a Claude Code + YouTube workflow he claims can make up to $62,000/month. the entire setup takes 13 minutes to explain. bookmark this one."
+    },
+    {
+      "handle": "Scobleizer",
+      "display_name": "Robert Scoble",
+      "views": 9452,
+      "url": "",
+      "text": "“How do you advertise to an AI?” @IrenaCronin and I write this newsletter every week. AI agents could reshape advertising by making purchasing decisions based more on price, performance, reliability, and verified data than on emotional marketing. Brands may increasingly"
+    },
+    {
+      "handle": "pc_watch",
+      "display_name": "PC Watch",
+      "views": 6250,
+      "url": "",
+      "text": "\"GPT-6.1 Sol\" debuts. Intelligence rivaling Astra at one-fifth the price pc.watch.impress.co.jp/docs/news/2144"
+    },
+    {
+      "handle": "pmddomingos",
+      "display_name": "Pedro Domingos",
+      "views": 4566,
+      "url": "",
+      "text": "\"AlphaFold and Claude are very similar, but we don't worry that AlphaFold will become conscious . . . the fact that we worry about it for Claude says more about us than about it.\""
+    },
+    {
+      "handle": "Aditya_181105",
+      "display_name": "Aditya",
+      "views": 1441,
+      "url": "https://x.com/Aditya_181105/status/2105138082567926185",
+      "text": "VS Code has spent years becoming the default editor for developers. Now AI coding agents are changing how we write code. Will the IDE still matter in five years?"
+    },
+    {
+      "handle": "viktoroddy",
+      "display_name": "Viktor Oddy",
+      "views": 1419,
+      "url": "",
+      "text": "Claude Opus 5.5 vs GPT-6.1 Sol in cinematic web design. Luxury car rental site made with 1 prompt"
+    },
+    {
+      "handle": "JonhernandezIA",
+      "display_name": "Jon Hernandez",
+      "views": 952,
+      "url": "https://x.com/JonhernandezIA/status/2105220104036258241",
+      "text": "👉🏻 DevDay’s sleeper announcement may be GPT-6.1 Sol. Theo ran his own Terminal-Bench 4 tests before independent benchmarks were available. His reaction: “Jaw dropped.” In his Codex setup, GPT-6.1 Sol performed better than Claude Opus 5.5 at roughly 1/30th the cost. A frontier"
+    },
+    {
+      "handle": "sairahul1",
+      "display_name": "Rahul",
+      "views": 918,
+      "url": "https://x.com/sairahul1/status/2105231735109931157",
+      "text": "OpenAI just launched Dots. And this may be the first AI agent you can actually turn into a 24/7 business operator. It can research, create, post, analyze, and repeat on its own. I broke down exactly how to use Dots + GPT-6.1 Sol to make money:"
+    },
+    {
+      "handle": "IsClaudeDownBot",
+      "display_name": "Is Claude Down Today?",
+      "views": 6497,
+      "url": "",
+      "text": "Automated by @eliphatfs Yes. Elevated errors on claude.ai, Claude Code and Claude Cowork — 7:21 AM PDT claude.ai Claude From claude.ai"
+    }
+  ],
+  "outsiders_count": 20,
   "no_hits": [
     {
       "handle": "karpathy",
