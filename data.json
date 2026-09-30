@@ -1,710 +1,13 @@
 {
-  "title": "Daily X narrative digest — 2026-09-29",
-  "date": "2026-09-29",
-  "timezone": "Europe/Zurich",
-  "updated": "2026-09-29T12:00:22+02:00",
   "brand_title": "bobbyships X Virality Score",
   "brand_handle": "@bobbyships",
-  "hits": [
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 326738,
-      "url": "https://x.com/levelsio/status/2104225495478948284",
-      "text": "This is getting really good The last thing Claude is bad at now is sound, it always does these \"ticky\" synth sounds that are way worse in quality than the visuals it now produces",
-      "draft": "[dein Modell] nails [Visuals / UI / Code]. The last gap is [Sound / Voice / X].\n\nStill does those [ticky synth / robotic] sounds.\n\nShip the part that is still ugly. That is where the product is.",
-      "draft_en": "[dein Modell] nails [Visuals / UI / Code]. The last gap is [Sound / Voice / X].\n\nStill does those [ticky synth / robotic] sounds.\n\nShip the part that is still ugly. That is where the product is.",
-      "video_tip": "12s: crisp Claude visual → cut to ticky synth waveform → stamp LAST GAP → your fix teaser.",
-      "star": true,
-      "highlight": true,
-      "hook": "Claude visuals crush it; sound is still the gap. Name the unsolved part.",
-      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
-    },
-    {
-      "handle": "@bcherny",
-      "display_name": "Boris Cherny",
-      "name": "Boris Cherny",
-      "views": 307603,
-      "url": "https://x.com/bcherny/status/2104638725317923228",
-      "text": "Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage. [quote @claudeai: Introducing Claude Sonnet 5.5]",
-      "draft": "[Sonnet 5.5 / dein Modell] just fixed [ein Bug] in [Claude Code / dein Tool].\n\n[30%] faster. [30%] less usage.\n\nUpgrade. Run the same task. Screenshot the before/after.",
-      "draft_en": "[Sonnet 5.5 / dein Modell] just fixed [ein Bug] in [Claude Code / dein Tool].\n\n[30%] faster. [30%] less usage.\n\nUpgrade. Run the same task. Screenshot the before/after.",
-      "video_tip": "10s: bug screen → model badge → timer/usage meters drop 30% → your before/after card.",
-      "star": true,
-      "highlight": true,
-      "hook": "Sonnet 5.5 fixes a Claude Code bug: 30% faster, 30% less usage. Receipt + release.",
-      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 291821,
-      "url": "https://x.com/levelsio/status/2104561489784832429",
-      "text": "I think every time AI can do something equally good or better than humans it stops being valuable or special Marketing videos used to take lots of work of editing and motion graphics and a big budget Now with Opus 5.5 etc it costs $0 to make one as good or better That means ANYONE can make a marketing video now, so the timeline gets flooded with these videos (as you see happening now) and people stop caring about them, stop watching them and they stop grabbing attention The response then to still grab attention is be different and that probably means IRL marketing videos that are original and unique and maybe personal It's the grim reaper meme where AI keeps commoditizing another media format and bringing the cost down to close to $0 It already did so for graphic design (2023), last year with Nano Banana for photography (2025), this year with Seedance 2.5 it did it for video (2026) and this and next year motion graphics",
-      "draft": "When AI can do [Marketingvideo / Design / Foto] as good as humans, it stops being special.\n\nCost drops to $0. Timeline floods. Nobody watches.\n\nThe response: be [IRL / personal / weird]. I am shipping [dein original Format] because sameness is free.",
-      "draft_en": "When AI can do [Marketingvideo / Design / Foto] as good as humans, it stops being special.\n\nCost drops to $0. Timeline floods. Nobody watches.\n\nThe response: be [IRL / personal / weird]. I am shipping [dein original Format] because sameness is free.",
-      "video_tip": "14s: $0 price tag on AI video → feed flood montage → cut to your IRL/original clip → CTA.",
-      "star": true,
-      "highlight": true,
-      "hook": "When AI makes a format $0, attention dies. Be different (often IRL).",
-      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
-    },
-    {
-      "handle": "@OfficialLoganK",
-      "display_name": "Logan Kilpatrick",
-      "name": "Logan Kilpatrick",
-      "views": 246133,
-      "url": "https://x.com/OfficialLoganK/status/2104273590879494473",
-      "text": "2027 is the year we will see at scale autonomous revenue (profit?) generating agents / mini-companies already happening at sub scale today with lots of rough edges",
-      "draft": "[2027] is when [autonomous revenue agents / mini-companies] go to scale.\n\nAlready happening at subscale today. Rough edges included.\n\nI am shipping [dein Agent / Tool] toward [eine Zahl € MRR] before the wave is obvious.",
-      "draft_en": "[2027] is when [autonomous revenue agents / mini-companies] go to scale.\n\nAlready happening at subscale today. Rough edges included.\n\nI am shipping [dein Agent / Tool] toward [eine Zahl € MRR] before the wave is obvious.",
-      "video_tip": "10s: calendar flip to 2027 → agent icon minting $ → your tool URL card.",
-      "star": true,
-      "highlight": true,
-      "hook": "2027 = autonomous revenue agents / mini-companies. Date the work shape.",
-      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 203331,
-      "url": "https://x.com/levelsio/status/2104640369367392746",
-      "text": "Yeah I feel having a home gym is a pretty big trend now I think I got sick of going to the local gym because: 1) had to drive there 4 times per week 2) the racks/machines were often busy/used 3) then in middle of my workout a group class would start 4) then OnlyFans girl with inside ass shorts and neon blinking buttplug would walk around scouting for subscribers (true story and a bit distracting) 5) local gym had lots of drama with the owner allegedly not paying his staff and much more Now I just walk downstairs and I got my home gym, and personal trainers comes to our place, never busy, no distractions, no drama Bit less social though but for that we balance out organizing parties",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@leerob",
-      "display_name": "Lee Robinson",
-      "name": "Lee Robinson",
-      "views": 183022,
-      "url": "https://x.com/leerob/status/2104562179131498570",
-      "text": "Congratulations @SpaceX team! This was incredible to see live. The energy here at Starbase is infectious.",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 172015,
-      "url": "https://x.com/levelsio/status/2104301376771932174",
-      "text": "I love this SaaS sales guy wants to do a call @halfdantimm hates calls so he says no Then he vibecodes his own replacement for free!",
-      "draft": "SaaS wants a sales call. I said no.\n\nThen I vibecoded [mein Ersatz] in [Zeit] for free.\n\nCalls optional. Ship first.",
-      "draft_en": "SaaS wants a sales call. I said no.\n\nThen I vibecoded [mein Ersatz] in [Zeit] for free.\n\nCalls optional. Ship first.",
-      "video_tip": "10s: calendar invite DECLINED → terminal vibecode blur → working UI screenshot.",
-      "star": true,
-      "highlight": true,
-      "hook": "Refuse the SaaS call, vibecode the replacement. Indie receipt.",
-      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 135781,
-      "url": "https://x.com/levelsio/status/2104556366673186912",
-      "text": "Lindt has an active lawsuit going against it for elevated levels of lead and cadmium Most interestingly Lindt's lawyers themselves have suggested Lindt is not \"expertly crafted\" or \"excellent\" but that that is just advertising So if even Lindt itself doesn't consider itself good, why should I be eating Lindt chocolate? Now I eat Vivani which sources from Panama which seems cleaner chocolate beans",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 132949,
-      "url": "https://x.com/levelsio/status/2104318653487288455",
-      "text": "I've now fully integrated my new site Hotelist into Hoodmaps So now it lets you tap [ 🏨 Hotels ] and you see all available hotels in the area You can hover over them or tap them and it'll show the same hover tooltip you see on Hotelist, and then when you tap again it opens the hotel Nice to find a good area in a city and then book a place there This was a recommendation by AI to try and monetize Hoodmaps, it gets almost 171,000 vistors per month but never made money in almost a decade, so I asked AI It makes sense cause hotels are something aligned with when you're trying to find the best area in a city and it makes money! It only shows when you click [ 🏨 Hotels ] though, so not annoying",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 92954,
-      "url": "https://x.com/simonw/status/2104682232522944909",
-      "text": "The most important thing about Sonnet 5.5 is that it's now the model that powers the free tier on claude.ai - so all of this stuff can be done by free users ChatGPT's free tier is still GPT-5.6 Luna, which is a lot less capable [quote @claudeai: A thread of early experiments with Claude Sonnet 5.5.]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 91393,
-      "url": "https://x.com/levelsio/status/2104654216677486738",
-      "text": "I think this is true and I do like it Although you have to be VERY careful not to isolate yourself, which does happen once you get rich @csonotes always trolls me for being at home in my \"aquarium\" and he's right, once your home is so great it becomes a prison, so you have to force yourself to go out! We travel a lot of the time though so this is just a home base and it's NICE to be home, but yes you gotta fight the isolation risk",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 73433,
-      "url": "https://x.com/levelsio/status/2104321404850323727",
-      "text": "Also crazy you can see World War 1 and more so World War 2 in the histogram of hotels year built on hotelist.com",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 62918,
-      "url": "https://x.com/simonw/status/2104630129528037415",
-      "text": "I've published detailed notes and an annotated transcript to accompany the video of the keynote I gave at @WeAreDevs World Congress North America in San Jose on Friday - here's my rundown of everything that's happened with LLMs and agents in 2026 so far [link: simonwillison.net — 2026 in LLMs (so far)]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 62703,
-      "url": "https://x.com/levelsio/status/2104630253893144898",
-      "text": "1% more Starlinks today and soon Gigabit internet thanks to this rocket! 🥹",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 53693,
-      "url": "https://x.com/levelsio/status/2104308954830672131",
-      "text": "Usually SaaS sales calls are to gauge how much you can spend and get you to spend the most money you could So it's like maximizing revenue and giving everyone a custom plan More good for businesses than for customers IMHO",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@swyx",
-      "display_name": "swyx",
-      "name": "swyx",
-      "views": 39418,
-      "url": "https://x.com/swyx/status/2104741800393253322",
-      "text": "oai designers have to be trolling us [quote @OpenAI: Get ready.]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 25328,
-      "url": "https://x.com/simonw/status/2104002636513206422",
-      "text": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create this celebratory video for my closing slide",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "@levelsio",
-      "name": "Pieter Levels",
-      "views": 23952,
-      "url": "https://x.com/levelsio/status/2104675521040884081",
-      "text": "Xanadu!",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "Claire Vo",
-      "views": 17172,
-      "url": "https://x.com/clairevo/status/2104405760671441383",
-      "text": "I contain multitudes [image: My 9 Games; quote of @nlevin]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "Claire Vo",
-      "views": 12690,
-      "url": "https://x.com/clairevo/status/2104692897807556822",
-      "text": "we've been very happily testing Team Bots at @cxodev - our favorite is Quincy Quickquote that @zachdavis makes that has access to our CRM, contract platform, and historical quotes to put out custom proposals quickly (see what we did there?) [quote of @bot Team Bots announcement]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "Claire Vo",
-      "views": 11149,
-      "url": "https://x.com/clairevo/status/2104643693588500504",
-      "text": "Jev week is HERE - kicking off with a 30m intro to @typesafeai Jev with yours truly. In this ep I cover: - what is Jev and what makes it different - the 3 types Jev can return - the $100k use case that cost me $0.09 - some fun product ideas to inspire you Consider this your starter Jev ep - with a follow up on Weds with the one, the only @johnlindquist on his 28 (!!!) fun Jev use cases. 👉 Full ep on YT: youtube.com/watch?v=-KIBgp… [quotes own Sep 25 JEV WEEK post; video]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": true,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 7076,
-      "url": "https://x.com/simonw/status/2104630666755441131",
-      "text": "Here's how I define \"Fable class models\" - first Claude Fable 5, now Claude Opus 5.5 and GPT-Astra 6 and maybe GPT-5.6 Sol as well",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": false,
-      "highlight": false,
-      "hook": null
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 5749,
-      "url": "https://x.com/simonw/status/2104774320656646160",
-      "text": "More on Sonnet 5.5 [link: simonwillison.net — Claude Sonnet 5.5]",
-      "draft": null,
-      "draft_en": null,
-      "video_tip": null,
-      "star": false,
-      "highlight": false,
-      "hook": null
-    }
-  ],
-  "virals": [
-    {
-      "handle": "OpenAI",
-      "display_name": "OpenAI",
-      "views": 11951223,
-      "url": "https://x.com/OpenAI/status/2104651136699609518",
-      "text": "Get ready. [video]"
-    },
-    {
-      "handle": "claudeai",
-      "display_name": "Claude",
-      "views": 8468441,
-      "url": "https://x.com/claudeai/status/2104633115620823187",
-      "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It's a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work. [video]"
-    },
-    {
-      "handle": "bot",
-      "display_name": "Grok Bot",
-      "views": 3769671,
-      "url": "https://x.com/bot/status/2104661562715967548",
-      "text": "Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot. [video]"
-    },
-    {
-      "handle": "0xMovez",
-      "display_name": "Movez",
-      "views": 956383,
-      "url": "https://x.com/0xMovez/status/2104216919033192746",
-      "text": "[Article] How to build motion design studio with Opus 5.5 ( Full-course ) — Most people who try motion design with Opus 5.5 end up with the same video: centered text on a gradient, everything fading in, a logo at the end. They don't give it a reference, don't give it a..."
-    },
-    {
-      "handle": "rynorhn",
-      "display_name": "Ryan Orhan",
-      "views": 648485,
-      "url": "https://x.com/rynorhn/status/2104497579463786839",
-      "text": "absolutely fucking insane if true.. google gemini 4 pro apparently beats astra and opus 5.5 by a ridiculous margin. what the fuck has google been cooking! [quotes @JustLingonberry Gemini 4 Pro leak]"
-    },
-    {
-      "handle": "OpenAIDevs",
-      "display_name": "OpenAI Developers",
-      "views": 535141,
-      "url": "https://x.com/OpenAIDevs/status/2104662967677841481",
-      "text": "We saved you a seat. See you tomorrow for the OpenAI DevDay keynote: openai.com/live/ [image]"
-    },
-    {
-      "handle": "AnthropicAI",
-      "display_name": "Anthropic",
-      "views": 490686,
-      "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "text": "Claude Sonnet 5.5 is now available: [quote of @claudeai Sonnet 5.5 launch]"
-    },
-    {
-      "handle": "CNN",
-      "display_name": "CNN",
-      "views": 369204,
-      "url": "https://x.com/CNN/status/2104550198315802625",
-      "text": "Nvidia has launched a new tool to help keep AI agents from going rogue and operating outside the control of humans. [link cnn.com]"
-    },
-    {
-      "handle": "ann_nnng",
-      "display_name": "Ann Nguyen",
-      "views": 308306,
-      "url": "https://x.com/ann_nnng/status/2104159923886244176",
-      "text": "asked Claude Opus 5.5 and GPT-6 Sol to create the glitter sticker effect seems like Opus 5.5 ate this task [video]"
-    },
-    {
-      "handle": "1006_amit7481",
-      "display_name": "Amit Kumar Pandey",
-      "views": 248102,
-      "url": "https://x.com/1006_amit7481/status/2104518984993280492",
-      "text": "BREAKING NEWS! The engineer who built Claude Code from scratch just released a 28-minute video that's pure gold: how to write prompts that deliver ridiculously good results. I've seen $300 courses that don't even come close to what he explains in the first 10 minutes."
-    },
-    {
-      "handle": "HurricaneCrypt0",
-      "display_name": "Hurricane",
-      "views": 231189,
-      "url": "https://x.com/HurricaneCrypt0/status/2104642237501931823",
-      "text": "THIS IS F**KING INSANE this 19 year old makes $453 per DAY, that's $13,540 per month!! All from Claude + YT shorts 100% of what he does is in the video. Bookmark this for later [video; quotes own article on faceless YouTube with Claude]"
-    },
-    {
-      "handle": "AI_Screening",
-      "display_name": "Pranav Reddy",
-      "views": 184001,
-      "url": "https://x.com/AI_Screening/status/2104612559651569851",
-      "text": "Claude sonnet 5.5 vs GPT-6 Astra vs GPT-6 sol >sonnet 5.5 beats GPT-6 sol by a huge margin >sonnet 5.5 is extremely close to GPT-6 Astra [video]"
-    },
-    {
-      "handle": "SidharthVijay_",
-      "display_name": "SidharthVijay",
-      "views": 170760,
-      "url": "https://x.com/SidharthVijay_/status/2104612058960642369",
-      "text": "Gemini 4 Pro benchmark scores after new leaked: [video]"
-    },
-    {
-      "handle": "Amutha74247715",
-      "display_name": "Amutha",
-      "views": 151493,
-      "url": "https://x.com/Amutha74247715/status/2104217603686416591",
-      "text": "தொயரத்த 😂 😂 Gemini ஒரு உபி -னு கதறுவானுங்களே 😂 😂 [video]"
-    },
-    {
-      "handle": "kevin_t_ngo",
-      "display_name": "Kevin Ngo",
-      "views": 150725,
-      "url": "https://x.com/kevin_t_ngo/status/2104675980594098279",
-      "text": "Thank you @claudeai! GIF animated in Python and rendered in Blender. Made with Claude Opus 5.5 + Sonnet 5.5 [quote of @claudeai dinosaurs animation]"
-    },
-    {
-      "handle": "undefinedKi",
-      "display_name": "Yarchi",
-      "views": 133282,
-      "url": "https://x.com/undefinedKi/status/2104656567505211685",
-      "text": "Peter Steinberger, the creator of OpenClaw, open-sourced his entire agent setup The core idea is one folder that every agent on his machines reads from. A single AGENTS.MD holds his rules, and a script symlinks it into ~/.claude/CLAUDE.md and ~/.codex/AGENTS.md This way Claude [image; quotes own article \"The 5 levels of AI agents\"]"
-    },
-    {
-      "handle": "BIGMayrr",
-      "display_name": "Mayor.",
-      "views": 91806,
-      "url": "https://x.com/BIGMayrr/status/2104248577791054241",
-      "text": "THIS IS F**KING GOLD This guy just showed how he's using Claude Code + YouTube to make $98k/month less than 15 minutes worth watching. Bookmark and follow for more [video; quotes @0xrux article]"
-    },
-    {
-      "handle": "LexnLin",
-      "display_name": "Leon Lin",
-      "views": 82206,
-      "url": "https://x.com/LexnLin/status/2104148233106723099",
-      "text": "I asked Claude Code (Opus 5.5) to make a launch video for a fake calendar app and HOLY fuck, everything you see AND hear is code ONE prompt, it cooked for about 8h name, logo, UI, animations, soundtrack, sound effects opensource, repo in replies :) [video]"
-    },
-    {
-      "handle": "sashikantsingh_",
-      "display_name": "Sashi",
-      "views": 76212,
-      "url": "https://x.com/sashikantsingh_/status/2104439666825175480",
-      "text": "The AGI Race Right Now 💀 [video]"
-    },
-    {
-      "handle": "RaphaelAubryy",
-      "display_name": "Raphael aubry",
-      "views": 67602,
-      "url": "https://x.com/RaphaelAubryy/status/2104502744010629269",
-      "text": "[Article] i made 10+ motion videos with opus 5.5 in 3 days. here's the whole pipeline (open source) — Most people trying motion design with Opus 5.5 hit the same wall: the first render is \"mid\": centered text, a gradient, everything fading in..."
-    }
-  ],
-  "outsiders": [
-    {
-      "handle": "OpenAI",
-      "display_name": "OpenAI",
-      "views": 11951223,
-      "url": "https://x.com/OpenAI/status/2104651136699609518",
-      "text": "Get ready. [video]"
-    },
-    {
-      "handle": "claudeai",
-      "display_name": "Claude",
-      "views": 8468441,
-      "url": "https://x.com/claudeai/status/2104633115620823187",
-      "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It's a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work. [video]"
-    },
-    {
-      "handle": "bot",
-      "display_name": "Grok Bot",
-      "views": 3769671,
-      "url": "https://x.com/bot/status/2104661562715967548",
-      "text": "Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot. [video]"
-    },
-    {
-      "handle": "0xMovez",
-      "display_name": "Movez",
-      "views": 956383,
-      "url": "https://x.com/0xMovez/status/2104216919033192746",
-      "text": "[Article] How to build motion design studio with Opus 5.5 ( Full-course ) — Most people who try motion design with Opus 5.5 end up with the same video: centered text on a gradient, everything fading in, a logo at the end. They don't give it a reference, don't give it a..."
-    },
-    {
-      "handle": "rynorhn",
-      "display_name": "Ryan Orhan",
-      "views": 648485,
-      "url": "https://x.com/rynorhn/status/2104497579463786839",
-      "text": "absolutely fucking insane if true.. google gemini 4 pro apparently beats astra and opus 5.5 by a ridiculous margin. what the fuck has google been cooking! [quotes @JustLingonberry Gemini 4 Pro leak]"
-    },
-    {
-      "handle": "OpenAIDevs",
-      "display_name": "OpenAI Developers",
-      "views": 535141,
-      "url": "https://x.com/OpenAIDevs/status/2104662967677841481",
-      "text": "We saved you a seat. See you tomorrow for the OpenAI DevDay keynote: openai.com/live/ [image]"
-    },
-    {
-      "handle": "AnthropicAI",
-      "display_name": "Anthropic",
-      "views": 490686,
-      "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-      "text": "Claude Sonnet 5.5 is now available: [quote of @claudeai Sonnet 5.5 launch]"
-    },
-    {
-      "handle": "CNN",
-      "display_name": "CNN",
-      "views": 369204,
-      "url": "https://x.com/CNN/status/2104550198315802625",
-      "text": "Nvidia has launched a new tool to help keep AI agents from going rogue and operating outside the control of humans. [link cnn.com]"
-    },
-    {
-      "handle": "ann_nnng",
-      "display_name": "Ann Nguyen",
-      "views": 308306,
-      "url": "https://x.com/ann_nnng/status/2104159923886244176",
-      "text": "asked Claude Opus 5.5 and GPT-6 Sol to create the glitter sticker effect seems like Opus 5.5 ate this task [video]"
-    },
-    {
-      "handle": "1006_amit7481",
-      "display_name": "Amit Kumar Pandey",
-      "views": 248102,
-      "url": "https://x.com/1006_amit7481/status/2104518984993280492",
-      "text": "BREAKING NEWS! The engineer who built Claude Code from scratch just released a 28-minute video that's pure gold: how to write prompts that deliver ridiculously good results. I've seen $300 courses that don't even come close to what he explains in the first 10 minutes."
-    },
-    {
-      "handle": "HurricaneCrypt0",
-      "display_name": "Hurricane",
-      "views": 231189,
-      "url": "https://x.com/HurricaneCrypt0/status/2104642237501931823",
-      "text": "THIS IS F**KING INSANE this 19 year old makes $453 per DAY, that's $13,540 per month!! All from Claude + YT shorts 100% of what he does is in the video. Bookmark this for later [video; quotes own article on faceless YouTube with Claude]"
-    },
-    {
-      "handle": "AI_Screening",
-      "display_name": "Pranav Reddy",
-      "views": 184001,
-      "url": "https://x.com/AI_Screening/status/2104612559651569851",
-      "text": "Claude sonnet 5.5 vs GPT-6 Astra vs GPT-6 sol >sonnet 5.5 beats GPT-6 sol by a huge margin >sonnet 5.5 is extremely close to GPT-6 Astra [video]"
-    },
-    {
-      "handle": "SidharthVijay_",
-      "display_name": "SidharthVijay",
-      "views": 170760,
-      "url": "https://x.com/SidharthVijay_/status/2104612058960642369",
-      "text": "Gemini 4 Pro benchmark scores after new leaked: [video]"
-    },
-    {
-      "handle": "Amutha74247715",
-      "display_name": "Amutha",
-      "views": 151493,
-      "url": "https://x.com/Amutha74247715/status/2104217603686416591",
-      "text": "தொயரத்த 😂 😂 Gemini ஒரு உபி -னு கதறுவானுங்களே 😂 😂 [video]"
-    },
-    {
-      "handle": "kevin_t_ngo",
-      "display_name": "Kevin Ngo",
-      "views": 150725,
-      "url": "https://x.com/kevin_t_ngo/status/2104675980594098279",
-      "text": "Thank you @claudeai! GIF animated in Python and rendered in Blender. Made with Claude Opus 5.5 + Sonnet 5.5 [quote of @claudeai dinosaurs animation]"
-    },
-    {
-      "handle": "undefinedKi",
-      "display_name": "Yarchi",
-      "views": 133282,
-      "url": "https://x.com/undefinedKi/status/2104656567505211685",
-      "text": "Peter Steinberger, the creator of OpenClaw, open-sourced his entire agent setup The core idea is one folder that every agent on his machines reads from. A single AGENTS.MD holds his rules, and a script symlinks it into ~/.claude/CLAUDE.md and ~/.codex/AGENTS.md This way Claude [image; quotes own article \"The 5 levels of AI agents\"]"
-    },
-    {
-      "handle": "BIGMayrr",
-      "display_name": "Mayor.",
-      "views": 91806,
-      "url": "https://x.com/BIGMayrr/status/2104248577791054241",
-      "text": "THIS IS F**KING GOLD This guy just showed how he's using Claude Code + YouTube to make $98k/month less than 15 minutes worth watching. Bookmark and follow for more [video; quotes @0xrux article]"
-    },
-    {
-      "handle": "LexnLin",
-      "display_name": "Leon Lin",
-      "views": 82206,
-      "url": "https://x.com/LexnLin/status/2104148233106723099",
-      "text": "I asked Claude Code (Opus 5.5) to make a launch video for a fake calendar app and HOLY fuck, everything you see AND hear is code ONE prompt, it cooked for about 8h name, logo, UI, animations, soundtrack, sound effects opensource, repo in replies :) [video]"
-    },
-    {
-      "handle": "sashikantsingh_",
-      "display_name": "Sashi",
-      "views": 76212,
-      "url": "https://x.com/sashikantsingh_/status/2104439666825175480",
-      "text": "The AGI Race Right Now 💀 [video]"
-    },
-    {
-      "handle": "RaphaelAubryy",
-      "display_name": "Raphael aubry",
-      "views": 67602,
-      "url": "https://x.com/RaphaelAubryy/status/2104502744010629269",
-      "text": "[Article] i made 10+ motion videos with opus 5.5 in 3 days. here's the whole pipeline (open source) — Most people trying motion design with Opus 5.5 hit the same wall: the first render is \"mid\": centered text, a gradient, everything fading in..."
-    },
-    {
-      "handle": "theo",
-      "display_name": "Theo - t3.gg",
-      "views": 55843,
-      "url": "https://x.com/theo/status/2104702156830069234",
-      "text": "Opus 5.5, Grok 4.7, GPT-6 Sol, GPT-6 Astra and Sonnet 5.5 all dropped within a week. So much for \"pacing the frontier\", huh? ...what if I told you this is exactly what pacing looks like? I made a video about it :) [video]"
-    },
-    {
-      "handle": "higgsfield_ai",
-      "display_name": "Higgsfield AI",
-      "views": 40938,
-      "url": "https://x.com/higgsfield_ai/status/2104662114275344474",
-      "text": "Claude Sonnet 5.5 is getting REALLY good at building games. A 40v40 shooter with airstrikes, built with Higgsfield. [video]"
-    }
-  ],
-  "patterns": [
-    "AI commoditizes media formats",
-    "Comparison / night-and-day frame",
-    "Agent as coworker / revenue agents",
-    "Shipping / stay-cringe diary",
-    "Shipping diary / how we did it",
-    "One-shot demo flex",
-    "Release cold open",
-    "Named tool + metric stack",
-    "Harness over model",
-    "Free-tier capability shock",
-    "Benchmark / leak hype",
-    "Soft CTA / builder invite"
-  ],
-  "no_hits": [
-    {
-      "handle": "karpathy",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
-    },
-    {
-      "handle": "mattpocockuk",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
-    },
-    {
-      "handle": "ammaar",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
-    },
-    {
-      "handle": "jxnlco",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
-    }
-  ],
-  "virals_narrative": "Outside the watchlist, the last ~48h is a release-week pileup: (1) platform cold opens (OpenAI \"Get ready\" ~12M, Claude Sonnet 5.5 ~8.5M, Team Bots ~3.8M, DevDay seat drops); (2) Opus/Sonnet demo storm (motion-design studio courses, glitter stickers, Python+Blender GIFs, fake calendar launch videos where every frame is code, faceless YT $453/day stacks); (3) leak/benchmark FOMO (Gemini 4 Pro supposedly crushing Astra/Opus, Sonnet 5.5 vs GPT-6 Astra/Sol charts) plus harness tips (one AGENTS.MD symlinked into every agent). For @bobbyships the transferable move is still ship a named artifact with a timebox and 1-2 hard numbers, or a short commoditize-media / last-gap take (AI flooded the format → do the IRL/original thing), not more launch RT or leak screenshots.",
-  "narrative_synthesis": "Outside the watchlist, the last ~48h is a release-week pileup: (1) platform cold opens (OpenAI \"Get ready\" ~12M, Claude Sonnet 5.5 ~8.5M, Team Bots ~3.8M, DevDay seat drops); (2) Opus/Sonnet demo storm (motion-design studio courses, glitter stickers, Python+Blender GIFs, fake calendar launch videos where every frame is code, faceless YT $453/day stacks); (3) leak/benchmark FOMO (Gemini 4 Pro supposedly crushing Astra/Opus, Sonnet 5.5 vs GPT-6 Astra/Sol charts) plus harness tips (one AGENTS.MD symlinked into every agent). For @bobbyships the transferable move is still ship a named artifact with a timebox and 1-2 hard numbers, or a short commoditize-media / last-gap take (AI flooded the format → do the IRL/original thing), not more launch RT or leak screenshots.",
-  "virals_window": "last ~48h",
-  "virals_target": 20,
-  "hits_count": 23,
-  "outsiders_count": 22,
-  "previous_day": {
-    "date": "2026-09-28",
-    "hits_count": 30,
-    "total_views": 2974614,
-    "x_score": 2974.6
+  "operator": {
+    "handle": "@bobbyships",
+    "name": "bobbyships",
+    "profile_url": "https://x.com/bobbyships"
   },
-  "leaderboards": {
-    "as_of": "2026-09-29",
-    "tracking_start": "2026-09-27",
-    "days_included": [
-      "2026-09-27",
-      "2026-09-28",
-      "2026-09-29"
-    ],
-    "month_days_included": [],
-    "week": {
-      "label": "Rolling week · Sep 27–Sep 29",
-      "range": [
-        "2026-09-27",
-        "2026-09-29"
-      ],
-      "entries": []
-    },
-    "month": {
-      "label": "September 2026 · from Sep 27",
-      "range": [
-        "2026-09-27",
-        "2026-09-29"
-      ],
-      "entries": []
-    }
+  "ui": {
+    "default_theme": "night"
   },
   "board_features": {
     "count_up": true,
@@ -722,114 +25,460 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "operator": {
-    "handle": "@bobbyships",
-    "name": "bobbyships",
-    "profile_url": "https://x.com/bobbyships"
-  },
-  "ui": {
-    "default_theme": "night"
-  },
-  "day_roster": [
+  "date": "2026-09-30",
+  "title": "Daily X narrative digest — 2026-09-30",
+  "updated": "2026-09-30T12:03:43+02:00",
+  "timezone": "Europe/Zurich",
+  "x_score": 1897.2,
+  "total_views": 1897244,
+  "hits_count": 25,
+  "hits": [
+    {
+      "handle": "@mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 402500,
+      "url": "https://x.com/mattpocockuk/status/2105022638368403658",
+      "text": "My top 3 skill makers:\n- @poteto\n- @dexhorthy\n- @emilkowalski\nAlways learn a ton from reading their skills.",
+      "star": true,
+      "highlight": true,
+      "draft": "My top 3 [skill makers / AI builders]:\n- @[handle1]\n- @[handle2]\n- @[handle3]\n\nI steal [eine Technik] from their [skills / repos / posts] every week.",
+      "draft_en": "My top 3 [skill makers / AI builders]:\n- @[handle1]\n- @[handle2]\n- @[handle3]\n\nI steal [eine Technik] from their [skills / repos / posts] every week.",
+      "video_tip": "10s: three profile cards slam in → your one stolen technique on screen → CTA follow them.",
+      "hook": "Name your top 3 skill makers. Concrete handles travel.",
+      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
+    },
+    {
+      "handle": "@bcherny",
+      "display_name": "Boris Cherny",
+      "name": "Boris Cherny",
+      "views": 399964,
+      "url": "https://x.com/bcherny/status/2104638725317923228",
+      "text": "Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage. [quote @claudeai: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.]",
+      "star": true,
+      "highlight": true,
+      "draft": "[Sonnet 5.5 / dein Modell] just fixed [ein Bug] in [Claude Code / dein Tool].\n\n[30%] faster. [30%] less usage.\n\nUpgrade. Run the same task. Screenshot the before/after.",
+      "draft_en": "[Sonnet 5.5 / dein Modell] just fixed [ein Bug] in [Claude Code / dein Tool].\n\n[30%] faster. [30%] less usage.\n\nUpgrade. Run the same task. Screenshot the before/after.",
+      "video_tip": "10s: bug screen → model badge → timer/usage meters drop 30% → your before/after card.",
+      "hook": "Sonnet 5.5 fixes a Claude Code bug: 30% faster, 30% less usage. Receipt + release.",
+      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 100524,
+      "url": "https://x.com/simonw/status/2104978193946124370",
+      "text": "I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes",
+      "star": true,
+      "highlight": true,
+      "draft": "I am live-blogging [OpenAI DevDay / Event] today.\n\nKeynote starts in [5 Minuten]. Updates as they ship.\n\nThread: [dein Link]",
+      "draft_en": "I am live-blogging [OpenAI DevDay / Event] today.\n\nKeynote starts in [5 Minuten]. Updates as they ship.\n\nThread: [dein Link]",
+      "video_tip": "8s: venue/badge shot → LIVE badge → link card to your thread.",
+      "hook": "Live-blog the keynote. Be the feed for people not in the room.",
+      "use_as": "Klammern ausfüllen + Screenshot in X anhängen + posten"
+    },
+    {
+      "handle": "@mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 15900,
+      "url": "https://x.com/mattpocockuk/status/2105212971307667862",
+      "text": "Opus 5.5 has been building animatics for me - draft versions of videos I'm about to film. It walks through the actual lessons, creates stills of what it thinks the learner should see, and narrates them with TTS. It's outrageously useful for planning videos (watch on 2x speed, it talks slow):",
+      "star": true,
+      "highlight": true,
+      "draft": "[Opus 5.5 / dein Modell] just built [Animatics / Storyboards] for [mein Video / meine Lesson].\n\nIt walks the lesson, draws stills, narrates with TTS.\n\nOutrageously useful for planning. I am shipping [dein Workflow] next.",
+      "draft_en": "[Opus 5.5 / dein Modell] just built [Animatics / Storyboards] for [mein Video / meine Lesson].\n\nIt walks the lesson, draws stills, narrates with TTS.\n\nOutrageously useful for planning. I am shipping [dein Workflow] next.",
+      "video_tip": "12s: prompt → stills flipping → TTS waveform → your planning board screenshot.",
+      "hook": "Opus 5.5 builds animatics (stills + TTS) for lesson planning. Demo the workflow.",
+      "use_as": "Klammern ausfüllen + Screen recording in X anhängen + posten"
+    },
+    {
+      "handle": "@clairevo",
+      "display_name": "claire vo 🖤",
+      "name": "claire vo 🖤",
+      "views": 5118,
+      "url": "https://x.com/clairevo/status/2105161312951271886",
+      "text": "I used my codex reset to cut this @OpenAI Dev Day recap, where I cover my favorite releases for the day (spoiler alert: I'm now an expensive Ultrafast girl)\n\nWhat I cover:\n(00:58) Dots: early impressions and rough edges\n(06:57) Spaces: working with humans and agents\n(10:37) Sites, connectors, and sharing internal tools\n(13:06) Models and platform: GPT-6.1 Sol\n(14:36) Decisions API: fast decisions with vision\n(17:17) Astra ultrafast: speed, pricing, and possibilities\n(22:25) Agents API, computer use, plugins, and plan updates\n(23:03) What I’d try first\n\nFull ep on YT: https://t.co/QQ93lymiQM",
+      "star": false,
+      "highlight": true,
+      "draft": "I used [Codex / dein Tool] to cut my [Dev Day / Event] recap.\n\nWhat I cover:\n- [Punkt 1]\n- [Punkt 2]\n- [Punkt 3]\n\nFull ep: [dein Link]",
+      "draft_en": "I used [Codex / dein Tool] to cut my [Dev Day / Event] recap.\n\nWhat I cover:\n- [Punkt 1]\n- [Punkt 2]\n- [Punkt 3]\n\nFull ep: [dein Link]",
+      "video_tip": "12s: timeline scrub with chapter stamps → 3 favorite drops → link card.",
+      "hook": "Codex-cut Dev Day recap with chapter timestamps. Recipe > vibes.",
+      "use_as": "Klammern ausfüllen + Video/YT link in X anhängen + posten"
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 245788,
+      "url": "https://x.com/simonw/status/2104682232522944909",
+      "text": "[quote @claudeai: A thread of early experiments with Claude Sonnet 5.5. A fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@leerob",
+      "display_name": "Lee Robinson",
+      "name": "Lee Robinson",
+      "views": 227100,
+      "url": "https://x.com/leerob/status/2104562179131498570",
+      "text": "Congratulations @SpaceX team! This was incredible to see live. The energy here at Starbase is infectious.",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@leerob",
+      "display_name": "Lee Robinson",
+      "name": "Lee Robinson",
+      "views": 145600,
+      "url": "https://x.com/leerob/status/2105127956742132156",
+      "text": "How could we make @Bot better? Open to any feedback or feature requests! Also... ❤️ this post for a surprise!",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 81160,
+      "url": "https://x.com/simonw/status/2104630129528037415",
+      "text": "2026 in LLMs (so far)",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@swyx",
+      "display_name": "swyx",
+      "name": "swyx",
+      "views": 65538,
+      "url": "https://x.com/swyx/status/2104741800393253322",
+      "text": "oai designers have to be trolling us [quote @OpenAI: Get ready.]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
     {
       "handle": "@levelsio",
-      "name": "@levelsio",
-      "views": 326738,
-      "best_views": 326738,
-      "total_views": 1567809,
+      "display_name": "@levelsio",
+      "name": "Pieter Levels",
+      "views": 38100,
+      "url": "https://x.com/levelsio/status/2105087277206737029",
+      "text": "Great article on increasing solitude of our societies, in this case US but same probably in EU to a lesser extent: \"Derek Thompson's essay \"You Are No Longer Invited to Dinner\" argues that Americans have largely stopped having people over. The headline stat comes from combining the old DDB Needham Life Style surveys Robert Putnam used in *Bowling Alone* with a new replication by Data For Progress. The share of Americans who host friends or family at home at least monthly fell from 42% in 1975 to 12% in 2026, roughly a 70% drop. Most other forms of socializing also fell by double digits over the last 30 years, including cards, bars, sporting events, and volunteering. The decline in hosting was steeper than the much-discussed drop in church attendance. He rules out two comforting explanations. People haven't just moved dinners to restaurants, since solo dining is rising and face-to-face socializing is down overall. They also haven't replaced parties with other social activities. Exercise and travel are up, but exercise is mostly solitary, and time spent at home has jumped sharply since the 2010s. His explanations: 1. Harried dual-earner households. As societies get richer, leisure starts to feel like work, and planning a dinner party is basically unpaid project management. Women historically ran the family social calendar. When they moved into paid work, men didn't take over that job. He admits this can't be the whole story, because total leisure time has actually increased. 2. Intensive parenting. Parents, especially fathers, now spend far more time with their kids, and that time comes out of evenings that used to go to hosting adults. 3. Shrinking friend networks. Close friendships are declining, most sharply among people without college degrees, so hosting is becoming a luxury good. People who never host skew toward independents and non-graduates. He speculates that weaker social ties may lead to weaker party attachment, rather than the other way around. 4. Home is too comfortable. Americans spent almost two extra hours a day at home between 2003 and 2022, much of it on screens and short-form video. His closing idea is a \"Lump of Leisure\" theory, a twist on the Lump of Labor fallacy. Technology hasn't made human work unnecessary, but it has made other people less necessary for fun. Social leisure turns out to be finite and easy to displace. He frames this as a coordination failure rather than a personal one: a dinner party requires schedules, cleaning, food, allergies, and the risk of a dull evening, while TikTok asks nothing of you. A footnote adds that if everyone gets a bit busier, the difficulty of coordinating a get-together rises multiplicatively, so small increases in individual busyness could produce large drops in socializing overall.\" derekthompson.org/p/the-death-of",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@levelsio",
+      "display_name": "@levelsio",
+      "name": "Pieter Levels",
+      "views": 32700,
+      "url": "https://x.com/levelsio/status/2104675521040884081",
+      "text": "Xanadu! [quote @kainex_y: Replying to @levelsio and @csonotes <insert mandatory Xanadu from Citizen Kane reference, with 'Rosebud' obviously being longing for the early nomad life years>]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@clairevo",
+      "display_name": "claire vo 🖤",
+      "name": "claire vo 🖤",
+      "views": 22900,
+      "url": "https://x.com/clairevo/status/2105035967002476933",
+      "text": "I have requested a personal mini-button for home codex use in exchange for my participation 🔘\n\n[quote @rpnickson: Live @thsottiaux reset at Dev Day!!]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 19800,
+      "url": "https://x.com/jxnlco/status/2104929713550713162",
+      "text": "just signed my openai speaker release form, see you at dev day",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 18400,
+      "url": "https://x.com/jxnlco/status/2105172266787213541",
+      "text": "https://t.co/C16N8geFHj\n\n[quote @alexandr_wang: credit where credit is due: they really dodged the butthole allegations]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@swyx",
+      "display_name": "swyx",
+      "name": "swyx",
+      "views": 12244,
+      "url": "https://x.com/swyx/status/2105057391490498660",
+      "text": "annual ranking of best ai podcasts just dropped [quote @unprofeshme: hi friendsss]",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 10220,
+      "url": "https://x.com/simonw/status/2104774320656646160",
+      "text": "More on Sonnet 5.5",
+      "star": true,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 9225,
+      "url": "https://x.com/simonw/status/2104630666755441131",
+      "text": "Here's how I define \"Fable class models\" - first Claude Fable 5, now Claude Opus 5.5 and GPT-Astra 6 and maybe GPT-5.6 Sol as well",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 8177,
+      "url": "https://x.com/jxnlco/status/2105156144696340876",
+      "text": "Moved to SF in March. Can’t wait to experience SF tmr.",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 6693,
+      "url": "https://x.com/jxnlco/status/2104997161285103753",
+      "text": "my dms instantly went from devday ticket requests to modretro chromatic requests",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 6288,
+      "url": "https://x.com/jxnlco/status/2105110762750615793",
+      "text": "Dots and space and multiplayer.",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@clairevo",
+      "display_name": "claire vo 🖤",
+      "name": "claire vo 🖤",
+      "views": 6140,
+      "url": "https://x.com/clairevo/status/2105031374701056120",
+      "text": "Such a treat to hang with @simpsoka to talk sites, infrastructure, and BYO connectors.\n\nSites are more than websites!\n\nNeed inspo?\nCheck awesomesites.ai\n\n[quote @TheCoppinger: Super cool seeing @clairevo & @simpsoka chopping it up for a How I AI podcast episode\n\nUltrafast for gaming is kinda mind bending!]",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@swyx",
+      "display_name": "swyx",
+      "name": "swyx",
+      "views": 5758,
+      "url": "https://x.com/swyx/status/2105000738745376769",
+      "text": "🔜 at the gateway pavilion on a few mins, come by!",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 5731,
+      "url": "https://x.com/jxnlco/status/2105043282015445014",
+      "text": "devday\nyou can find me after my talk\nbefore i black out\n3pm at cowell",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    },
+    {
+      "handle": "@jxnlco",
+      "display_name": "jason",
+      "name": "jason",
+      "views": 5676,
+      "url": "https://x.com/jxnlco/status/2104997972857778432",
+      "text": "If you are at DevDay and want to meet up, come to my talk its the last one at cowell theatre!\n\nI'll be talking about my transition to a multiplayer experience within chatgpt, dot, and space.\n\nand i'll be around that pavilion to meet folks afterwards!",
+      "star": false,
+      "highlight": false,
+      "draft": null,
+      "draft_en": null,
+      "video_tip": null,
+      "hook": null
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@mattpocockuk",
+      "name": "Matt Pocock",
+      "views": 402500,
+      "best_views": 402500,
+      "total_views": 418400,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/levelsio/status/2104225495478948284"
+      "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
     },
     {
       "handle": "@bcherny",
       "name": "Boris Cherny",
-      "views": 307603,
-      "best_views": 307603,
-      "total_views": 307603,
+      "views": 399964,
+      "best_views": 399964,
+      "total_views": 399964,
       "star": true,
       "hit": true,
       "best_url": "https://x.com/bcherny/status/2104638725317923228"
     },
     {
-      "handle": "@OfficialLoganK",
-      "name": "Logan Kilpatrick",
-      "views": 246133,
-      "best_views": 246133,
-      "total_views": 246133,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/OfficialLoganK/status/2104273590879494473"
-    },
-    {
-      "handle": "@leerob",
-      "name": "Lee Robinson",
-      "views": 183022,
-      "best_views": 183022,
-      "total_views": 183022,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/leerob/status/2104562179131498570"
-    },
-    {
       "handle": "@simonw",
       "name": "Simon Willison",
-      "views": 92954,
-      "best_views": 92954,
-      "total_views": 194025,
+      "views": 245788,
+      "best_views": 245788,
+      "total_views": 446917,
       "star": true,
       "hit": true,
       "best_url": "https://x.com/simonw/status/2104682232522944909"
     },
     {
+      "handle": "@leerob",
+      "name": "Lee Robinson",
+      "views": 227100,
+      "best_views": 227100,
+      "total_views": 372700,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/leerob/status/2104562179131498570"
+    },
+    {
       "handle": "@swyx",
       "name": "swyx",
-      "views": 39418,
-      "best_views": 39418,
-      "total_views": 39418,
+      "views": 65538,
+      "best_views": 65538,
+      "total_views": 83540,
       "star": true,
       "hit": true,
       "best_url": "https://x.com/swyx/status/2104741800393253322"
     },
     {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 38100,
+      "best_views": 38100,
+      "total_views": 70800,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/levelsio/status/2105087277206737029"
+    },
+    {
       "handle": "@clairevo",
       "name": "claire vo 🖤",
-      "views": 17172,
-      "best_views": 17172,
-      "total_views": 43709,
+      "views": 22900,
+      "best_views": 22900,
+      "total_views": 34158,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/clairevo/status/2104405760671441383"
-    },
-    {
-      "handle": "@bobbyships",
-      "name": "Bobby | shipping AI tools",
-      "views": 16356,
-      "best_views": 16356,
-      "total_views": 16598,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/bobbyships/status/2104265760289743254"
-    },
-    {
-      "handle": "@ammaar",
-      "name": "Ammaar Reshi",
-      "views": 0,
-      "best_views": 0,
-      "total_views": 0,
-      "star": false,
-      "hit": false,
-      "best_url": "https://x.com/ammaar"
+      "best_url": "https://x.com/clairevo/status/2105035967002476933"
     },
     {
       "handle": "@jxnlco",
       "name": "jason",
-      "views": 0,
-      "best_views": 0,
-      "total_views": 0,
+      "views": 19800,
+      "best_views": 19800,
+      "total_views": 70765,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/jxnlco/status/2104929713550713162"
+    },
+    {
+      "handle": "@bobbyships",
+      "name": "Bobby | shipping AI tools",
+      "views": 20,
+      "best_views": 20,
+      "total_views": 37,
       "star": false,
       "hit": false,
-      "best_url": "https://x.com/jxnlco"
+      "best_url": "https://x.com/bobbyships/status/2105178265333665997"
     },
     {
       "handle": "@karpathy",
@@ -842,31 +491,254 @@
       "best_url": "https://x.com/karpathy"
     },
     {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
+      "handle": "@OfficialLoganK",
+      "name": "Logan Kilpatrick",
       "views": 0,
       "best_views": 0,
       "total_views": 0,
       "star": false,
       "hit": false,
-      "best_url": "https://x.com/mattpocockuk"
+      "best_url": "https://x.com/OfficialLoganK"
+    },
+    {
+      "handle": "@ammaar",
+      "name": "Ammaar Reshi",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": "https://x.com/ammaar"
     }
   ],
+  "roster_note": "One row per person. Sorted by their strongest post today. You = @bobbyships.",
   "you_rank": {
     "handle": "@bobbyships",
     "name": "Bobby | shipping AI tools",
-    "best_views": 16356,
-    "total_views": 16598,
-    "best_url": "https://x.com/bobbyships/status/2104265760289743254",
-    "rank_among_watchlist": 8,
+    "best_views": 20,
+    "total_views": 37,
+    "best_url": "https://x.com/bobbyships/status/2105178265333665997",
+    "rank_among_watchlist": 9,
     "total_accounts": 12,
-    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Map of 2,078 AI repos = 16,356.",
-    "posts_in_window": 4,
-    "vs_5k": "cleared",
-    "vs_10k": "cleared"
+    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Best today = 20 views (XVS desk credit post).",
+    "posts_in_window": 2,
+    "vs_5k": "not yet",
+    "vs_10k": "not yet"
   },
-  "x_score": 2579.0,
-  "total_views": 2579021,
+  "patterns": [
+    "Named curator list / shoutout stack",
+    "Named tool + metric stack",
+    "One-shot demo flex",
+    "Event live-blog / DevDay diary",
+    "Release cold open / tease",
+    "Soft CTA / builder invite",
+    "Shipping diary / how we did it",
+    "Essay / year-so-far roundup"
+  ],
+  "narrative_synthesis": "Pending outsider scout.",
+  "virals_narrative": "Pending outsider scout.",
+  "virals": [],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "outsiders": [],
+  "outsiders_count": 0,
+  "no_hits": [
+    {
+      "handle": "karpathy",
+      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
+      "max_views": 0
+    },
+    {
+      "handle": "OfficialLoganK",
+      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
+      "max_views": 0
+    },
+    {
+      "handle": "ammaar",
+      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
+      "max_views": 0
+    }
+  ],
   "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anhängen.",
-  "roster_note": "One row per person. Sorted by their strongest post today. You = @bobbyships."
+  "previous_day": {
+    "date": "2026-09-29",
+    "hits_count": 23,
+    "total_views": 2579021,
+    "x_score": 2579.0
+  },
+  "leaderboards": {
+    "as_of": "2026-09-30",
+    "tracking_start": "2026-09-27",
+    "days_included": [
+      "2026-09-27",
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30"
+    ],
+    "month_days_included": [
+      "2026-09-30"
+    ],
+    "week": {
+      "label": "Rolling week · Sep 27–Sep 30",
+      "range": [
+        "2026-09-27",
+        "2026-09-30"
+      ],
+      "entries": [
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 5,
+          "days": 1,
+          "views": 446917,
+          "best": 245788,
+          "best_url": "https://x.com/simonw/status/2104682232522944909"
+        },
+        {
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 2,
+          "days": 1,
+          "views": 418400,
+          "best": 402500,
+          "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
+        },
+        {
+          "handle": "@bcherny",
+          "name": "Boris Cherny",
+          "hits": 1,
+          "days": 1,
+          "views": 399964,
+          "best": 399964,
+          "best_url": "https://x.com/bcherny/status/2104638725317923228"
+        },
+        {
+          "handle": "@leerob",
+          "name": "Lee Robinson",
+          "hits": 2,
+          "days": 1,
+          "views": 372700,
+          "best": 227100,
+          "best_url": "https://x.com/leerob/status/2104562179131498570"
+        },
+        {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 3,
+          "days": 1,
+          "views": 83540,
+          "best": 65538,
+          "best_url": "https://x.com/swyx/status/2104741800393253322"
+        },
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 2,
+          "days": 1,
+          "views": 70800,
+          "best": 38100,
+          "best_url": "https://x.com/levelsio/status/2105087277206737029"
+        },
+        {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 7,
+          "days": 1,
+          "views": 70765,
+          "best": 19800,
+          "best_url": "https://x.com/jxnlco/status/2104929713550713162"
+        },
+        {
+          "handle": "@clairevo",
+          "name": "claire vo 🖤",
+          "hits": 3,
+          "days": 1,
+          "views": 34158,
+          "best": 22900,
+          "best_url": "https://x.com/clairevo/status/2105035967002476933"
+        }
+      ]
+    },
+    "month": {
+      "label": "September 2026 · from Sep 30",
+      "range": [
+        "2026-09-30",
+        "2026-09-30"
+      ],
+      "entries": [
+        {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 5,
+          "days": 1,
+          "views": 446917,
+          "best": 245788,
+          "best_url": "https://x.com/simonw/status/2104682232522944909"
+        },
+        {
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 2,
+          "days": 1,
+          "views": 418400,
+          "best": 402500,
+          "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
+        },
+        {
+          "handle": "@bcherny",
+          "name": "Boris Cherny",
+          "hits": 1,
+          "days": 1,
+          "views": 399964,
+          "best": 399964,
+          "best_url": "https://x.com/bcherny/status/2104638725317923228"
+        },
+        {
+          "handle": "@leerob",
+          "name": "Lee Robinson",
+          "hits": 2,
+          "days": 1,
+          "views": 372700,
+          "best": 227100,
+          "best_url": "https://x.com/leerob/status/2104562179131498570"
+        },
+        {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 3,
+          "days": 1,
+          "views": 83540,
+          "best": 65538,
+          "best_url": "https://x.com/swyx/status/2104741800393253322"
+        },
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 2,
+          "days": 1,
+          "views": 70800,
+          "best": 38100,
+          "best_url": "https://x.com/levelsio/status/2105087277206737029"
+        },
+        {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 7,
+          "days": 1,
+          "views": 70765,
+          "best": 19800,
+          "best_url": "https://x.com/jxnlco/status/2104929713550713162"
+        },
+        {
+          "handle": "@clairevo",
+          "name": "claire vo 🖤",
+          "hits": 3,
+          "days": 1,
+          "views": 34158,
+          "best": 22900,
+          "best_url": "https://x.com/clairevo/status/2105035967002476933"
+        }
+      ]
+    }
+  }
 }
