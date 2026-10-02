@@ -25,20 +25,20 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "date": "2026-10-01",
-  "title": "Daily X narrative digest — 2026-10-01",
-  "updated": "2026-10-01T12:23:15+02:00",
+  "date": "2026-10-02",
+  "title": "Daily X narrative digest — 2026-10-02",
+  "updated": "2026-10-02T12:06:04+02:00",
   "timezone": "Europe/Zurich",
-  "x_score": 3831.1,
-  "total_views": 3831091,
-  "hits_count": 40,
+  "x_score": 4329.9,
+  "total_views": 4329906,
+  "hits_count": 16,
   "hits": [
     {
-      "handle": "@OfficialLoganK",
+      "handle": "OfficialLoganK",
       "display_name": "Logan Kilpatrick",
       "name": "Logan Kilpatrick",
-      "views": 1200000,
-      "url": "",
+      "views": 1495739,
+      "url": "https://x.com/OfficialLoganK/status/2105388054274080946",
       "text": "Introducing Gemini 4 Argon, our new frontier model, rolling out to cyber defenders starting today, and more widely as soon as possible. I am really excited by the progress we have made here. Argon is priced at $2 in and $10 out during introductory pricing!",
       "star": true,
       "highlight": true,
@@ -50,44 +50,44 @@
       "use_as": "Klammern ausfüllen + Pricing-Screenshot anhängen"
     },
     {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 520000,
-      "url": "",
-      "text": "Great article on increasing solitude of our societies, in this case US but same probably in EU to a lesser extent:\n\n\"Derek Thompson's essay \"You Are No Longer Invited to Dinner\" argues that Americans have largely stopped having people over.\n\nThe headline stat comes from combining the old DDB Needham Life Style surveys Robert Putnam used in *Bowling Alone* with a new replication by Data For Progress.\n\nThe share of Americans who host friends or family at home at least monthly fell from 42% in 1975 to 12% in 2026, roughly a 70% drop. Most other forms of socializing also fell by double digits over the last 30 years, including cards, bars, sporting events, and volunteering. The decline in hosting was steeper than the much-discussed drop in church attendance.\n\nHe rules out two comforting explanations. People haven't just moved dinners to restaurants, since solo dining is rising and face-to-face socializing is down overall. They also haven't replaced parties with other social activities. Exercise and travel are up, but exercise is mostly solitary, and time spent at home has jumped sharply since the 2010s.\n\nHis explanations:\n\n1. Harried dual-earner households. As societies get richer, leisure starts to feel like work, and planning a dinner party is basically unpaid project management. Women historically ran the family social calendar. When they moved into paid work, men didn't take over that job. He admits this can't be the whole story, because total leisure time has actually increased.\n\n2. Intensive parenting. Parents, especially fathers, now spend far more time with their kids, and that time comes out of evenings that used to go to hosting adults.\n\n3. Shrinking friend networks. Close friendships are declining, most sharply among people without college degrees, so hosting is becoming a luxury good. People who never host skew toward independents and non-graduates. He speculates that weaker social ties may lead to weaker party attachment, rather than the other way around.\n\n4. Home is too comfortable. Americans spent almost two extra hours a day at home between 2003 and 2022, much of it on screens and short-form video.\n\nHis closing idea is a \"Lump of Leisure\" theory, a twist on the Lump of Labor fallacy. Technology hasn't made human work unnecessary, but it has made other people less necessary for fun. Social leisure turns out to be finite and easy to displace.\n\nHe frames this as a coordination failure rather than a personal one: a dinner party requires schedules, cleaning, food, allergies, and the risk of a dull evening, while TikTok asks nothing of you.\n\nA footnote adds that if everyone gets a bit busier, the difficulty of coordinating a get-together rises multiplicatively, so small increases in individual busyness could produce large drops in socializing overall.\"",
+      "handle": "karpathy",
+      "display_name": "Andrej Karpathy",
+      "name": "Andrej Karpathy",
+      "views": 1282293,
+      "url": "https://x.com/karpathy/status/2105819303471976479",
+      "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better: Diagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better: Web pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better: Explainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work! In summary: - As LLMs get better, they will do more and more of the legwork autonomously, and more of our work will rise up the abstractions into oversight and understanding. - Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
       "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
+      "highlight": true,
+      "draft": "As models get better, more of our work becomes oversight.\n\nWhat helps me understand outputs:\n- Ask for [ASD-STE100 / controlled writing]\n- Ask for [Diagrams / images]\n- Ask for output [in HTML]\n- Best: a [3b1b-style] explainer video on [dein Topic]\n\nIntelligence is abundant. I am shipping discardable artifacts for [dein Use-Case].",
+      "draft_en": "As models get better, more of our work becomes oversight.\n\nWhat helps me understand outputs:\n- Ask for [ASD-STE100 / controlled writing]\n- Ask for [Diagrams / images]\n- Ask for output [in HTML]\n- Best: a [3b1b-style] explainer video on [dein Topic]\n\nIntelligence is abundant. I am shipping discardable artifacts for [dein Use-Case].",
+      "video_tip": "12s: ASD tip card → HTML artifact flash → explainer video frame → your topic title.",
+      "pattern_id": "discardable-artifacts",
+      "hook": "Oversight stack: ASD-STE100 → diagrams → HTML → explainer videos. Discardable artifacts win.",
+      "use_as": "Klammern ausfüllen + HTML/Video-Screenshot anhängen"
     },
     {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 359000,
-      "url": "",
-      "text": "We've cut off alcoholics in our friend group before because they are kind of a lethal risk to the tribe\n\nAfter lots of warnings of course\n\nI think being an alcoholic you don't realize slowly all your friends get the fuck out and stop hanging with you because you're such a liability\n\nThis guy in particular was causing havoc by the way, it was getting very weird at parties and the last thing I remember is him spreading his arms in a regular restaurant shouting\n\n\"I LOVE ALCOHOL\"\n\nAnd buying shots for all the staff and forcing them to drink them (the staff did not want to drink shots)\n\nIt was a great decision",
+      "handle": "bcherny",
+      "display_name": "Boris Cherny",
+      "name": "Boris Cherny",
+      "views": 543725,
+      "url": "https://x.com/bcherny/status/2105756563302723721",
+      "text": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others can try your mods too.",
       "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
+      "highlight": true,
+      "draft": "Mods for [Claude / dein Tool] are insane.\n\nPrompt it to work and look the way you want.\nNo reason everyone should share one identical [Claude] UX.\n\nI made [mein Mod], shipped it as a [plugin], and others can try it.\n\nSteal the idea. Customize [dein Workflow] today.",
+      "draft_en": "Mods for [Claude / dein Tool] are insane.\n\nPrompt it to work and look the way you want.\nNo reason everyone should share one identical [Claude] UX.\n\nI made [mein Mod], shipped it as a [plugin], and others can try it.\n\nSteal the idea. Customize [dein Workflow] today.",
+      "video_tip": "10s: before/after Claude UI → mod prompt → Share as plugin button.",
+      "pattern_id": "customize-share-plugins",
+      "hook": "Customize Claude with Mods, then share as plugins so others can try yours.",
+      "use_as": "Klammern ausfüllen + Mod/Plugin-Screenshot anhängen"
     },
     {
-      "handle": "@leerob",
+      "handle": "leerob",
       "display_name": "Lee Robinson",
       "name": "Lee Robinson",
-      "views": 307000,
-      "url": "",
-      "text": "How could we make @Bot better?\n\nOpen to any feedback or feature requests!\n\nAlso... ❤️ this post for a surprise!",
+      "views": 340493,
+      "url": "https://x.com/leerob/status/2105127956742132156",
+      "text": "How could we make @Bot better? Open to any feedback or feature requests! Also... ❤️ this post for a surprise!",
       "star": true,
       "highlight": false,
       "draft": "",
@@ -98,43 +98,27 @@
       "use_as": ""
     },
     {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 128000,
-      "url": "",
-      "text": "Super excited to be interviewing @poteto, live, in ~48 hours on YouTube.\n\nWe'll be nerding out about skills, high-velocity software factories, and learning SOTA techniques for shipping with agents.\n\nThis Friday - 9AM PT. Don't miss it!\n\nyoutube.com/live/MN9dGqmLy...",
+      "handle": "karpathy",
+      "display_name": "Andrej Karpathy",
+      "name": "Andrej Karpathy",
+      "views": 281922,
+      "url": "https://x.com/karpathy/status/2105909609487872075",
+      "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
       "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
+      "highlight": true,
+      "draft": "Cool eval: ask an LLM \"[Land or Water?]\" with a [lat/long] as text.\n\nI ran it [16,200] times and plotted the image.\n\nThe models know. From compressing the internet.\n\nTry it on [dein Modell] and post the map.",
+      "draft_en": "Cool eval: ask an LLM \"[Land or Water?]\" with a [lat/long] as text.\n\nI ran it [16,200] times and plotted the image.\n\nThe models know. From compressing the internet.\n\nTry it on [dein Modell] and post the map.",
+      "video_tip": "10s: prompt card → coordinate stream → final land/water plot zoom.",
+      "pattern_id": "cool-eval-plot",
+      "hook": "Land or Water? 16k lat/long prompts plotted. Simple eval, hard receipt.",
+      "use_as": "Klammern ausfüllen + Plot-Screenshot anhängen"
     },
     {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 123000,
-      "url": "",
-      "text": "When I play Flight Simulator 2024, and I fly crazy for fun, I get overspeed warnings etc. but I just keep flying (with damage off)\n\nIn reality at too high speeds things just start falling off an airplane like here the rudder",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@OfficialLoganK",
+      "handle": "OfficialLoganK",
       "display_name": "Logan Kilpatrick",
       "name": "Logan Kilpatrick",
-      "views": 121000,
-      "url": "",
+      "views": 138881,
+      "url": "https://x.com/OfficialLoganK/status/2105388580394930499",
       "text": "So much work by so many folks across Google to create this model, it is amazing to see the progress here, and just the start! Can't wait for more folks to use Gemini 4 Argon.",
       "star": true,
       "highlight": false,
@@ -146,348 +130,76 @@
       "use_as": ""
     },
     {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 117000,
-      "url": "",
-      "text": "Tesla support excellent as always!\n\nI contacted support at 12:43 noon\n\nI got a reply and it was fixed 12:49, just 5 minutes after!\n\nThis would have taken 3-6 months if it was ever fixed with any traditional utility company",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 116000,
-      "url": "https://x.com/simonw/status/2104978193946124370",
-      "text": "I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes",
-      "star": true,
-      "highlight": true,
-      "draft": "I am live-blogging [OpenAI DevDay / Event] today.\n\nKeynote starts in [5 Minuten]. Updates as they ship.\n\nThread: [dein Link]",
-      "draft_en": "I am live-blogging [OpenAI DevDay / Event] today.\n\nKeynote starts in [5 Minuten]. Updates as they ship.\n\nThread: [dein Link]",
-      "video_tip": "8s: venue/badge shot → LIVE badge → link card to your thread.",
-      "pattern_id": "event-live-blog",
-      "hook": "Live-blog the keynote. Be the feed for people not in the room.",
-      "use_as": "Klammern ausfüllen + Thread-Link"
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 96000,
-      "url": "",
-      "text": "My greatest achievement is getting a 9 month pregnant guy ranked for \"padel body\"\n\nThe world is healing! 🙏",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 68000,
-      "url": "",
-      "text": "I've never seen AI replies be so bad on @X as the last few weeks\n\nEspecially the first few minutes after you post they flood it with AI replies",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 61000,
-      "url": "",
-      "text": "Tesla Home experts I have some funny problem and not sure how to fix\n\nSomehow I have 2x homes in my app\n\nOnly one we actually use, the other one is like a phantom home\n\nWe have 2x Powerwall which is shown in the main home (it says Powerwall - 2x)\n\nThen the phantom home we dont use somehow has our Tesla in it\n\nSo how do I move the Tesla from phantom home into the main home and remove the phantom home?",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 59000,
-      "url": "",
-      "text": "Opus 5.5 has been building animatics for me - draft versions of videos I'm about to film.\n\nIt walks through the actual lessons, creates stills of what it thinks the learner should see, and narrates them with TTS.\n\nIt's outrageously useful for planning videos (watch on 2x speed, slow)",
-      "star": true,
-      "highlight": true,
-      "draft": "[Opus 5.5 / dein Modell] just built [Animatics / Storyboards] for [mein Video / meine Lesson].\n\nIt walks the lesson, draws stills, narrates with TTS.\n\nOutrageously useful for planning. I am shipping [dein Workflow] next.",
-      "draft_en": "[Opus 5.5 / dein Modell] just built [Animatics / Storyboards] for [mein Video / meine Lesson].\n\nIt walks the lesson, draws stills, narrates with TTS.\n\nOutrageously useful for planning. I am shipping [dein Workflow] next.",
-      "video_tip": "12s: prompt → stills flipping → TTS waveform → your planning board screenshot.",
-      "pattern_id": "oneshot-demo",
-      "hook": "Opus 5.5 builds animatics (stills + TTS) for lesson planning. Demo the workflow.",
-      "use_as": "Klammern ausfüllen + Animatic-Clip anhängen"
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 59000,
-      "url": "",
-      "text": "What was the tweet about debt being schuld (guilty) in German and Dutch?",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 49000,
-      "url": "",
-      "text": "Effect feels insanely good to use with agents:\n\n- Typed errors/dependencies power up your type checking\n- DI makes designing good codebases easy\n- Built-ins for EVERYTHING, no agent creativity required\n\nAn outrageous advantage for any non-frontend TS code",
-      "star": true,
-      "highlight": true,
-      "draft": "[Effect / dein Stack] feels insanely good with agents:\n\n- Typed errors power up type checking\n- DI makes good codebases easy\n- Built-ins for [EVERYTHING / dein Domain]\n\nOutrageous advantage for [non-frontend TS / dein Stack].\n\nI am wiring it into [dein Projekt] this week.",
-      "draft_en": "[Effect / dein Stack] feels insanely good with agents:\n\n- Typed errors power up type checking\n- DI makes good codebases easy\n- Built-ins for [EVERYTHING / dein Domain]\n\nOutrageous advantage for [non-frontend TS / dein Stack].\n\nI am wiring it into [dein Projekt] this week.",
-      "video_tip": "10s: three bullet cards slam in → repo screenshot → CTA try Effect.",
-      "pattern_id": "tool-stack",
-      "hook": "Effect + typed errors/DI as an outrageous agent advantage for TS.",
-      "use_as": "Klammern ausfüllen + Code-Screenshot anhängen"
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 49000,
-      "url": "",
-      "text": "Your reminder that the codex app came out in February",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 48000,
-      "url": "",
-      "text": "",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 37000,
-      "url": "",
-      "text": "Trying something new in my course creation process\n\nAnimatics - AI-generated stills + speech (via TTS) that help me see what a video would look like once filmed\n\nI also get the agent to walk through the exercise as I would when I film it.\n\nSlow to create (sequential ATM), but incredibly high-fidelity and amazing for flushing out issues that usually only surface when filming.",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 34000,
-      "url": "",
-      "text": "to be clear you can do almost everything in dot/space with vanilla codex\n\nfor example before those tools i just had\n\n* 15 pinned tasks each with a heart beat automation\n* Github repo for a memory vault based with agents.md files everywhere so all your agents can contribute\n* make sure both your technical and non technically team know about Github and can clone the repo and contribute based on my rules\n\nI just had 4-5 different mini apps served to render artifacts\n\nand then do a bunch of 1:1s to set up the rest of your technical and non technical teams to use this workflow to collaborate and make sure their automations are set up on their computers\n\nor you can be like 'yo dot whats new, lmk'",
-      "star": true,
-      "highlight": true,
-      "draft": "You can do almost everything in [dot/space / Agent-UI] with [vanilla Codex / dein Tool].\n\nMy stack before the fancy UI:\n- [15] pinned tasks with heartbeat\n- Github [memory vault] + agents.md\n- [4-5] mini apps for artifacts\n\nSteal this. Ship [dein Setup] today.",
-      "draft_en": "You can do almost everything in [dot/space / Agent-UI] with [vanilla Codex / dein Tool].\n\nMy stack before the fancy UI:\n- [15] pinned tasks with heartbeat\n- Github [memory vault] + agents.md\n- [4-5] mini apps for artifacts\n\nSteal this. Ship [dein Setup] today.",
-      "video_tip": "12s: pinned-task list → agents.md file tree → one artifact render.",
-      "pattern_id": "shipping-diary",
-      "hook": "Vanilla Codex stack before dots/space: pinned tasks + agents.md vault. Recipe > hype.",
-      "use_as": "Klammern ausfüllen + Screenshot deines Stacks"
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 29000,
-      "url": "",
-      "text": "LMA-O",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@levelsio",
-      "display_name": "levelsio",
-      "name": "levelsio",
-      "views": 24000,
-      "url": "",
-      "text": "Organizing can be cheap or if you want to spend more money on it not so cheap, you can also ask people to bring food to save on costs\n\n@theannalux tracks the nights we organized and we've spent about $5K on it in food for 26 nights (ex coworkings)",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 23000,
-      "url": "",
-      "text": "mattpocock/skills prompt of the day:\n\n/codebase-design Take a look in the repo for shallow modules, applying the deletion test and look for candidates for deletion.\n\nHelps kill unnecessary abstractions.",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 20000,
-      "url": "",
-      "text": "she was straight up looked at me and said, \"I looked sick.\"\n\ni go \"thank you. It's cashmere\"\n\nShe then looked dead in my eyes and said\n\"No, you look ill.\"\n\ni go \"thank you its dev day\"",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 19000,
-      "url": "",
-      "text": "Can someone make a calendar app for codex. I’m off today",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 19000,
-      "url": "",
-      "text": "Moved to SF in March. Can’t wait to experience SF tmr.",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "claire vo 🖤",
-      "views": 18000,
-      "url": "https://x.com/clairevo/status/2105408319150338550",
-      "text": "we must compete with integrity",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 14000,
-      "url": "",
-      "text": "Love this idea that I can just suggest my favorite restaurant and DDoS it with 100,000 agents for bookings and never be able to go to that restaurant again.",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 13000,
-      "url": "",
-      "text": "A year ago I was in the audience of cowell theater thinking about whether I could join OpenAI\n\nNow I’m on stage in that same theatre.\n\nThanks to everyone who made a dev day such a great experience.\n\nI want a world where AI does my laundry and does my dishes so I can make art\n\nAnd all these tools have made it possible\n\nOr at least the work that feels like laundry in the work that feels like art.",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@swyx",
+      "handle": "swyx",
       "display_name": "swyx",
       "name": "swyx",
-      "views": 12000,
+      "views": 84721,
+      "url": "https://x.com/swyx/status/2105538561672085751",
+      "text": "is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in professional tech media",
+      "star": true,
+      "highlight": false,
+      "draft": "",
+      "draft_en": "",
+      "video_tip": "",
+      "pattern_id": "",
+      "hook": "",
+      "use_as": ""
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 44958,
+      "url": "https://x.com/levelsio/status/2105759722175357279",
+      "text": "🇪🇺 EU bankruptcies have now reached the highest level since they started measuring them in 2019 Meanwhile new EU business registrations have been stagnant or decreasing I discovered this after another one of the interior design stores in the Netherlands we bought from suddenly disappeared off the internet, luckily we already received the stuff we ordered (a big stone table) and dodged a bullet Quite expensive stuff and their Trustpilot is full of \"where's my €7000 table\". This is the second interior design store we bought from that went bankrupt just after we received our things, very interesting So I started looking at EU bankruptcies and discovered they're skyrocketing and new business registrations are stagnant or decreasing They really managed to regulate and tax away any existing business while making people give up to even think of starting a business in Europe",
+      "star": true,
+      "highlight": false,
+      "draft": "",
+      "draft_en": "",
+      "video_tip": "",
+      "pattern_id": "",
+      "hook": "",
+      "use_as": ""
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo 🖤",
+      "name": "claire vo 🖤",
+      "views": 40319,
+      "url": "https://x.com/clairevo/status/2105788468777664764",
+      "text": "The NYT article on Anthropic's campaign to sway religious scholars to view Claude as an entity with considerable moral status is both wild and very, very dark; it starts here and just gets nuttier.",
+      "star": true,
+      "highlight": false,
+      "draft": "",
+      "draft_en": "",
+      "video_tip": "",
+      "pattern_id": "",
+      "hook": "",
+      "use_as": ""
+    },
+    {
+      "handle": "swyx",
+      "display_name": "swyx",
+      "name": "swyx",
+      "views": 20330,
+      "url": "https://x.com/swyx/status/2105057391490498660",
+      "text": "annual ranking of best ai podcasts just dropped",
+      "star": true,
+      "highlight": false,
+      "draft": "",
+      "draft_en": "",
+      "video_tip": "",
+      "pattern_id": "",
+      "hook": "",
+      "use_as": ""
+    },
+    {
+      "handle": "swyx",
+      "display_name": "swyx",
+      "name": "swyx",
+      "views": 14713,
       "url": "https://x.com/swyx/status/2105348724331606411",
-      "text": "Flow is doing for hardware engineering what Git+GitHub did for software engineering. It's enabled so much acceleration due to aligning thousands of stakeholders for complex, irreversible, high value pipelines from cars to rockets.\n\nYou cannot go back to spreadsheet_final_FINAL_v23 once you've been in Flow.\n\nproud to be a friend first, and smol investor second.",
+      "text": "Flow is doing for hardware engineering what Git+GitHub did for software engineering. It's enabled so much acceleration due to aligning thousands of stakeholders for complex, irreversible, high value pipelines from cars to rockets. You cannot go back to spreadsheet_final_FINAL_v23 once you've been in Flow. proud to be a friend first, and smol investor second.",
       "star": true,
       "highlight": false,
       "draft": "",
@@ -498,60 +210,12 @@
       "use_as": ""
     },
     {
-      "handle": "@clairevo",
+      "handle": "clairevo",
       "display_name": "claire vo 🖤",
       "name": "claire vo 🖤",
-      "views": 10000,
-      "url": "",
-      "text": "Jev week continues with one of our top returning guests, @johnlindquist, where he shows about a dozen different things you can build with this @typesafeai decision model.\n\nHe shows:\n- multi step routing\n- deduplicating messy data\n- model v model blitz chess\n- a real time presentation coach\n- and so many other ideas to inspire your use of Jev\n\nBrought to you by our wonderful sponsor\n🦄 @TrustVanta Automate compliance and simplify security:\nvanta.com/howiai\n\nA super fun ep that could have gone for hours!\nLive on YT: youtu.be/dAIIepNhqOM",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "claire vo 🖤",
-      "views": 10000,
-      "url": "",
-      "text": "Automaticity and memorization is so important in our fam i told my 7 yo I would buy him a dirt bike helmet if by Halloween he could blast through all ~300 subtraction and addition math facts to 20 with 100% accuracy in under 30 minutes and it took him 4 days (and 19 mins) 😜",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 10000,
-      "url": "",
-      "text": "My dot",
-      "star": true,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 9400,
-      "url": "",
-      "text": "devday\nyou can find me after my talk\nbefore i black out\n3pm at cowell",
+      "views": 9997,
+      "url": "https://x.com/clairevo/status/2105821472073912397",
+      "text": "Relatable",
       "star": false,
       "highlight": false,
       "draft": "",
@@ -562,12 +226,28 @@
       "use_as": ""
     },
     {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 8500,
-      "url": "",
-      "text": "my dms instantly went from devday ticket requests to modretro chromatic requests",
+      "handle": "ammaar",
+      "display_name": "Ammaar Reshi",
+      "name": "Ammaar Reshi",
+      "views": 8938,
+      "url": "https://x.com/ammaar/status/2105388523411194168",
+      "text": "Here's a preview of Gemini 4 Argon's benchmarks. Rolling out to cyber defenders today, and to everyone as soon as possible. Excited to see all the progress and can't wait for you all to use it!",
+      "star": false,
+      "highlight": true,
+      "draft": "Preview of [Gemini 4 Argon] benchmarks.\n\nRolling out to [cyber defenders] today, wider ASAP.\n\nI am checking [dein Benchmark / Use-Case] against this card next.\n\nScreenshot your own scoreboard.",
+      "draft_en": "Preview of [Gemini 4 Argon] benchmarks.\n\nRolling out to [cyber defenders] today, wider ASAP.\n\nI am checking [dein Benchmark / Use-Case] against this card next.\n\nScreenshot your own scoreboard.",
+      "video_tip": "8s: benchmark table zoom → your score row highlight → CTA try Argon.",
+      "pattern_id": "release-cold-open",
+      "hook": "Argon benchmarks preview card. Drop the table, invite a compare.",
+      "use_as": "Klammern ausfüllen + Benchmark-Screenshot anhängen"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 8518,
+      "url": "https://x.com/levelsio/status/2105760137512136753",
+      "text": "The US also has bankruptcy growth since 2022 but there it's actually quite stable if you compare it to 2010-2020, no skyrocketing growth",
       "star": false,
       "highlight": false,
       "draft": "",
@@ -578,44 +258,12 @@
       "use_as": ""
     },
     {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 8000,
-      "url": "",
-      "text": "How did the Dev Day Game Boy idea start?\n\nThere’s something pretty special about making a game and then holding it in your hands.\n\nI’m glad we got to share that feeling with everyone there and wanted to recognize @ko_kuramoto and his team as part of how this started.\n\nThe first inspiration came from seeing Ko Kuramoto’s inventions and exploring ideas with him and the nanu team. I loved the tinkering: taking familiar hardware and asking what else it could do. We talked about connecting Codex to a Game Boy through a remote-control bridge.\n\nx.com/ko_kuramoto/st...\n\nThat part never came together, but I really enjoyed those early conversations.\n\n@dkundel had the idea to do something for DevDay. @DylanAbruscato pushed for every single person attending to get one and @thsottiaux needed little convincing.\n\nThat took us from tinkering with a concept to figuring out how to make thousands.\n\nWe ultimately worked with @modretro to bring it to DevDay, just as these models were getting really good at making games!",
-      "star": false,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 7800,
-      "url": "",
-      "text": "Dots and space and multiplayer.",
-      "star": false,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@swyx",
+      "handle": "swyx",
       "display_name": "swyx",
       "name": "swyx",
-      "views": 6991,
-      "url": "https://x.com/swyx/status/2105000738745376769",
-      "text": "for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🎥 at the gateway pavilion on a few mins, come by!",
+      "views": 7599,
+      "url": "https://x.com/swyx/status/2105560981757931664",
+      "text": "pls support smol creators",
       "star": false,
       "highlight": false,
       "draft": "",
@@ -626,44 +274,12 @@
       "use_as": ""
     },
     {
-      "handle": "@jxnlco",
+      "handle": "jxnlco",
       "display_name": "jason",
       "name": "jason",
-      "views": 6200,
-      "url": "",
-      "text": "should dots be a seperate app?",
-      "star": false,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 6200,
-      "url": "",
-      "text": "If you are at DevDay and want to meet up, come to my talk its the last one at cowell theatre!\n\nI'll be talking about my transition to a multiplayer experience within chatgpt, dot, and space.\n\nand i'll be around that pavilion to meet folks afterwards!",
-      "star": false,
-      "highlight": false,
-      "draft": "",
-      "draft_en": "",
-      "video_tip": "",
-      "pattern_id": "",
-      "hook": "",
-      "use_as": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 6000,
-      "url": "",
-      "text": "",
+      "views": 6760,
+      "url": "https://x.com/jxnlco/status/2105889899283128589",
+      "text": "I think they said this about coding too",
       "star": false,
       "highlight": false,
       "draft": "",
@@ -674,502 +290,654 @@
       "use_as": ""
     }
   ],
-  "day_roster": [
-    {
-      "handle": "@OfficialLoganK",
-      "name": "Logan Kilpatrick",
-      "views": 1200000,
-      "best_views": 1200000,
-      "total_views": 1321000,
-      "star": true,
-      "hit": true,
-      "best_url": ""
-    },
-    {
-      "handle": "@levelsio",
-      "name": "levelsio",
-      "views": 520000,
-      "best_views": 520000,
-      "total_views": 1427000,
-      "star": true,
-      "hit": true,
-      "best_url": ""
-    },
-    {
-      "handle": "@leerob",
-      "name": "Lee Robinson",
-      "views": 307000,
-      "best_views": 307000,
-      "total_views": 307000,
-      "star": true,
-      "hit": true,
-      "best_url": ""
-    },
-    {
-      "handle": "@mattpocockuk",
-      "name": "Matt Pocock",
-      "views": 128000,
-      "best_views": 128000,
-      "total_views": 302000,
-      "star": true,
-      "hit": true,
-      "best_url": ""
-    },
-    {
-      "handle": "@simonw",
-      "name": "Simon Willison",
-      "views": 116000,
-      "best_views": 116000,
-      "total_views": 116000,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/simonw/status/2104978193946124370"
-    },
-    {
-      "handle": "@jxnlco",
-      "name": "jason",
-      "views": 49000,
-      "best_views": 49000,
-      "total_views": 307700,
-      "star": true,
-      "hit": true,
-      "best_url": ""
-    },
-    {
-      "handle": "@clairevo",
-      "name": "claire vo 🖤",
-      "views": 18000,
-      "best_views": 18000,
-      "total_views": 40458,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/clairevo/status/2105408319150338550"
-    },
-    {
-      "handle": "@swyx",
-      "name": "swyx",
-      "views": 12000,
-      "best_views": 12000,
-      "total_views": 25453,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/swyx/status/2105348724331606411"
-    },
-    {
-      "handle": "@bobbyships",
-      "name": "Bobby | shipping AI tools",
-      "views": 25,
-      "best_views": 25,
-      "total_views": 44,
-      "star": false,
-      "hit": false,
-      "best_url": "https://x.com/bobbyships/status/2105178265333665997"
-    },
-    {
-      "handle": "@karpathy",
-      "name": "Andrej Karpathy",
-      "views": 0,
-      "best_views": 0,
-      "total_views": 0,
-      "star": false,
-      "hit": false,
-      "best_url": ""
-    },
-    {
-      "handle": "@bcherny",
-      "name": "Boris Cherny",
-      "views": 0,
-      "best_views": 0,
-      "total_views": 0,
-      "star": false,
-      "hit": false,
-      "best_url": ""
-    },
-    {
-      "handle": "@ammaar",
-      "name": "Ammaar Reshi",
-      "views": 0,
-      "best_views": 0,
-      "total_views": 0,
-      "star": false,
-      "hit": false,
-      "best_url": ""
-    }
-  ],
-  "you_rank": {
-    "handle": "@bobbyships",
-    "name": "Bobby | shipping AI tools",
-    "best_views": 25,
-    "total_views": 44,
-    "best_url": "https://x.com/bobbyships/status/2105178265333665997",
-    "rank_among_watchlist": 9,
-    "total_accounts": 12,
-    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Best today = 25 views (XVS desk credit post).",
-    "posts_in_window": 2,
-    "vs_5k": "not yet",
-    "vs_10k": "not yet"
-  },
   "patterns": [
-    "Release cold open / priced drop",
-    "One-shot demo flex",
-    "Event live-blog / DevDay diary",
-    "Shipping diary / how we did it",
-    "Named tool stack for agents",
-    "Soft CTA / builder invite",
-    "Essay / culture roundup",
-    "Support SLA receipt"
-  ],
-  "narrative_synthesis": "Outside the watchlist, the last ~48h is room-redesign bait, small-business agents, and DevDay leftovers: (1) ChatGPT interior-design prompt packs (~2M) and muse connectors for SMB ops (@alexandr_wang ~648k); (2) always-on agents still dominating the feed — OpenAI dots (AJEnglish/pc_watch), Nvidia agent-safety containment (Forbes/Verge), Hermes budget agents on surplus PCs, Apodex research→task execution; (3) model head-to-heads (Sol vs Sonnet nightmare builds, Terminal-Bench \"jaw dropped\") plus Claude Code money-workflow bait. 14 of 20 outsider URLs were blank in scout (not invented). For @bobbyships the transferable move is a priced release stack (Gemini 4 Argon) or a named demo/recipe (animatics, vanilla codex), not another prompt-pack RT.",
-  "virals_narrative": "Outside the watchlist, the last ~48h is room-redesign bait, small-business agents, and DevDay leftovers: (1) ChatGPT interior-design prompt packs (~2M) and muse connectors for SMB ops (@alexandr_wang ~648k); (2) always-on agents still dominating the feed — OpenAI dots (AJEnglish/pc_watch), Nvidia agent-safety containment (Forbes/Verge), Hermes budget agents on surplus PCs, Apodex research→task execution; (3) model head-to-heads (Sol vs Sonnet nightmare builds, Terminal-Bench \"jaw dropped\") plus Claude Code money-workflow bait. 14 of 20 outsider URLs were blank in scout (not invented). For @bobbyships the transferable move is a priced release stack (Gemini 4 Argon) or a named demo/recipe (animatics, vanilla codex), not another prompt-pack RT.",
-  "virals": [
     {
-      "handle": "free_ai_guides",
-      "display_name": "AI Guides",
-      "views": 2000000,
-      "url": "",
-      "text": "BREAKING NEWS 🚨: ChatGPT can now redesign any room like a $150 per hour interior designer.\n\nUpload one photo of your room and use these 7 prompts:"
+      "id": "discardable-artifacts",
+      "name": "Discardable artifacts / oversight layer",
+      "signals": [
+        "ASD-STE100",
+        "explainer videos",
+        "in HTML",
+        "discardable software artifacts",
+        "oversight and understanding"
+      ],
+      "why_it_travels": "Concrete prompt recipes that climb the abstraction stack. Builders screenshot the tip list.",
+      "examples": [
+        "karpathy: ASD-STE100 → diagrams → HTML → 3b1b explainer videos (~1.28M)"
+      ]
     },
     {
-      "handle": "alexandr_wang",
-      "display_name": "Alexandr Wang",
-      "views": 648000,
-      "url": "",
-      "text": "1/ muse for small businesses 📊\n\nwe found lots of people using muse to run their small business. plumbing businesses, grocery stores, farms, restaurants, and shops.\n\ntoday we’re launching a bunch of connectors to make that easier!"
+      "id": "customize-share-plugins",
+      "name": "Customize + share as plugins",
+      "signals": [
+        "Mods",
+        "customize Claude",
+        "share mods as plugins",
+        "identical Claude experience"
+      ],
+      "why_it_travels": "Personalization + remix. Invite others to try your mod as a plugin.",
+      "examples": [
+        "bcherny: Claude Mods / plugins customize and share (~544k)"
+      ]
     },
     {
-      "handle": "Bober_smart",
-      "display_name": "Bober_smart",
-      "views": 101900,
-      "url": "https://x.com/Bober_smart/status/2104998107750535196",
-      "text": "It blows my mind how few people have implemented this setup. A year ago, this exact system allowed me to automate 90% of my tasks and expand my business\n\nAndrej Karpathy, co-founder of OpenAI, dropped a simple idea that generated 22 million views and 108,000 saves \"stop relying on AI strictly for generating code, and start leveraging it to build a personal second brain\"\n\nThe logic is straightforward:\n\nYou link Claude Code to a specific directory and throw in any reference materials (articles, meeting transcripts, or PDFs) The system analyzes the text, maps out connections, and constructs a living repository of everything you know. It compounds continuously: as you feed it more data, the entire ecosystem becomes significantly smarter\n\nHow it breaks down in practice:\n\nLaunch Obsidian, set up a new repository, and connect it to Claude Code\n\nFeed in the template based on Karpathy's wiki approach and instruct Claude to deploy the architecture"
+      "id": "cool-eval-plot",
+      "name": "Cool eval / geo plot",
+      "signals": [
+        "Land or Water",
+        "latitude and longitude",
+        "plot as image",
+        "16,200"
+      ],
+      "why_it_travels": "Simple prompt + huge N + pretty plot. Receipt of what models compress.",
+      "examples": [
+        "karpathy: Land or Water? 16,200 coords plotted (~282k)"
+      ]
     },
     {
-      "handle": "Forbes",
-      "display_name": "Forbes",
-      "views": 27488,
-      "url": "",
-      "text": "Amid the ongoing debate over AI safety, chipmaker Nvidia launched a new security system that it claims can prevent AI agents from breaching their testing environment — weeks after news broke that OpenAI agents did exactly that in hacking the company Hugging Face. Read more:"
+      "id": "release-cold-open",
+      "name": "Release cold open / priced drop",
+      "signals": [
+        "Introducing Gemini 4 Argon",
+        "priced at",
+        "rolling out",
+        "frontier model"
+      ],
+      "why_it_travels": "Name the model, drop a hard price, stop. Launch-day share fuel.",
+      "examples": [
+        "OfficialLoganK: Gemini 4 Argon at $2 in / $10 out (~1.5M)",
+        "OfficialLoganK follow-up: team shoutout on Argon (~139k)",
+        "ammaar: Argon benchmarks preview (~9k)"
+      ]
     },
     {
-      "handle": "verge",
-      "display_name": "The Verge",
-      "views": 26000,
-      "url": "",
-      "text": "Personal AI hardware has mostly crashed and burned. OpenAI and Meta are counting on two selling points: it’s useful, and it’s cute."
+      "id": "soft-cta-invite",
+      "name": "Soft CTA / builder invite",
+      "signals": [
+        "Open to any feedback",
+        "heart this post",
+        "feature requests"
+      ],
+      "why_it_travels": "Low friction engagement. Thin for Bobby drafts unless paired with a receipt.",
+      "examples": [
+        "leerob: How could we make @Bot better? Heart for a surprise (~340k)"
+      ]
     },
     {
-      "handle": "AJEnglish",
-      "display_name": "Al Jazeera English",
-      "views": 22525,
-      "url": "",
-      "text": "OpenAI has launched an “always-on” personal AI assistant designed to manage tasks ranging from restaurant bookings to website design. aljazeera.com OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ From aljazeera.com"
+      "id": "attribution-smol",
+      "name": "Attribution / support smol creators",
+      "signals": [
+        "crop out other people's logo",
+        "not attribute",
+        "pls support smol creators"
+      ],
+      "why_it_travels": "Tribe call-out. High share in creator circles, low demo ROI for tool shippers.",
+      "examples": [
+        "swyx: logo crop / no attribution (~85k)",
+        "swyx: pls support smol creators (~7.6k)"
+      ]
     },
     {
-      "handle": "DataChaz",
-      "display_name": "Charly Wargnier",
-      "views": 17121,
-      "url": "",
-      "text": "THE PROBLEM WITH MOST AI RESEARCH TOOLS IS SIMPLE: THEY STOP AT RESEARCH. @Apodex_AI 1.1 just dropped and moves reasoning into real task execution. ...and this is where things get interesting! @ArtificialAnlys puts Apodex ahead of major frontier models on agentic work and"
+      "id": "macro-culture",
+      "name": "Macro / culture take",
+      "signals": [
+        "EU bankruptcies",
+        "NYT article",
+        "Anthropic",
+        "moral status"
+      ],
+      "why_it_travels": "Bookmark bait. Saves > shipping unless you attach a tool receipt.",
+      "examples": [
+        "levelsio: EU bankruptcies highest since 2019 (~45k)",
+        "clairevo: NYT Anthropic / Claude moral status (~40k)"
+      ]
     },
     {
-      "handle": "NFT_Chen",
-      "display_name": "SuSu_酥酥 👅",
-      "views": 16323,
-      "url": "",
-      "text": "Sam Altman responds for the first time: OpenAI directly scraps GPT-6.1 Astra! They even decided not to train it at all for safety reasons! He said on CNBC: “We're controlling the pace, which includes sometimes even not training models at all. Alignment, safety, monitoring, and"
-    },
-    {
-      "handle": "siyabuilt",
-      "display_name": "Siya",
-      "views": 15972,
-      "url": "",
-      "text": "I gave the newly released GPT-6.1 Sol and Claude Sonnet 5.5 the same challenge \"Build your worst nightmare\""
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 13635,
-      "url": "https://x.com/pc_watch/status/2105041950244327834",
-      "text": "Runs on cracked-screen Macs and surplus PCs! Start your “budget” miniature AI agent with Hermes Agent pc.watch.impress.co.jp/docs/topic/fea"
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 11157,
-      "url": "https://x.com/pc_watch/status/2105149153697542258",
-      "text": "No longer a virtual human. OpenAI's always-on AI agent \"dots\" pc.watch.impress.co.jp/docs/news/2144"
-    },
-    {
-      "handle": "0xMarioNawfal",
-      "display_name": "0xMarioNawfal",
-      "views": 10159,
-      "url": "",
-      "text": "someone just broke down a Claude Code + YouTube workflow he claims can make up to $62,000/month. the entire setup takes 13 minutes to explain. bookmark this one."
-    },
-    {
-      "handle": "Scobleizer",
-      "display_name": "Robert Scoble",
-      "views": 9452,
-      "url": "",
-      "text": "“How do you advertise to an AI?” @IrenaCronin and I write this newsletter every week. AI agents could reshape advertising by making purchasing decisions based more on price, performance, reliability, and verified data than on emotional marketing. Brands may increasingly"
-    },
-    {
-      "handle": "IsClaudeDownBot",
-      "display_name": "Is Claude Down Today?",
-      "views": 6497,
-      "url": "",
-      "text": "Automated by @eliphatfs Yes. Elevated errors on claude.ai, Claude Code and Claude Cowork — 7:21 AM PDT claude.ai Claude From claude.ai"
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 6250,
-      "url": "",
-      "text": "\"GPT-6.1 Sol\" debuts. Intelligence rivaling Astra at one-fifth the price pc.watch.impress.co.jp/docs/news/2144"
-    },
-    {
-      "handle": "pmddomingos",
-      "display_name": "Pedro Domingos",
-      "views": 4566,
-      "url": "",
-      "text": "\"AlphaFold and Claude are very similar, but we don't worry that AlphaFold will become conscious . . . the fact that we worry about it for Claude says more about us than about it.\""
-    },
-    {
-      "handle": "Aditya_181105",
-      "display_name": "Aditya",
-      "views": 1441,
-      "url": "https://x.com/Aditya_181105/status/2105138082567926185",
-      "text": "VS Code has spent years becoming the default editor for developers. Now AI coding agents are changing how we write code. Will the IDE still matter in five years?"
-    },
-    {
-      "handle": "viktoroddy",
-      "display_name": "Viktor Oddy",
-      "views": 1419,
-      "url": "",
-      "text": "Claude Opus 5.5 vs GPT-6.1 Sol in cinematic web design. Luxury car rental site made with 1 prompt"
-    },
-    {
-      "handle": "JonhernandezIA",
-      "display_name": "Jon Hernandez",
-      "views": 952,
-      "url": "https://x.com/JonhernandezIA/status/2105220104036258241",
-      "text": "👉🏻 DevDay’s sleeper announcement may be GPT-6.1 Sol. Theo ran his own Terminal-Bench 4 tests before independent benchmarks were available. His reaction: “Jaw dropped.” In his Codex setup, GPT-6.1 Sol performed better than Claude Opus 5.5 at roughly 1/30th the cost. A frontier"
-    },
-    {
-      "handle": "sairahul1",
-      "display_name": "Rahul",
-      "views": 918,
-      "url": "https://x.com/sairahul1/status/2105231735109931157",
-      "text": "OpenAI just launched Dots. And this may be the first AI agent you can actually turn into a 24/7 business operator. It can research, create, post, analyze, and repeat on its own. I broke down exactly how to use Dots + GPT-6.1 Sol to make money:"
+      "id": "plugin-land-rush",
+      "name": "Plugin / extension land rush",
+      "signals": [
+        "build a plugin",
+        "ChatGPT plugin",
+        "2000%",
+        "free distribution"
+      ],
+      "why_it_travels": "Platform window FOMO. Outsiders dominate this lane today.",
+      "examples": [
+        "skirano: build a ChatGPT plugin extension (~1.5M)",
+        "gregisenberg: ChatGPT plugin risk/reward playbook (~1.1M)"
+      ]
     }
   ],
   "outsiders": [
     {
-      "handle": "free_ai_guides",
-      "display_name": "AI Guides",
-      "views": 2000000,
-      "url": "",
-      "text": "BREAKING NEWS 🚨: ChatGPT can now redesign any room like a $150 per hour interior designer.\n\nUpload one photo of your room and use these 7 prompts:"
+      "display_name": "Tavus",
+      "handle": "tavus",
+      "views": 12629436,
+      "url": "https://x.com/tavus/status/2105704169009246248",
+      "full_text": "Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate <3%. It is #1 on NVIDIA's benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM).",
+      "timestamp": "16h"
     },
     {
-      "handle": "alexandr_wang",
-      "display_name": "Alexandr Wang",
-      "views": 648000,
-      "url": "",
-      "text": "1/ muse for small businesses 📊\n\nwe found lots of people using muse to run their small business. plumbing businesses, grocery stores, farms, restaurants, and shops.\n\ntoday we’re launching a bunch of connectors to make that easier!"
+      "display_name": "Google",
+      "handle": "Google",
+      "views": 9084360,
+      "url": "https://x.com/Google/status/2105388143902175529",
+      "full_text": "Today we’re introducing Gemini 4 Argon. It delivers frontier performance in complex workflows across real-world software engineering, knowledge work, and cybersecurity defense with an industry-leading 1M token output limit.",
+      "timestamp": "Sep 30"
     },
     {
-      "handle": "Bober_smart",
+      "display_name": "Sundar Pichai",
+      "handle": "sundarpichai",
+      "views": 3607566,
+      "url": "https://x.com/sundarpichai/status/2105387952478277979",
+      "full_text": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon! It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. Here’s a look at the benchmarks:",
+      "timestamp": "Sep 30"
+    },
+    {
+      "display_name": "Tibo",
+      "handle": "thsottiaux",
+      "views": 1656701,
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "full_text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it’s now back to running at expected speeds after the massive load spike in the first two days.",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Pietro Schirano",
+      "handle": "skirano",
+      "views": 1494764,
+      "url": "https://x.com/skirano/status/2105353473118404648",
+      "full_text": "Stop what you’re doing and build a plugin extension for ChatGPT. We’ve grown over 2000% since the announcement!",
+      "timestamp": "Sep 30"
+    },
+    {
+      "display_name": "GREG ISENBERG",
+      "handle": "gregisenberg",
+      "views": 1112931,
+      "url": "https://x.com/gregisenberg/status/2105454208040206773",
+      "full_text": "I literally can't think of a better risk/reward bet right now than building a ChatGPT plugin and getting in front of their 1.2 billion weekly users. As of yesterday, ChatGPT recommends plugins in the middle of conversations. Millions of questions get asked every day with no plugin to recommend. Each one is an empty slot. Facebook apps in 2007. iPhone apps in 2008. TikTok in 2019. Every big platform has a few months where distribution is free, and most people miss it. I saw this firsthand when I lived in SF building venture backed companies. They are sacred times! If I were starting this week: 1. Find a tool or workflow people already Google for or do by hand every week (PDF to Excel, invoice generator, weekly client reports) 2. Build it as a ChatGPT plugin 3. Write the description using the exact phrases people type into ChatGPT 4. Ship 5 of them and see which ones get picked up 5. Double down on the one with the most traction In 12 months these slots will be crowded but right now they’re pretty empty. Most people will realize ChatGPT plugins were the biggest free distribution channel of 2026 sometime in 2027.",
+      "timestamp": "Oct 1"
+    },
+    {
+      "display_name": "GREG ISENBERG",
+      "handle": "gregisenberg",
+      "views": 426735,
+      "url": "https://x.com/gregisenberg/status/2105397216374403561",
+      "full_text": "My first OBSERVATIONS from Sundar’s Gemini 4 Argon announcement: 1. Quantum. Google’s quantum researchers gave Argon a key piece of quantum software to shrink, and in minutes it found a version that needs 40% fewer qubits and operations than the best published human solution. 2. Data center memory. A team of Argon agents read Google’s server data, found waste, and freed over 300 TiB of memory on their own, with up to 1 PiB expected. 3. Rewriting old code. Argon agents are converting Google’s old C and C++ code into Rust, including an 800K-line operating system kernel. 4. Faster than the engineers. On one video decoder, Argon ran 100s of experiments and ended up 2.7x faster than the version Google’s own engineers wrote. 5. Million-token answers. The model’s maximum output went from 64K tokens to 1 million. 6. Two versions of the same model: vetted security teams get Argon with cyber safety limits removed, everyone else gets the restricted one. 7. Wiz used Argon to find a serious security hole in hospital software used worldwide that every earlier model missed. 8. On Harvey’s legal benchmark Argon scored 19.6%, while every other top model was under 7%. 9. Promo pricing launches at $2 in and $10 out per million tokens, about 20% of GPT-6’s price, then doubles. 10. Reused context is 95% off. 11. Google seals Argon’s test environment, watches reasoning live, can stop it mid-task, and asked other labs to keep reasoning readable. 12. The US government gets access before the public through a voluntary review.",
+      "timestamp": "Sep 30"
+    },
+    {
+      "display_name": "Atai Barkai",
+      "handle": "ataiiam",
+      "views": 535061,
+      "url": "https://x.com/ataiiam/status/2105710796198322659",
+      "full_text": "🎉 Introducing 𝙾𝚙𝚎𝚗𝙳𝚘𝚝𝚜 Self-hostable, always-on AI coworkers that works with ANY agent harness. Includes: - Computer use: browser, terminal & files - Bring agents to Slack, Teams etc - Spaces and Pages for projects - Voice calls - Web and Mobile Repo → github.com/CopilotKit/Ope Powered by @CopilotKit and AG-UI. Clone this template and customize it however you want. Enterprise-ready.",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "delost",
+      "handle": "thedelost",
+      "views": 327942,
+      "url": "https://x.com/thedelost/status/2105398038026195279",
+      "full_text": "Codex tip: once GPT-6.1 Sol is your main model, stop running Astra on every turn put Astra on call as an architect agent GPT-6.1 Sol keeps writing the code Astra only gets spawned at three points: → before a plan: is this the right approach? → when the same error comes back: am I digging in the wrong place? → before \"done\": what did I miss? Astra reviews. Sol ships Jev engineering is the same move one layer down: the forks that need no thinker (which file, which tool, retry or stop) go to Jev in under half a second, and the big models only see the ones that split - the full tree > GPT-6.1 Sol on high runs the main session > explorer reads the code on Luna > worker edits and runs tests on Sol > researcher pulls the docs on Luna > all three on medium > Astra on call as the architect > auto_review checks every approval paste the tree and this prompt into Codex ↓ \"Rebuild my Codex setup around this tree: 1. Check ~/.codex/agents and .codex/agents for agents that already fit explorer, worker and researcher. > Draft new TOML files only for missing roles > explorer and researcher on gpt-6-luna, worker on gpt-6.1-sol, all with model_reasoning_effort medium > Add an architect agent on gpt-6-astra, model_reasoning_effort high, whose only job is reviewing plans, repeated errors and finished work > Skip any that pin a different model and list them 2. In ~/.codex/config.toml set model to gpt-6.1-sol, model_reasoning_effort to high and approvals_reviewer to auto_review 3. Find anything that would override this (active profiles, flags in my shell aliases, agents.default_subagent_model). Report it, change nothing 4. Add one rule to AGENTS.md: spawn the architect before a large plan, when an error repeats, and before calling a long task done Show me every change as a diff first. No edits until I say go.\" ↳",
+      "timestamp": "Sep 30"
+    },
+    {
+      "display_name": "monokern",
+      "handle": "monokern",
+      "views": 201480,
+      "url": "https://x.com/monokern/status/2105620115555336227",
+      "full_text": "OpenAI Dots is insane for building a 24/7 AI company... I mapped the whole OpenAI Dots architecture into one paper: agents, models, tools, memory, delegation, guardrails and the revenue layer. Here are the 10 steps: step 1 → stop treating Dots like a chatbot. each Dot runs in a persistent cloud environment with its own browser, terminal, files, memory and scheduled execution. close the laptop and the workflow keeps moving step 2 → hire by responsibility. give every Dot one clear domain, dedicated sources, a working style, an approval boundary and a trigger. a “general helper” has no role, only undefined context step 3 → make one Dot the orchestrator. you give it the objective, it decomposes the work, delegates to specialized agents, checks their outputs and merges everything into one deliverable step 4 → stop being the courier between agents. with isolated delegation, each worker gets only the context and tools it needs, executes in its own environment, then returns a structured result to the orchestrator step 5 → connect the real business stack: cloud browser sessions, Slack, Microsoft Teams, Google Workspace, internal dashboards and APIs. a Dot without tools is still just a conversational layer step 6 → put the company on a clock. recurring routines and event triggers turn one-off tasks into persistent operations. research, monitoring, reporting and pipeline checks can run while nobody is online step 7 → automate the reversible, gate the irreversible. let agents read, research, analyze and draft autonomously, but require human approval before messages send, money moves, records change or production code ships step 8 → route intelligence by cost. keep the strongest model on orchestration, conflict resolution and final audits, and let cheaper high-context models handle background research, classification and repetitive execution step 9 → give the company shared memory. project specs, approved claims, pricing, decisions and requirements live in one persistent workspace, so every agent works from the same source of truth instead of rebuilding context from old chats step 10 → connect the loop to revenue. research finds the signal, outreach creates the opportunity, execution moves the work forward, analytics measures the result and monitoring discovers the next action AI stops being something you open when you need an answer. It becomes an operating layer that keeps economically useful work moving after you log off. Copy the complete OpenAI Dots architecture blueprint, then read the full roadmap below ↓",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "Charlie Hills",
+      "handle": "charliejhills",
+      "views": 175711,
+      "url": "https://x.com/charliejhills/status/2105226228437508496",
+      "full_text": "🚨 Someone just built a library of 389 Opus 5.5 videos. And it’s more than just a video collection. You get: → The original idea → The final result → The prompt used to create it Find a video you like, give it to Claude with your logo, colors, and fonts, and create a version that fits your brand. Link in the comments 👇",
+      "timestamp": "Sep 30"
+    },
+    {
+      "display_name": "Lummox",
+      "handle": "Lummox_eth",
+      "views": 118113,
+      "url": "https://x.com/Lummox_eth/status/2105607355262009622",
+      "full_text": "GitHub is becoming f...cking dangerous for AI agents 10 open-source repos that turn one powerful model into an entire autonomous system 01 LangGraph → stateful agent orchestration 02 PydanticAI → typed agents + structured outputs 03 Mastra → agents + workflows + memory 04 Agno → multi-agent systems 05 Cognee → data → knowledge → agent memory 06 Graphiti → knowledge that changes over time 07 Browser Use → AI agents that operate websites 08 E2B → isolated environments for execution 09 Langfuse → traces + evals + observability 10 DeepEval → test agent behavior before production the architecture: model → context → planner → memory → tools → execution → eval → retry that’s the shift happening on GitHub the best repos aren’t making another chatbot they’re building everything the model needs around it ⭣",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Annatar.md",
+      "handle": "AnnatarXBT",
+      "views": 110642,
+      "url": "https://x.com/AnnatarXBT/status/2105550278359662756",
+      "full_text": "Jev + Claude Opus 5.5... i can’t understand why everyone isn’t wiring this up yet the forks alone drop from about $110 a day to $4 once jev takes them over. right now it’s the best way i know to run opus what jev handles: -> scores which project notes matter before the context even loads -> hands the easy steps to a faster worker -> picks a recovery path when a tool fails, so nothing retries blind -> runs the focused checks before the full test suite opus does the hard reasoning. jev chooses from options the harness already prepared and validated that’s jev engineering in one line: the expensive model thinks, the cheap one decides $106 a day back on the same work is a number your manager remembers read the paper, then the full jev guide below",
+      "timestamp": "Oct 1"
+    },
+    {
+      "display_name": "kiosa",
+      "handle": "thegreatest_sv",
+      "views": 43801,
+      "url": "https://x.com/thegreatest_sv/status/2105674850782036089",
+      "full_text": "Jev dropped barely a week ago and traders are already doing some wild sh*t with it. live order books. real-time signals. trading bots. entire AI hedge funds. here’s what happened: > jev-trader · every ~0.3s asks Jev “buy or sell?” on Monad and trades > jev-trade · reads Hyperliquid order book -> Jev picks -> code sends the order > beebots · 3 OKX trading “bees”; every choice is Jev (paper trading by default) > QuantDinger · full AI trading OS; optional Jev gate = “should we trade at all?” > ai-hedge-fund · multi-agent “fund” with a Jev adapter for fast yes/no calls and that’s the funny part: Jev isn’t here to think. it’s here to make the call. the market moves -> Jev picks LONG / SHORT / HOLD -> code executes. no essays. no chain of thought. no expensive model debating every tiny market move. big models figure out the strategy. Jev handles the split-second calls. code makes it real.",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "NO1ennn",
+      "handle": "N01ennn",
+      "views": 38328,
+      "url": "https://x.com/N01ennn/status/2105606036639932433",
+      "full_text": "this is pure f*cking treasure A Stanford AI research group finally drew the perfect RAG system: retrieval, Jev and agents in one loop, and it fixes the 3 things that break every RAG app: > the LLM reads 20 passages when only 3 matter > it answers questions your docs can’t answer > it trusts whatever text it retrieves here’s how it runs: > a lead agent sends the query > hybrid search pulls the top 20 candidates, dense + keyword > ONE Jev request scores all 20 + 2 gates: answerable? injection? > only passages above 0.6 reach the writer agent > a second Jev call checks every claim against its source > grounded answer, with citations and when the docs don’t have it: > answerable fails, the writer never runs > a researcher agent rewrites the query and retries once > still nothing? “not in the docs”. zero tokens spent on a guess retrieval casts the net. Jev decides what’s real. agents do the work save this before you build your next RAG",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Arjun Shah",
+      "handle": "arjunkshah21",
+      "views": 27910,
+      "url": "https://x.com/arjunkshah21/status/2105520582611886316",
+      "full_text": "Introducing OpenPages. We just killed OpenAI's newest product. OpenPages is the open-source alternative to OpenAI Pages / ChatGPT Space. What you get: - Spaces with living pages + files - workspace agent grounded in your sources - Inbuilt compression with supercompress.dev so you get 65% more usage - MCP so agents can search, read, and create in your Space AND you bring your own inference, with support for a ton of models and providers, like: - your ChatGPT account (no API key required) - OpenAI - Anthropic - Gemini - Ollama, OpenRouter - Groq - Mistral - DeepSeek, and more! 100% Free and Open Source. MIT. Self-host or run locally.",
+      "timestamp": "Oct 1"
+    },
+    {
       "display_name": "Bober_smart",
-      "views": 101900,
-      "url": "https://x.com/Bober_smart/status/2104998107750535196",
-      "text": "It blows my mind how few people have implemented this setup. A year ago, this exact system allowed me to automate 90% of my tasks and expand my business\n\nAndrej Karpathy, co-founder of OpenAI, dropped a simple idea that generated 22 million views and 108,000 saves \"stop relying on AI strictly for generating code, and start leveraging it to build a personal second brain\"\n\nThe logic is straightforward:\n\nYou link Claude Code to a specific directory and throw in any reference materials (articles, meeting transcripts, or PDFs) The system analyzes the text, maps out connections, and constructs a living repository of everything you know. It compounds continuously: as you feed it more data, the entire ecosystem becomes significantly smarter\n\nHow it breaks down in practice:\n\nLaunch Obsidian, set up a new repository, and connect it to Claude Code\n\nFeed in the template based on Karpathy's wiki approach and instruct Claude to deploy the architecture"
+      "handle": "Bober_smart",
+      "views": 41491,
+      "url": "https://x.com/Bober_smart/status/2105394315857965234",
+      "full_text": "1. Create a folder named second-brain on your PC 2. Open Claude Code inside this folder and install GWS CLI (to get access to your Gmail, Calendar, and Drive) 3. Create a subfolder named memory inside the main folder 4. Create a CLAUDE.md file in the main folder and add a rule to save all important details into memory 5. Install Graphify (from GitHub) to connect your notes and build a knowledge graph 6. Install Playwright so Claude can use a web browser 7. Set up skills to combine everything into single-command automations Setup takes about 20 minutes Now Claude is your second brain with long-term memory, email, cloud storage, and web browsing capabilities Detailed instructions in the article below",
+      "timestamp": "Sep 30"
     },
     {
-      "handle": "Forbes",
-      "display_name": "Forbes",
-      "views": 27488,
-      "url": "",
-      "text": "Amid the ongoing debate over AI safety, chipmaker Nvidia launched a new security system that it claims can prevent AI agents from breaching their testing environment — weeks after news broke that OpenAI agents did exactly that in hacking the company Hugging Face. Read more:"
-    },
-    {
-      "handle": "verge",
-      "display_name": "The Verge",
-      "views": 26000,
-      "url": "",
-      "text": "Personal AI hardware has mostly crashed and burned. OpenAI and Meta are counting on two selling points: it’s useful, and it’s cute."
-    },
-    {
-      "handle": "AJEnglish",
-      "display_name": "Al Jazeera English",
-      "views": 22525,
-      "url": "",
-      "text": "OpenAI has launched an “always-on” personal AI assistant designed to manage tasks ranging from restaurant bookings to website design. aljazeera.com OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ From aljazeera.com"
-    },
-    {
-      "handle": "DataChaz",
       "display_name": "Charly Wargnier",
-      "views": 17121,
-      "url": "",
-      "text": "THE PROBLEM WITH MOST AI RESEARCH TOOLS IS SIMPLE: THEY STOP AT RESEARCH. @Apodex_AI 1.1 just dropped and moves reasoning into real task execution. ...and this is where things get interesting! @ArtificialAnlys puts Apodex ahead of major frontier models on agentic work and"
+      "handle": "DataChaz",
+      "views": 13759,
+      "url": "https://x.com/DataChaz/status/2105696307675267209",
+      "full_text": "THIS IS WHAT OPENCLAW SHOULD HAVE BECOME Higgsfield now has computer use inside ChatGPT, powered by GPT-6.1 Sol. and it does it all! > opens your local files > drives the full Higgsfield interface > takes a creative workflow all the way from brief to export on its own look at this run 👇 after a hailstorm, ChatGPT scanned 1,240 roofs from satellite. Then Higgsfield rendered every house with a brand new roof, and a local roofer bought all 12 leads. That’s +$480 by Saturday. You set the goal, and it creates, edits and iterates until the job is done. No Mac mini required :)",
+      "timestamp": "17h"
     },
     {
-      "handle": "NFT_Chen",
-      "display_name": "SuSu_酥酥 👅",
-      "views": 16323,
-      "url": "",
-      "text": "Sam Altman responds for the first time: OpenAI directly scraps GPT-6.1 Astra! They even decided not to train it at all for safety reasons! He said on CNBC: “We're controlling the pace, which includes sometimes even not training models at all. Alignment, safety, monitoring, and"
+      "display_name": "Charly Wargnier",
+      "handle": "DataChaz",
+      "views": 6592,
+      "url": "https://x.com/DataChaz/status/2105372434484363757",
+      "full_text": "Max and his team just built an AI that: > knows your life > texts you first > books restaurants + appointments > orders stuff for you > pays for things > chases refunds > reminds you before you forget Yeah... personal agents are getting interesting very fast",
+      "timestamp": "Sep 30"
     },
     {
-      "handle": "siyabuilt",
-      "display_name": "Siya",
-      "views": 15972,
-      "url": "",
-      "text": "I gave the newly released GPT-6.1 Sol and Claude Sonnet 5.5 the same challenge \"Build your worst nightmare\""
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 13635,
-      "url": "https://x.com/pc_watch/status/2105041950244327834",
-      "text": "Runs on cracked-screen Macs and surplus PCs! Start your “budget” miniature AI agent with Hermes Agent pc.watch.impress.co.jp/docs/topic/fea"
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 11157,
-      "url": "https://x.com/pc_watch/status/2105149153697542258",
-      "text": "No longer a virtual human. OpenAI's always-on AI agent \"dots\" pc.watch.impress.co.jp/docs/news/2144"
-    },
-    {
-      "handle": "0xMarioNawfal",
-      "display_name": "0xMarioNawfal",
-      "views": 10159,
-      "url": "",
-      "text": "someone just broke down a Claude Code + YouTube workflow he claims can make up to $62,000/month. the entire setup takes 13 minutes to explain. bookmark this one."
-    },
-    {
-      "handle": "Scobleizer",
-      "display_name": "Robert Scoble",
-      "views": 9452,
-      "url": "",
-      "text": "“How do you advertise to an AI?” @IrenaCronin and I write this newsletter every week. AI agents could reshape advertising by making purchasing decisions based more on price, performance, reliability, and verified data than on emotional marketing. Brands may increasingly"
-    },
-    {
-      "handle": "IsClaudeDownBot",
-      "display_name": "Is Claude Down Today?",
-      "views": 6497,
-      "url": "",
-      "text": "Automated by @eliphatfs Yes. Elevated errors on claude.ai, Claude Code and Claude Cowork — 7:21 AM PDT claude.ai Claude From claude.ai"
-    },
-    {
-      "handle": "pc_watch",
-      "display_name": "PC Watch",
-      "views": 6250,
-      "url": "",
-      "text": "\"GPT-6.1 Sol\" debuts. Intelligence rivaling Astra at one-fifth the price pc.watch.impress.co.jp/docs/news/2144"
-    },
-    {
-      "handle": "pmddomingos",
-      "display_name": "Pedro Domingos",
-      "views": 4566,
-      "url": "",
-      "text": "\"AlphaFold and Claude are very similar, but we don't worry that AlphaFold will become conscious . . . the fact that we worry about it for Claude says more about us than about it.\""
-    },
-    {
-      "handle": "Aditya_181105",
-      "display_name": "Aditya",
-      "views": 1441,
-      "url": "https://x.com/Aditya_181105/status/2105138082567926185",
-      "text": "VS Code has spent years becoming the default editor for developers. Now AI coding agents are changing how we write code. Will the IDE still matter in five years?"
-    },
-    {
-      "handle": "viktoroddy",
-      "display_name": "Viktor Oddy",
-      "views": 1419,
-      "url": "",
-      "text": "Claude Opus 5.5 vs GPT-6.1 Sol in cinematic web design. Luxury car rental site made with 1 prompt"
-    },
-    {
-      "handle": "JonhernandezIA",
-      "display_name": "Jon Hernandez",
-      "views": 952,
-      "url": "https://x.com/JonhernandezIA/status/2105220104036258241",
-      "text": "👉🏻 DevDay’s sleeper announcement may be GPT-6.1 Sol. Theo ran his own Terminal-Bench 4 tests before independent benchmarks were available. His reaction: “Jaw dropped.” In his Codex setup, GPT-6.1 Sol performed better than Claude Opus 5.5 at roughly 1/30th the cost. A frontier"
-    },
-    {
-      "handle": "sairahul1",
-      "display_name": "Rahul",
-      "views": 918,
-      "url": "https://x.com/sairahul1/status/2105231735109931157",
-      "text": "OpenAI just launched Dots. And this may be the first AI agent you can actually turn into a 24/7 business operator. It can research, create, post, analyze, and repeat on its own. I broke down exactly how to use Dots + GPT-6.1 Sol to make money:"
+      "display_name": "beamnxw ./",
+      "handle": "beamnxw",
+      "views": 10031,
+      "url": "https://x.com/beamnxw/status/2105592304392151109",
+      "full_text": "Jev + LLMs is f*cking insane... this free Jev lab is a clean blueprint for agent builders one support ticket enters. Jev reads the state and answers three typed questions in one call: noul → is it urgent? choice → which team owns it? score → how soon does it need action? then code reads the probabilities. clear, low-risk work flows to the right LLM. ambiguous tickets go to a person. refunds wait for approval. the draft gets checked against policy before it goes out the loop: ticket → typed questions → probabilities → threshold → LLM draft → approval / reply check → shadow run the best part of the lab: you can break the system yourself. set the threshold to zero, remove the “other” choice, watch routing fail, then repair it. the final exercise runs Jev beside existing rules on 40 tickets without letting it act the practical rule: Jev for bounded judgments, an LLM for writing, plain code for hard constraints save this, then read the article below to combine Jev with Dots ⭣",
+      "timestamp": "Oct 1"
     }
   ],
   "outsiders_count": 20,
   "no_hits": [
     {
-      "handle": "karpathy",
+      "handle": "simonw",
       "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
       "max_views": 0
     },
     {
-      "handle": "bcherny",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
-    },
-    {
-      "handle": "ammaar",
-      "reason": "No original Posts-tab posts ≥5k observed in the scrape window (silent / no qualifying posts).",
-      "max_views": 0
+      "handle": "mattpocockuk",
+      "reason": "Posts observed but all under 5,000 views (max=4,655).",
+      "max_views": 4655
     }
   ],
-  "previous_day": {
-    "date": "2026-09-30",
-    "hits_count": 25,
-    "total_views": 1897244,
-    "x_score": 1897.2
+  "you_rank": {
+    "handle": "@bobbyships",
+    "name": "Bobby | shipping AI tools",
+    "best_views": 191,
+    "total_views": 345,
+    "best_url": "https://x.com/bobbyships/status/2105765651616821374",
+    "rank_among_watchlist": 11,
+    "total_accounts": 12,
+    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Best today = 191 views (Ads dashboard post).",
+    "posts_in_window": 4,
+    "vs_5k": "not yet",
+    "vs_10k": "not yet"
   },
-  "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anhängen.",
+  "day_roster": [
+    {
+      "handle": "@OfficialLoganK",
+      "name": "Logan Kilpatrick",
+      "views": 1495739,
+      "best_views": 1495739,
+      "total_views": 1634620,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/OfficialLoganK/status/2105388054274080946"
+    },
+    {
+      "handle": "@karpathy",
+      "name": "Andrej Karpathy",
+      "views": 1282293,
+      "best_views": 1282293,
+      "total_views": 1564215,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/karpathy/status/2105819303471976479"
+    },
+    {
+      "handle": "@bcherny",
+      "name": "Boris Cherny",
+      "views": 543725,
+      "best_views": 543725,
+      "total_views": 543725,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/bcherny/status/2105756563302723721"
+    },
+    {
+      "handle": "@leerob",
+      "name": "Lee Robinson",
+      "views": 340493,
+      "best_views": 340493,
+      "total_views": 340493,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/leerob/status/2105127956742132156"
+    },
+    {
+      "handle": "@swyx",
+      "name": "swyx",
+      "views": 84721,
+      "best_views": 84721,
+      "total_views": 127363,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/swyx/status/2105538561672085751"
+    },
+    {
+      "handle": "@levelsio",
+      "name": "@levelsio",
+      "views": 44958,
+      "best_views": 44958,
+      "total_views": 53476,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/levelsio/status/2105759722175357279"
+    },
+    {
+      "handle": "@clairevo",
+      "name": "claire vo 🖤",
+      "views": 40319,
+      "best_views": 40319,
+      "total_views": 52822,
+      "star": true,
+      "hit": true,
+      "best_url": "https://x.com/clairevo/status/2105788468777664764"
+    },
+    {
+      "handle": "@ammaar",
+      "name": "Ammaar Reshi",
+      "views": 8938,
+      "best_views": 8938,
+      "total_views": 8938,
+      "star": false,
+      "hit": true,
+      "best_url": "https://x.com/ammaar/status/2105388523411194168"
+    },
+    {
+      "handle": "@jxnlco",
+      "name": "jason",
+      "views": 6760,
+      "best_views": 6760,
+      "total_views": 6760,
+      "star": false,
+      "hit": true,
+      "best_url": "https://x.com/jxnlco/status/2105889899283128589"
+    },
+    {
+      "handle": "@mattpocockuk",
+      "name": "Matt Pocock",
+      "views": 4655,
+      "best_views": 4655,
+      "total_views": 9209,
+      "star": false,
+      "hit": false,
+      "best_url": "https://x.com/mattpocockuk/status/2105951409887949107"
+    },
+    {
+      "handle": "@bobbyships",
+      "name": "Bobby | shipping AI tools",
+      "views": 191,
+      "best_views": 191,
+      "total_views": 345,
+      "star": false,
+      "hit": false,
+      "best_url": "https://x.com/bobbyships/status/2105765651616821374"
+    },
+    {
+      "handle": "@simonw",
+      "name": "Simon Willison",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": ""
+    }
+  ],
   "roster_note": "One row per person. Sorted by their strongest post today. You = @bobbyships.",
+  "previous_day": {
+    "date": "2026-10-01",
+    "hits_count": 40,
+    "total_views": 3831091,
+    "x_score": 3831.1
+  },
+  "virals": [
+    {
+      "handle": "tavus",
+      "display_name": "Tavus",
+      "views": 12629436,
+      "url": "https://x.com/tavus/status/2105704169009246248",
+      "text": "Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate <3%. It is #1 on NVIDIA's benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM)."
+    },
+    {
+      "handle": "Google",
+      "display_name": "Google",
+      "views": 9084360,
+      "url": "https://x.com/Google/status/2105388143902175529",
+      "text": "Today we’re introducing Gemini 4 Argon. It delivers frontier performance in complex workflows across real-world software engineering, knowledge work, and cybersecurity defense with an industry-leading 1M token output limit."
+    },
+    {
+      "handle": "sundarpichai",
+      "display_name": "Sundar Pichai",
+      "views": 3607566,
+      "url": "https://x.com/sundarpichai/status/2105387952478277979",
+      "text": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon! It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. Here’s a look at the benchmarks:"
+    },
+    {
+      "handle": "thsottiaux",
+      "display_name": "Tibo",
+      "views": 1656701,
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it’s now back to running at expected speeds after the massive load spike in the first two days."
+    },
+    {
+      "handle": "skirano",
+      "display_name": "Pietro Schirano",
+      "views": 1494764,
+      "url": "https://x.com/skirano/status/2105353473118404648",
+      "text": "Stop what you’re doing and build a plugin extension for ChatGPT. We’ve grown over 2000% since the announcement!"
+    },
+    {
+      "handle": "gregisenberg",
+      "display_name": "GREG ISENBERG",
+      "views": 1112931,
+      "url": "https://x.com/gregisenberg/status/2105454208040206773",
+      "text": "I literally can't think of a better risk/reward bet right now than building a ChatGPT plugin and getting in front of their 1.2 billion weekly users. As of yesterday, ChatGPT recommends plugins in the middle of conversations. Millions of questions get asked every day with no plugin to recommend. Each one is an empty slot. Facebook apps in 2007. iPhone apps in 2008. TikTok in 2019. Every big platform has a few months where distribution is free, and most people miss it. I saw this firsthand when I lived in SF building venture backed companies. They are sacred times! If I were starting this week: 1. Find a tool or workflow people already Google for or do by hand every week (PDF to Excel, invoice generator, weekly client reports) 2. Build it as a ChatGPT plugin 3. Write the description using the exact phrases people type into ChatGPT 4. Ship 5 of them and see which ones get picked up 5. Double down on the one with the most traction In 12 months these slots will be crowded but right now they’re pretty empty. Most people will realize ChatGPT plugins were the biggest free distribution channel of 2026 sometime in 2027."
+    },
+    {
+      "handle": "gregisenberg",
+      "display_name": "GREG ISENBERG",
+      "views": 426735,
+      "url": "https://x.com/gregisenberg/status/2105397216374403561",
+      "text": "My first OBSERVATIONS from Sundar’s Gemini 4 Argon announcement: 1. Quantum. Google’s quantum researchers gave Argon a key piece of quantum software to shrink, and in minutes it found a version that needs 40% fewer qubits and operations than the best published human solution. 2. Data center memory. A team of Argon agents read Google’s server data, found waste, and freed over 300 TiB of memory on their own, with up to 1 PiB expected. 3. Rewriting old code. Argon agents are converting Google’s old C and C++ code into Rust, including an 800K-line operating system kernel. 4. Faster than the engineers. On one video decoder, Argon ran 100s of experiments and ended up 2.7x faster than the version Google’s own engineers wrote. 5. Million-token answers. The model’s maximum output went from 64K tokens to 1 million. 6. Two versions of the same model: vetted security teams get Argon with cyber safety limits removed, everyone else gets the restricted one. 7. Wiz used Argon to find a serious security hole in hospital software used worldwide that every earlier model missed. 8. On Harvey’s legal benchmark Argon scored 19.6%, while every other top model was under 7%. 9. Promo pricing launches at $2 in and $10 out per million tokens, about 20% of GPT-6’s price, then doubles. 10. Reused context is 95% off. 11. Google seals Argon’s test environment, watches reasoning live, can stop it mid-task, and asked other labs to keep reasoning readable. 12. The US government gets access before the public through a voluntary review."
+    },
+    {
+      "handle": "ataiiam",
+      "display_name": "Atai Barkai",
+      "views": 535061,
+      "url": "https://x.com/ataiiam/status/2105710796198322659",
+      "text": "🎉 Introducing 𝙾𝚙𝚎𝚗𝙳𝚘𝚝𝚜 Self-hostable, always-on AI coworkers that works with ANY agent harness. Includes: - Computer use: browser, terminal & files - Bring agents to Slack, Teams etc - Spaces and Pages for projects - Voice calls - Web and Mobile Repo → github.com/CopilotKit/Ope Powered by @CopilotKit and AG-UI. Clone this template and customize it however you want. Enterprise-ready."
+    },
+    {
+      "handle": "thedelost",
+      "display_name": "delost",
+      "views": 327942,
+      "url": "https://x.com/thedelost/status/2105398038026195279",
+      "text": "Codex tip: once GPT-6.1 Sol is your main model, stop running Astra on every turn put Astra on call as an architect agent GPT-6.1 Sol keeps writing the code Astra only gets spawned at three points: → before a plan: is this the right approach? → when the same error comes back: am I digging in the wrong place? → before \"done\": what did I miss? Astra reviews. Sol ships Jev engineering is the same move one layer down: the forks that need no thinker (which file, which tool, retry or stop) go to Jev in under half a second, and the big models only see the ones that split - the full tree > GPT-6.1 Sol on high runs the main session > explorer reads the code on Luna > worker edits and runs tests on Sol > researcher pulls the docs on Luna > all three on medium > Astra on call as the architect > auto_review checks every approval paste the tree and this prompt into Codex ↓ \"Rebuild my Codex setup around this tree: 1. Check ~/.codex/agents and .codex/agents for agents that already fit explorer, worker and researcher. > Draft new TOML files only for missing roles > explorer and researcher on gpt-6-luna, worker on gpt-6.1-sol, all with model_reasoning_effort medium > Add an architect agent on gpt-6-astra, model_reasoning_effort high, whose only job is reviewing plans, repeated errors and finished work > Skip any that pin a different model and list them 2. In ~/.codex/config.toml set model to gpt-6.1-sol, model_reasoning_effort to high and approvals_reviewer to auto_review 3. Find anything that would override this (active profiles, flags in my shell aliases, agents.default_subagent_model). Report it, change nothing 4. Add one rule to AGENTS.md: spawn the architect before a large plan, when an error repeats, and before calling a long task done Show me every change as a diff first. No edits until I say go.\" ↳"
+    },
+    {
+      "handle": "monokern",
+      "display_name": "monokern",
+      "views": 201480,
+      "url": "https://x.com/monokern/status/2105620115555336227",
+      "text": "OpenAI Dots is insane for building a 24/7 AI company... I mapped the whole OpenAI Dots architecture into one paper: agents, models, tools, memory, delegation, guardrails and the revenue layer. Here are the 10 steps: step 1 → stop treating Dots like a chatbot. each Dot runs in a persistent cloud environment with its own browser, terminal, files, memory and scheduled execution. close the laptop and the workflow keeps moving step 2 → hire by responsibility. give every Dot one clear domain, dedicated sources, a working style, an approval boundary and a trigger. a “general helper” has no role, only undefined context step 3 → make one Dot the orchestrator. you give it the objective, it decomposes the work, delegates to specialized agents, checks their outputs and merges everything into one deliverable step 4 → stop being the courier between agents. with isolated delegation, each worker gets only the context and tools it needs, executes in its own environment, then returns a structured result to the orchestrator step 5 → connect the real business stack: cloud browser sessions, Slack, Microsoft Teams, Google Workspace, internal dashboards and APIs. a Dot without tools is still just a conversational layer step 6 → put the company on a clock. recurring routines and event triggers turn one-off tasks into persistent operations. research, monitoring, reporting and pipeline checks can run while nobody is online step 7 → automate the reversible, gate the irreversible. let agents read, research, analyze and draft autonomously, but require human approval before messages send, money moves, records change or production code ships step 8 → route intelligence by cost. keep the strongest model on orchestration, conflict resolution and final audits, and let cheaper high-context models handle background research, classification and repetitive execution step 9 → give the company shared memory. project specs, approved claims, pricing, decisions and requirements live in one persistent workspace, so every agent works from the same source of truth instead of rebuilding context from old chats step 10 → connect the loop to revenue. research finds the signal, outreach creates the opportunity, execution moves the work forward, analytics measures the result and monitoring discovers the next action AI stops being something you open when you need an answer. It becomes an operating layer that keeps economically useful work moving after you log off. Copy the complete OpenAI Dots architecture blueprint, then read the full roadmap below ↓"
+    },
+    {
+      "handle": "charliejhills",
+      "display_name": "Charlie Hills",
+      "views": 175711,
+      "url": "https://x.com/charliejhills/status/2105226228437508496",
+      "text": "🚨 Someone just built a library of 389 Opus 5.5 videos. And it’s more than just a video collection. You get: → The original idea → The final result → The prompt used to create it Find a video you like, give it to Claude with your logo, colors, and fonts, and create a version that fits your brand. Link in the comments 👇"
+    },
+    {
+      "handle": "Lummox_eth",
+      "display_name": "Lummox",
+      "views": 118113,
+      "url": "https://x.com/Lummox_eth/status/2105607355262009622",
+      "text": "GitHub is becoming f...cking dangerous for AI agents 10 open-source repos that turn one powerful model into an entire autonomous system 01 LangGraph → stateful agent orchestration 02 PydanticAI → typed agents + structured outputs 03 Mastra → agents + workflows + memory 04 Agno → multi-agent systems 05 Cognee → data → knowledge → agent memory 06 Graphiti → knowledge that changes over time 07 Browser Use → AI agents that operate websites 08 E2B → isolated environments for execution 09 Langfuse → traces + evals + observability 10 DeepEval → test agent behavior before production the architecture: model → context → planner → memory → tools → execution → eval → retry that’s the shift happening on GitHub the best repos aren’t making another chatbot they’re building everything the model needs around it ⭣"
+    },
+    {
+      "handle": "AnnatarXBT",
+      "display_name": "Annatar.md",
+      "views": 110642,
+      "url": "https://x.com/AnnatarXBT/status/2105550278359662756",
+      "text": "Jev + Claude Opus 5.5... i can’t understand why everyone isn’t wiring this up yet the forks alone drop from about $110 a day to $4 once jev takes them over. right now it’s the best way i know to run opus what jev handles: -> scores which project notes matter before the context even loads -> hands the easy steps to a faster worker -> picks a recovery path when a tool fails, so nothing retries blind -> runs the focused checks before the full test suite opus does the hard reasoning. jev chooses from options the harness already prepared and validated that’s jev engineering in one line: the expensive model thinks, the cheap one decides $106 a day back on the same work is a number your manager remembers read the paper, then the full jev guide below"
+    },
+    {
+      "handle": "thegreatest_sv",
+      "display_name": "kiosa",
+      "views": 43801,
+      "url": "https://x.com/thegreatest_sv/status/2105674850782036089",
+      "text": "Jev dropped barely a week ago and traders are already doing some wild sh*t with it. live order books. real-time signals. trading bots. entire AI hedge funds. here’s what happened: > jev-trader · every ~0.3s asks Jev “buy or sell?” on Monad and trades > jev-trade · reads Hyperliquid order book -> Jev picks -> code sends the order > beebots · 3 OKX trading “bees”; every choice is Jev (paper trading by default) > QuantDinger · full AI trading OS; optional Jev gate = “should we trade at all?” > ai-hedge-fund · multi-agent “fund” with a Jev adapter for fast yes/no calls and that’s the funny part: Jev isn’t here to think. it’s here to make the call. the market moves -> Jev picks LONG / SHORT / HOLD -> code executes. no essays. no chain of thought. no expensive model debating every tiny market move. big models figure out the strategy. Jev handles the split-second calls. code makes it real."
+    },
+    {
+      "handle": "N01ennn",
+      "display_name": "NO1ennn",
+      "views": 38328,
+      "url": "https://x.com/N01ennn/status/2105606036639932433",
+      "text": "this is pure f*cking treasure A Stanford AI research group finally drew the perfect RAG system: retrieval, Jev and agents in one loop, and it fixes the 3 things that break every RAG app: > the LLM reads 20 passages when only 3 matter > it answers questions your docs can’t answer > it trusts whatever text it retrieves here’s how it runs: > a lead agent sends the query > hybrid search pulls the top 20 candidates, dense + keyword > ONE Jev request scores all 20 + 2 gates: answerable? injection? > only passages above 0.6 reach the writer agent > a second Jev call checks every claim against its source > grounded answer, with citations and when the docs don’t have it: > answerable fails, the writer never runs > a researcher agent rewrites the query and retries once > still nothing? “not in the docs”. zero tokens spent on a guess retrieval casts the net. Jev decides what’s real. agents do the work save this before you build your next RAG"
+    },
+    {
+      "handle": "arjunkshah21",
+      "display_name": "Arjun Shah",
+      "views": 27910,
+      "url": "https://x.com/arjunkshah21/status/2105520582611886316",
+      "text": "Introducing OpenPages. We just killed OpenAI's newest product. OpenPages is the open-source alternative to OpenAI Pages / ChatGPT Space. What you get: - Spaces with living pages + files - workspace agent grounded in your sources - Inbuilt compression with supercompress.dev so you get 65% more usage - MCP so agents can search, read, and create in your Space AND you bring your own inference, with support for a ton of models and providers, like: - your ChatGPT account (no API key required) - OpenAI - Anthropic - Gemini - Ollama, OpenRouter - Groq - Mistral - DeepSeek, and more! 100% Free and Open Source. MIT. Self-host or run locally."
+    },
+    {
+      "handle": "Bober_smart",
+      "display_name": "Bober_smart",
+      "views": 41491,
+      "url": "https://x.com/Bober_smart/status/2105394315857965234",
+      "text": "1. Create a folder named second-brain on your PC 2. Open Claude Code inside this folder and install GWS CLI (to get access to your Gmail, Calendar, and Drive) 3. Create a subfolder named memory inside the main folder 4. Create a CLAUDE.md file in the main folder and add a rule to save all important details into memory 5. Install Graphify (from GitHub) to connect your notes and build a knowledge graph 6. Install Playwright so Claude can use a web browser 7. Set up skills to combine everything into single-command automations Setup takes about 20 minutes Now Claude is your second brain with long-term memory, email, cloud storage, and web browsing capabilities Detailed instructions in the article below"
+    },
+    {
+      "handle": "DataChaz",
+      "display_name": "Charly Wargnier",
+      "views": 13759,
+      "url": "https://x.com/DataChaz/status/2105696307675267209",
+      "text": "THIS IS WHAT OPENCLAW SHOULD HAVE BECOME Higgsfield now has computer use inside ChatGPT, powered by GPT-6.1 Sol. and it does it all! > opens your local files > drives the full Higgsfield interface > takes a creative workflow all the way from brief to export on its own look at this run 👇 after a hailstorm, ChatGPT scanned 1,240 roofs from satellite. Then Higgsfield rendered every house with a brand new roof, and a local roofer bought all 12 leads. That’s +$480 by Saturday. You set the goal, and it creates, edits and iterates until the job is done. No Mac mini required :)"
+    },
+    {
+      "handle": "DataChaz",
+      "display_name": "Charly Wargnier",
+      "views": 6592,
+      "url": "https://x.com/DataChaz/status/2105372434484363757",
+      "text": "Max and his team just built an AI that: > knows your life > texts you first > books restaurants + appointments > orders stuff for you > pays for things > chases refunds > reminds you before you forget Yeah... personal agents are getting interesting very fast"
+    },
+    {
+      "handle": "beamnxw",
+      "display_name": "beamnxw ./",
+      "views": 10031,
+      "url": "https://x.com/beamnxw/status/2105592304392151109",
+      "text": "Jev + LLMs is f*cking insane... this free Jev lab is a clean blueprint for agent builders one support ticket enters. Jev reads the state and answers three typed questions in one call: noul → is it urgent? choice → which team owns it? score → how soon does it need action? then code reads the probabilities. clear, low-risk work flows to the right LLM. ambiguous tickets go to a person. refunds wait for approval. the draft gets checked against policy before it goes out the loop: ticket → typed questions → probabilities → threshold → LLM draft → approval / reply check → shadow run the best part of the lab: you can break the system yourself. set the threshold to zero, remove the “other” choice, watch routing fail, then repair it. the final exercise runs Jev beside existing rules on 40 tickets without letting it act the practical rule: Jev for bounded judgments, an LLM for writing, plain code for hard constraints save this, then read the article below to combine Jev with Dots ⭣"
+    }
+  ],
+  "virals_narrative": "Outside the watchlist, the last ~48h is Argon launch fuel plus a ChatGPT plugin land rush: (1) Tavus Griffin claims a video Turing-test pass (~12.6M) while Google and Sundar push Gemini 4 Argon (~9.1M / ~3.6M); (2) skirano and gregisenberg yell build ChatGPT plugins now (~1.5M / ~1.1M) as free distribution; (3) always-on agent stacks keep winning the mid-tier feed (OpenDots, Dots architecture papers, Jev routing + Codex trees, second-brain Claude setups). For @bobbyships the transferable move is a priced release stack or a named demo/artifact (mods-as-plugins, Land/Water eval plot, discardable HTML/video explainers), not another plugin FOMO RT.",
+  "narrative_synthesis": "Outside the watchlist, the last ~48h is Argon launch fuel plus a ChatGPT plugin land rush: (1) Tavus Griffin claims a video Turing-test pass (~12.6M) while Google and Sundar push Gemini 4 Argon (~9.1M / ~3.6M); (2) skirano and gregisenberg yell build ChatGPT plugins now (~1.5M / ~1.1M) as free distribution; (3) always-on agent stacks keep winning the mid-tier feed (OpenDots, Dots architecture papers, Jev routing + Codex trees, second-brain Claude setups). For @bobbyships the transferable move is a priced release stack or a named demo/artifact (mods-as-plugins, Land/Water eval plot, discardable HTML/video explainers), not another plugin FOMO RT.",
   "virals_target": 20,
   "virals_window": "last ~48h",
+  "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anhängen.",
   "leaderboards": {
-    "as_of": "2026-10-01",
+    "as_of": "2026-10-02",
     "tracking_start": "2026-09-27",
     "days_included": [
       "2026-09-27",
       "2026-09-28",
       "2026-09-29",
       "2026-09-30",
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-02"
     ],
     "month_days_included": [
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-02"
     ],
     "week": {
-      "label": "Rolling week · Sep 27–Oct 1",
+      "label": "Rolling week · Sep 27–Oct 2",
       "range": [
         "2026-09-27",
-        "2026-10-01"
+        "2026-10-02"
       ],
       "entries": [
         {
-          "handle": "@levelsio",
-          "name": "levelsio",
-          "hits": 11,
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 4,
           "days": 2,
-          "views": 1497800,
+          "views": 2955620,
+          "best": 1495739,
+          "best_url": "https://x.com/OfficialLoganK/status/2105388054274080946"
+        },
+        {
+          "handle": "@karpathy",
+          "name": "Andrej Karpathy",
+          "hits": 2,
+          "days": 1,
+          "views": 1564215,
+          "best": 1282293,
+          "best_url": "https://x.com/karpathy/status/2105819303471976479"
+        },
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 13,
+          "days": 3,
+          "views": 1551276,
           "best": 520000,
           "best_url": "https://x.com/levelsio/status/2105087277206737029"
         },
         {
-          "handle": "@OfficialLoganK",
-          "name": "Logan Kilpatrick",
+          "handle": "@leerob",
+          "name": "Lee Robinson",
+          "hits": 4,
+          "days": 3,
+          "views": 1020193,
+          "best": 340493,
+          "best_url": "https://x.com/leerob/status/2105127956742132156"
+        },
+        {
+          "handle": "@bcherny",
+          "name": "Boris Cherny",
           "hits": 2,
-          "days": 1,
-          "views": 1321000,
-          "best": 1200000,
-          "best_url": ""
+          "days": 2,
+          "views": 943689,
+          "best": 543725,
+          "best_url": "https://x.com/bcherny/status/2105756563302723721"
         },
         {
           "handle": "@mattpocockuk",
@@ -1181,15 +949,6 @@
           "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
         },
         {
-          "handle": "@leerob",
-          "name": "Lee Robinson",
-          "hits": 3,
-          "days": 2,
-          "views": 679700,
-          "best": 307000,
-          "best_url": "https://x.com/leerob/status/2104562179131498570"
-        },
-        {
           "handle": "@simonw",
           "name": "Simon Willison",
           "hits": 6,
@@ -1199,40 +958,40 @@
           "best_url": "https://x.com/simonw/status/2104682232522944909"
         },
         {
-          "handle": "@bcherny",
-          "name": "Boris Cherny",
-          "hits": 1,
-          "days": 1,
-          "views": 399964,
-          "best": 399964,
-          "best_url": "https://x.com/bcherny/status/2104638725317923228"
-        },
-        {
           "handle": "@jxnlco",
           "name": "jason",
-          "hits": 23,
-          "days": 2,
-          "views": 371865,
+          "hits": 24,
+          "days": 3,
+          "views": 378625,
           "best": 49000,
           "best_url": "https://x.com/jxnlco/status/2104929713550713162"
         },
         {
           "handle": "@swyx",
           "name": "swyx",
-          "hits": 5,
-          "days": 2,
-          "views": 102531,
-          "best": 65538,
-          "best_url": "https://x.com/swyx/status/2104741800393253322"
+          "hits": 9,
+          "days": 3,
+          "views": 229894,
+          "best": 84721,
+          "best_url": "https://x.com/swyx/status/2105538561672085751"
         },
         {
           "handle": "@clairevo",
           "name": "claire vo 🖤",
-          "hits": 6,
-          "days": 2,
-          "views": 72158,
-          "best": 22900,
-          "best_url": "https://x.com/clairevo/status/2105035967002476933"
+          "hits": 8,
+          "days": 3,
+          "views": 122474,
+          "best": 40319,
+          "best_url": "https://x.com/clairevo/status/2105788468777664764"
+        },
+        {
+          "handle": "@ammaar",
+          "name": "Ammaar Reshi",
+          "hits": 1,
+          "days": 1,
+          "views": 8938,
+          "best": 8938,
+          "best_url": "https://x.com/ammaar/status/2105388523411194168"
         }
       ]
     },
@@ -1240,34 +999,61 @@
       "label": "October 2026 · from Oct 1",
       "range": [
         "2026-10-01",
-        "2026-10-01"
+        "2026-10-02"
       ],
       "entries": [
         {
-          "handle": "@levelsio",
-          "name": "levelsio",
-          "hits": 9,
-          "days": 1,
-          "views": 1427000,
-          "best": 520000,
-          "best_url": ""
-        },
-        {
           "handle": "@OfficialLoganK",
           "name": "Logan Kilpatrick",
+          "hits": 4,
+          "days": 2,
+          "views": 2955620,
+          "best": 1495739,
+          "best_url": "https://x.com/OfficialLoganK/status/2105388054274080946"
+        },
+        {
+          "handle": "@karpathy",
+          "name": "Andrej Karpathy",
           "hits": 2,
           "days": 1,
-          "views": 1321000,
-          "best": 1200000,
+          "views": 1564215,
+          "best": 1282293,
+          "best_url": "https://x.com/karpathy/status/2105819303471976479"
+        },
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 11,
+          "days": 2,
+          "views": 1480476,
+          "best": 520000,
           "best_url": ""
         },
         {
           "handle": "@leerob",
           "name": "Lee Robinson",
+          "hits": 2,
+          "days": 2,
+          "views": 647493,
+          "best": 340493,
+          "best_url": "https://x.com/leerob/status/2105127956742132156"
+        },
+        {
+          "handle": "@bcherny",
+          "name": "Boris Cherny",
           "hits": 1,
           "days": 1,
-          "views": 307000,
-          "best": 307000,
+          "views": 543725,
+          "best": 543725,
+          "best_url": "https://x.com/bcherny/status/2105756563302723721"
+        },
+        {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 17,
+          "days": 2,
+          "views": 307860,
+          "best": 49000,
           "best_url": ""
         },
         {
@@ -1280,13 +1066,13 @@
           "best_url": ""
         },
         {
-          "handle": "@jxnlco",
-          "name": "jason",
-          "hits": 16,
-          "days": 1,
-          "views": 301100,
-          "best": 49000,
-          "best_url": ""
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 6,
+          "days": 2,
+          "views": 146354,
+          "best": 84721,
+          "best_url": "https://x.com/swyx/status/2105538561672085751"
         },
         {
           "handle": "@simonw",
@@ -1300,20 +1086,20 @@
         {
           "handle": "@clairevo",
           "name": "claire vo 🖤",
-          "hits": 3,
-          "days": 1,
-          "views": 38000,
-          "best": 18000,
-          "best_url": "https://x.com/clairevo/status/2105408319150338550"
+          "hits": 5,
+          "days": 2,
+          "views": 88316,
+          "best": 40319,
+          "best_url": "https://x.com/clairevo/status/2105788468777664764"
         },
         {
-          "handle": "@swyx",
-          "name": "swyx",
-          "hits": 2,
+          "handle": "@ammaar",
+          "name": "Ammaar Reshi",
+          "hits": 1,
           "days": 1,
-          "views": 18991,
-          "best": 12000,
-          "best_url": "https://x.com/swyx/status/2105348724331606411"
+          "views": 8938,
+          "best": 8938,
+          "best_url": "https://x.com/ammaar/status/2105388523411194168"
         }
       ]
     }
