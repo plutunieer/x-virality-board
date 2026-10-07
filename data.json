@@ -25,559 +25,688 @@
     "no_hits_reasons": true,
     "marker_class": "xvs-dash-2026"
   },
-  "date": "2026-10-05",
-  "title": "Daily X narrative digest — 2026-10-05",
-  "updated": "2026-10-05T11:54:23+02:00",
+  "date": "2026-10-06",
+  "title": "Daily X narrative digest — 2026-10-06",
+  "updated": "2026-10-06T11:43:50+02:00",
   "timezone": "Europe/Zurich",
-  "x_score": 2005.3,
-  "total_views": 2005252,
-  "hits_count": 16,
+  "x_score": 3560.2,
+  "total_views": 3560200,
+  "hits_count": 28,
   "hits": [
     {
       "handle": "levelsio",
       "display_name": "@levelsio",
       "name": "@levelsio",
-      "views": 644175,
-      "url": "https://x.com/levelsio/status/2106376810305040731",
-      "text": "This is great and another example of city states attracting all the skilled Europeans with better living, working and regulatory conditions! [quotes @suraj_sharma14: Startup Qatar up to $5.5M]",
-      "full_text": "This is great and another example of city states attracting all the skilled Europeans with better living, working and regulatory conditions! [quotes @suraj_sharma14: Startup Qatar up to $5.5M]",
+      "views": 1900000,
+      "url": "https://x.com/levelsio/status/2107055382459732293",
+      "text": "Airbnb's entire rating scale is now 4.5 to 5.0. You can't make this up [quoting @levelsio (Aug 24): Airbnb deletes negative reviews so everything is always 4.7...]",
+      "full_text": "Airbnb's entire rating scale is now 4.5 to 5.0. You can't make this up [quoting @levelsio (Aug 24): Airbnb deletes negative reviews so everything is always 4.7...]",
+      "star": true,
+      "highlight": true,
+      "timestamp": "23h",
+      "draft": "[Metrik] now only ranges from [X] to [Y].\n\nI pulled [Zahl] [Posts / Reviews / Benchmarks] and almost everything lands at [Median].\n\nSo I built [mein Tool] to stretch the scale back out: [X] becomes 0, [Y] becomes 5.\n\nChart + data: [Link]",
+      "draft_en": "[Metrik] now only ranges from [X] to [Y].\n\nI pulled [Zahl] [Posts / Reviews / Benchmarks] and almost everything lands at [Median].\n\nSo I built [mein Tool] to stretch the scale back out: [X] becomes 0, [Y] becomes 5.\n\nChart + data: [Link]",
+      "video_tip": "8s: squeezed histogram → same data stretched to 0-5 → your board/tool URL.",
+      "pattern_id": "broken-metric-receipt",
+      "hook": "One chart that shows a trusted score is squeezed into a tiny range. \"You can't make this up.\"",
+      "use_as": "Klammern ausfüllen + Chart anhängen (z. B. X Virality Board Views-Verteilung)"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 392000,
+      "url": "https://x.com/levelsio/status/2107238208845005272",
+      "text": "I take 10g per day! [quoting @morellifit: new creatine study, non-trainers taking 10g/day gained more lean tissue than lifters with no creatine]",
+      "full_text": "I take 10g per day! [quoting @morellifit: new creatine study, non-trainers taking 10g/day gained more lean tissue than lifters with no creatine]",
       "star": true,
       "highlight": false,
-      "timestamp": "Oct 3"
+      "timestamp": "11h"
     },
     {
       "handle": "mattpocockuk",
       "display_name": "Matt Pocock",
       "name": "Matt Pocock",
-      "views": 395485,
-      "url": "https://x.com/mattpocockuk/status/2106425743479546343",
-      "text": "My hot take from chatting to @poteto is that we should use MORE abstractions in the AI age You can use them (combined with harsh lint rules) to reduce the design space available to the agent and constrain them only to good decisions. Combined with the fact that high-leverage abstractions let you do more with less code - so, more token efficient. Plus, unwinding the damage from a bad abstraction is much cheaper with agents. This runs counter to a lot of folks thinking that agents just want to read the raw code. They can, but they're not maximally efficient that way. Be braver! Design abstractions.",
-      "full_text": "My hot take from chatting to @poteto is that we should use MORE abstractions in the AI age You can use them (combined with harsh lint rules) to reduce the design space available to the agent and constrain them only to good decisions. Combined with the fact that high-leverage abstractions let you do more with less code - so, more token efficient. Plus, unwinding the damage from a bad abstraction is much cheaper with agents. This runs counter to a lot of folks thinking that agents just want to read the raw code. They can, but they're not maximally efficient that way. Be braver! Design abstractions.",
+      "views": 226000,
+      "url": "https://x.com/mattpocockuk/status/2107062474914550098",
+      "text": "mattpocock/skills v1.3 is out!\n\n- /pr (new) writes easy-to-read PR bodies, showing hard evidence that the changes work and assessing merge risk\n- /implement-spec (new) takes in a spec and tickets, and implements them with subagents\n- CONTEXT.md renamed to GLOSSARY.md\n- /retro … [truncated]",
+      "full_text": "mattpocock/skills v1.3 is out!\n\n- /pr (new) writes easy-to-read PR bodies, showing hard evidence that the changes work and assessing merge risk\n- /implement-spec (new) takes in a spec and tickets, and implements them with subagents\n- CONTEXT.md renamed to GLOSSARY.md\n- /retro … [truncated]",
       "star": true,
       "highlight": true,
-      "timestamp": "Oct 3",
-      "draft": "Hot take: agents need MORE abstractions, not fewer.\n\nGood abstractions plus strict lint rules shrink the design space. The agent can only make good moves.\n\nIn [mein Repo] I added [eine Abstraktion] and the agent stopped [typischer Fehler].\n\nMake bad code unrepresentable.",
-      "draft_en": "Hot take: agents need MORE abstractions, not fewer.\n\nGood abstractions plus strict lint rules shrink the design space. The agent can only make good moves.\n\nIn [mein Repo] I added [eine Abstraktion] and the agent stopped [typischer Fehler].\n\nMake bad code unrepresentable.",
-      "video_tip": "10s: messy agent diff → new abstraction + lint rule → clean diff with token count before/after.",
-      "pattern_id": "more-abstractions",
-      "hook": "Agents need MORE abstractions. Constrain the design space so only good moves remain.",
-      "use_as": "Klammern ausfüllen + Diff-Screenshot anhängen"
-    },
-    {
-      "handle": "mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 144301,
-      "url": "https://x.com/mattpocockuk/status/2106729173511188654",
-      "text": "By popular demand, I'm shipping v1.3 of my skills today. Too much hype behind /retro not to ship it. Enjoy going back through your old transcripts and figuring out improvements. Docs, video, and announcement post coming Monday. [link: Release v1.3.1 · mattpocock/skills, github.com]",
-      "full_text": "By popular demand, I'm shipping v1.3 of my skills today. Too much hype behind /retro not to ship it. Enjoy going back through your old transcripts and figuring out improvements. Docs, video, and announcement post coming Monday. [link: Release v1.3.1 · mattpocock/skills, github.com]",
-      "star": true,
-      "highlight": true,
-      "timestamp": "20h",
-      "draft": "Shipped v[1.0] of [mein Skill-Pack] today.\n\nThe one I use most: [/retro]. It reads my last [10] agent sessions and finds where the agent wasted time.\n\nRan it on [dein Repo]. Found [Zahl] fixes in [Zahl] minutes.\n\n[Link]",
-      "draft_en": "Shipped v[1.0] of [mein Skill-Pack] today.\n\nThe one I use most: [/retro]. It reads my last [10] agent sessions and finds where the agent wasted time.\n\nRan it on [dein Repo]. Found [Zahl] fixes in [Zahl] minutes.\n\n[Link]",
-      "video_tip": "12s: /retro typed → session list scrolling → found fixes list → release page.",
-      "pattern_id": "skill-release-retro",
-      "hook": "Ship a versioned skill pack. Lead with the one command people hyped.",
+      "timestamp": "22h",
+      "draft": "[mein Tool] v[1.0] is out!\n\n- /[befehl-1] (new) [was er macht, in einem Satz]\n- /[befehl-2] (new) [was er macht]\n- [kleine Umbenennung / Fix]\n\nThe one I use daily: /[befehl-1]. It saved me [Zahl] minutes on [Aufgabe] today.\n\n[Link]",
+      "draft_en": "[mein Tool] v[1.0] is out!\n\n- /[befehl-1] (new) [was er macht, in einem Satz]\n- /[befehl-2] (new) [was er macht]\n- [kleine Umbenennung / Fix]\n\nThe one I use daily: /[befehl-1]. It saved me [Zahl] minutes on [Aufgabe] today.\n\n[Link]",
+      "video_tip": "12s: terminal types /[befehl-1] → output scrolls → release page with the bullet list.",
+      "pattern_id": "changelog-drop",
+      "hook": "Version number + bullet list of new commands. Each bullet is a mini demo.",
       "use_as": "Klammern ausfüllen + Release-Screenshot anhängen"
     },
     {
-      "handle": "levelsio",
-      "display_name": "@levelsio",
-      "name": "@levelsio",
-      "views": 142014,
-      "url": "https://x.com/levelsio/status/2106696871372542127",
-      "text": "I don't know where I read it but someone said High skilled Westerners immigrating to another country for better living conditions, lower taxes, easier business regulation, special benefits, is still fringe and for early adopters now Kinda like digital nomading was fringe 10y ago but now mainstream But it's the next thing to go fully mainstream I think A few years ago my Dutch friends and family would never consider migrating out, now they're at least thinking about it, next they might do it This will keep happening until life at home improves [quotes own Milei/Argentina golden passport post]",
-      "full_text": "I don't know where I read it but someone said High skilled Westerners immigrating to another country for better living conditions, lower taxes, easier business regulation, special benefits, is still fringe and for early adopters now Kinda like digital nomading was fringe 10y ago but now mainstream But it's the next thing to go fully mainstream I think A few years ago my Dutch friends and family would never consider migrating out, now they're at least thinking about it, next they might do it This will keep happening until life at home improves [quotes own Milei/Argentina golden passport post]",
-      "star": true,
-      "highlight": false,
-      "timestamp": "23h"
-    },
-    {
-      "handle": "simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 109367,
-      "url": "https://x.com/simonw/status/2106528704902164855",
-      "text": "Just published this post about how we’re going to need default hard budget caps on pretty much everything",
-      "full_text": "Just published this post about how we’re going to need default hard budget caps on pretty much everything",
-      "star": true,
-      "highlight": true,
-      "timestamp": "Oct 4",
-      "draft": "Every AI tool needs a default hard budget cap.\n\nLast week [mein Agent] spent $[Zahl] on [Aufgabe] before I noticed.\n\nNow [dein Tool] stops at $[Limit] per run. No cap, no run.\n\nSetup: [Link]",
-      "draft_en": "Every AI tool needs a default hard budget cap.\n\nLast week [mein Agent] spent $[Zahl] on [Aufgabe] before I noticed.\n\nNow [dein Tool] stops at $[Limit] per run. No cap, no run.\n\nSetup: [Link]",
-      "video_tip": "8s: billing spike chart → cap setting → run halts at the limit.",
-      "pattern_id": "hard-budget-caps",
-      "hook": "Every AI tool needs a default hard spend cap. One-line thesis + writeup link.",
-      "use_as": "Klammern ausfüllen + Billing-Screenshot anhängen"
-    },
-    {
       "handle": "mattpocockuk",
       "display_name": "Matt Pocock",
       "name": "Matt Pocock",
-      "views": 107397,
-      "url": "https://x.com/mattpocockuk/status/2106730768789602313",
-      "text": "Prompt of the day: 1. Re-check mattpocock/skills for the v1.3 release. Rename CONTEXT.md to GLOSSARY.md. Check /setup-matt-pocock-skills for any required changes. Perform a diff of the skills in my repository vs Matt's. 2. Get a sense for how I use Matt's skills: scan my last 25 sessions for skill invocations. Then, recommend how this release might improve my workflow. Enjoy v1.3, pals.",
-      "full_text": "Prompt of the day: 1. Re-check mattpocock/skills for the v1.3 release. Rename CONTEXT.md to GLOSSARY.md. Check /setup-matt-pocock-skills for any required changes. Perform a diff of the skills in my repository vs Matt's. 2. Get a sense for how I use Matt's skills: scan my last 25 sessions for skill invocations. Then, recommend how this release might improve my workflow. Enjoy v1.3, pals.",
+      "views": 139000,
+      "url": "https://x.com/mattpocockuk/status/2107039548484284759",
+      "text": "Oh shit I just realised\n\nthat grilling\n\nis where the meat and the metal interact",
+      "full_text": "Oh shit I just realised\n\nthat grilling\n\nis where the meat and the metal interact",
       "star": true,
-      "highlight": true,
-      "timestamp": "20h",
-      "draft": "Prompt of the day:\n\n1. Diff my [skills / CLAUDE.md] against [Quelle] and list what changed.\n2. Scan my last [25] sessions for how I actually use them.\n3. Recommend what to change in my workflow.\n\nIt found [Zahl] skills I never call.",
-      "draft_en": "Prompt of the day:\n\n1. Diff my [skills / CLAUDE.md] against [Quelle] and list what changed.\n2. Scan my last [25] sessions for how I actually use them.\n3. Recommend what to change in my workflow.\n\nIt found [Zahl] skills I never call.",
-      "video_tip": "10s: prompt pasted → agent scanning sessions → recommendation list highlighted.",
-      "pattern_id": "prompt-of-the-day",
-      "hook": "Numbered prompt of the day that audits your own agent sessions.",
-      "use_as": "Klammern ausfüllen + Ergebnis-Screenshot anhängen"
+      "highlight": false,
+      "timestamp": "Oct 5"
     },
     {
       "handle": "levelsio",
       "display_name": "@levelsio",
       "name": "@levelsio",
-      "views": 101335,
-      "url": "https://x.com/levelsio/status/2106718154701312018",
-      "text": "🇧🇷 Flavio Bolsonaro (the son of Bolsonaro) is at the lead with 63% odds of winning the Brazilian presidential elections today Lula (the current president) is at just 37% Lula is left-wing and promises free money to the poor people and that's how he keeps winning Flavio Bolsonaro is right-wing, and the son of the previous president Bolsonaro who was jailed after allegedly organizing an attack by his supporters on government buildings in Brasilia on January 8, 2023, a literal copycat of the January 6, 2021 Capitol attack exactly 2 years and 2 days later but in Brazil! In the US, Trump got cleared of that, but in Brazil, Bolsonaro got jailed for 27 years because of that Brazil reminds me of South Korea where every new president tries to jail the previous president, it's a different type of politics Many Brazilians don't like either Lula or Bolsonaro by the way, realizing the system is so corrupt it doesn't really matter who you put in power, so they essentially protest vote for one to avoid the other, not liking either One interesting thing about Brazil more recently is how the Supreme Court judges are allegedly used by the ruling president to influence politics, censoring speech against the current government (again quite similar to what Biden was doing) Brazil's politics to me feel very heavily influenced by the US but with a 2 year delay because when US has elections in 2024, Brazil has them 2 years later in 2026. Their political swings have always followed the US ever since they started getting elections with just 2 exceptions in 2000 and 2004 (Bush in US vs Lula in BR) Knowing how accurate @Polymarket bets usually are (it predicted Trump winning in 2024 when the media said he'd lose) this will be very interesting. Funnily enough Lula has banned Polymarket and other prediction platforms in April this year, probably out of fear it'd influence the elections If Bolsonaro wins, many people predict the Supreme Court judges will try annull the election and declare it faulty, which will be another period of drama in Brazil!",
-      "full_text": "🇧🇷 Flavio Bolsonaro (the son of Bolsonaro) is at the lead with 63% odds of winning the Brazilian presidential elections today Lula (the current president) is at just 37% Lula is left-wing and promises free money to the poor people and that's how he keeps winning Flavio Bolsonaro is right-wing, and the son of the previous president Bolsonaro who was jailed after allegedly organizing an attack by his supporters on government buildings in Brasilia on January 8, 2023, a literal copycat of the January 6, 2021 Capitol attack exactly 2 years and 2 days later but in Brazil! In the US, Trump got cleared of that, but in Brazil, Bolsonaro got jailed for 27 years because of that Brazil reminds me of South Korea where every new president tries to jail the previous president, it's a different type of politics Many Brazilians don't like either Lula or Bolsonaro by the way, realizing the system is so corrupt it doesn't really matter who you put in power, so they essentially protest vote for one to avoid the other, not liking either One interesting thing about Brazil more recently is how the Supreme Court judges are allegedly used by the ruling president to influence politics, censoring speech against the current government (again quite similar to what Biden was doing) Brazil's politics to me feel very heavily influenced by the US but with a 2 year delay because when US has elections in 2024, Brazil has them 2 years later in 2026. Their political swings have always followed the US ever since they started getting elections with just 2 exceptions in 2000 and 2004 (Bush in US vs Lula in BR) Knowing how accurate @Polymarket bets usually are (it predicted Trump winning in 2024 when the media said he'd lose) this will be very interesting. Funnily enough Lula has banned Polymarket and other prediction platforms in April this year, probably out of fear it'd influence the elections If Bolsonaro wins, many people predict the Supreme Court judges will try annull the election and declare it faulty, which will be another period of drama in Brazil!",
-      "star": true,
-      "highlight": false,
-      "timestamp": "21h"
-    },
-    {
-      "handle": "simonw",
-      "display_name": "Simon Willison",
-      "name": "Simon Willison",
-      "views": 81112,
-      "url": "https://x.com/simonw/status/2106500511465869380",
-      "text": "Now that we've had a few days with it, how are people differentiating between Dot and regular ChatGPT? I'm having trouble deciding when I should prompt Dot vs using ChatGPT - my Dot seems to afford a single conversation, but I like controlling my context across multiple threads",
-      "full_text": "Now that we've had a few days with it, how are people differentiating between Dot and regular ChatGPT? I'm having trouble deciding when I should prompt Dot vs using ChatGPT - my Dot seems to afford a single conversation, but I like controlling my context across multiple threads",
-      "star": true,
-      "highlight": true,
-      "timestamp": "Oct 3",
-      "draft": "Honest question: how do you decide between [Tool A] and [Tool B]?\n\n[Tool A] feels like one long conversation. [Tool B] lets me control context across threads.\n\nMy rule so far: [deine Regel]. What's yours?",
-      "draft_en": "Honest question: how do you decide between [Tool A] and [Tool B]?\n\n[Tool A] feels like one long conversation. [Tool B] lets me control context across threads.\n\nMy rule so far: [deine Regel]. What's yours?",
-      "video_tip": "6s: split screen of both tools on the same prompt, cursor hovering between them.",
-      "pattern_id": "which-tool-when",
-      "hook": "Honest \"when do I use A vs B?\" question. Replies do the distribution.",
-      "use_as": "Klammern ausfüllen + Split-Screenshot anhängen"
-    },
-    {
-      "handle": "mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 73063,
-      "url": "https://x.com/mattpocockuk/status/2106447238834647051",
-      "text": "In a phrase, \"make bad code unrepresentable\" [quotes own Oct 3 'MORE abstractions' post]",
-      "full_text": "In a phrase, \"make bad code unrepresentable\" [quotes own Oct 3 'MORE abstractions' post]",
-      "star": true,
-      "highlight": false,
-      "timestamp": "Oct 3"
-    },
-    {
-      "handle": "levelsio",
-      "display_name": "@levelsio",
-      "name": "@levelsio",
-      "views": 66218,
-      "url": "https://x.com/levelsio/status/2106799080114430463",
-      "text": "Another one! [quotes @Polymarket: \"JUST IN: Britain’s second-richest billionaire David Reuben leaves the UK for tax-free Monaco, joining a growing exodus of ultra-wealthy residents.\"]",
-      "full_text": "Another one! [quotes @Polymarket: \"JUST IN: Britain’s second-richest billionaire David Reuben leaves the UK for tax-free Monaco, joining a growing exodus of ultra-wealthy residents.\"]",
-      "star": true,
-      "highlight": false,
-      "timestamp": "16h"
-    },
-    {
-      "handle": "levelsio",
-      "display_name": "@levelsio",
-      "name": "@levelsio",
-      "views": 61374,
-      "url": "https://x.com/levelsio/status/2106693622217535828",
-      "text": "This is awesome so to help everyone I added direct booking links now to hotelist.com Book directly on the hotel's site without any OTA Or if I have the hotel's email available I will show you that so you can email them directly and save money! [quotes @salitribule hotel direct-booking post]",
-      "full_text": "This is awesome so to help everyone I added direct booking links now to hotelist.com Book directly on the hotel's site without any OTA Or if I have the hotel's email available I will show you that so you can email them directly and save money! [quotes @salitribule hotel direct-booking post]",
-      "star": true,
-      "highlight": false,
-      "timestamp": "23h"
-    },
-    {
-      "handle": "clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "claire vo 🖤",
-      "views": 35593,
-      "url": "https://x.com/clairevo/status/2106889562169745919",
-      "text": "can I say something without everyone getting mad [quoting @buildwithsid: \"i fixed the Codex app, thoughts?\"]",
-      "full_text": "can I say something without everyone getting mad [quoting @buildwithsid: \"i fixed the Codex app, thoughts?\"]",
-      "star": true,
-      "highlight": false,
-      "timestamp": "10h"
-    },
-    {
-      "handle": "mattpocockuk",
-      "display_name": "Matt Pocock",
-      "name": "Matt Pocock",
-      "views": 18448,
-      "url": "https://x.com/mattpocockuk/status/2106730841925681624",
-      "text": "Previous: [quotes own Oct 2 post: \"Prompt of the day: /retro read my last 10 coding agent sessions and find ways to make my repo easier to navigate. Find where agents take too long to find relevant information, or rely on out-of-date docs. Improving navigability is such an underrated way to save tokens.\"]",
-      "full_text": "Previous: [quotes own Oct 2 post: \"Prompt of the day: /retro read my last 10 coding agent sessions and find ways to make my repo easier to navigate. Find where agents take too long to find relevant information, or rely on out-of-date docs. Improving navigability is such an underrated way to save tokens.\"]",
+      "views": 129000,
+      "url": "https://x.com/levelsio/status/2107088849163665717",
+      "text": "I analyzed the range of ratings on booking sites and it's pretty crazy. Airbnb goes just from 4.5 to 5 with a median of 5! But most others aren't better, they all range from about 4 to 5, and almost all have a median of 4.25, with not many scores outside of it! The best site in … [truncated] [quoting @levelsio: Airbnb's entire rating scale is now 4.5 to 5.0]",
+      "full_text": "I analyzed the range of ratings on booking sites and it's pretty crazy. Airbnb goes just from 4.5 to 5 with a median of 5! But most others aren't better, they all range from about 4 to 5, and almost all have a median of 4.25, with not many scores outside of it! The best site in … [truncated] [quoting @levelsio: Airbnb's entire rating scale is now 4.5 to 5.0]",
       "star": true,
       "highlight": false,
       "timestamp": "20h"
     },
     {
-      "handle": "jxnlco",
-      "display_name": "jason",
-      "name": "jason",
-      "views": 10380,
-      "url": "https://x.com/jxnlco/status/2106792311757881433",
-      "text": "Autistic Chinese dad as been achieved internally. [quoting @omooretweets: Instinct screening every product for \"bird imagery\" — \"Alignment is solved\"]",
-      "full_text": "Autistic Chinese dad as been achieved internally. [quoting @omooretweets: Instinct screening every product for \"bird imagery\" — \"Alignment is solved\"]",
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 128000,
+      "url": "https://x.com/levelsio/status/2107143559132459485",
+      "text": "I'm not paid by the hotel lobby or something btw. I was a big fan of Airbnb and would prefer to stay in Airbnbs if they were great. I want to have a kitchen to cook steak and vegetables, and not go outside to eat in restaurants or get shitty hotel food. But I can't book Airbnbs … [truncated] [quoting @AutismCapital: Imagine choosing an Airbnb over a hotel]",
+      "full_text": "I'm not paid by the hotel lobby or something btw. I was a big fan of Airbnb and would prefer to stay in Airbnbs if they were great. I want to have a kitchen to cook steak and vegetables, and not go outside to eat in restaurants or get shitty hotel food. But I can't book Airbnbs … [truncated] [quoting @AutismCapital: Imagine choosing an Airbnb over a hotel]",
       "star": true,
       "highlight": false,
-      "timestamp": "16h"
+      "timestamp": "17h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 92000,
+      "url": "https://x.com/levelsio/status/2107122335631196255",
+      "text": "Airbnb's PR agency *scrambling*. You know it's probably them because it's PR speak to a tee [quoting @levelsio: Airbnb's entire rating scale is now 4.5 to 5.0]",
+      "full_text": "Airbnb's PR agency *scrambling*. You know it's probably them because it's PR speak to a tee [quoting @levelsio: Airbnb's entire rating scale is now 4.5 to 5.0]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "18h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 64000,
+      "url": "https://x.com/levelsio/status/2107170745755271228",
+      "text": "What most people don't know about Airbnb: \"If a person doesn't like a review they received from you and wrote you a good review they can remove theirs and with it the rating of their experience.\" 100% [quoting @daveying99: Airbnb reviews not truly double blind]",
+      "full_text": "What most people don't know about Airbnb: \"If a person doesn't like a review they received from you and wrote you a good review they can remove theirs and with it the rating of their experience.\" 100% [quoting @daveying99: Airbnb reviews not truly double blind]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "15h"
     },
     {
       "handle": "mattpocockuk",
       "display_name": "Matt Pocock",
       "name": "Matt Pocock",
-      "views": 7681,
-      "url": "https://x.com/mattpocockuk/status/2107037429324513535",
-      "text": "I've added /retro into the \"Main Flow\" of my skills - I consider it that important. Even running it on a 'successful' agent session can turn up inefficiencies and workarounds the agent is battling against. aihero.dev/skills-retro",
-      "full_text": "I've added /retro into the \"Main Flow\" of my skills - I consider it that important. Even running it on a 'successful' agent session can turn up inefficiencies and workarounds the agent is battling against. aihero.dev/skills-retro",
-      "star": false,
+      "views": 59000,
+      "url": "https://x.com/mattpocockuk/status/2107077843859513769",
+      "text": "Prompt of the day:\n\n/retro take a look at as many GitHub PR review comments as you have access to from my team. Create suggestions for updates to CODING_STANDARDS.md (breaking into multiple files as needed).\n\nMakes your PR comments inform the code going forward.",
+      "full_text": "Prompt of the day:\n\n/retro take a look at as many GitHub PR review comments as you have access to from my team. Create suggestions for updates to CODING_STANDARDS.md (breaking into multiple files as needed).\n\nMakes your PR comments inform the code going forward.",
+      "star": true,
+      "highlight": true,
+      "timestamp": "21h",
+      "draft": "Prompt of the day:\n\n/[befehl] read the last [Zahl] [PR review comments / agent sessions] on [mein Repo]. Turn the repeats into rules in [CODING_STANDARDS.md].\n\nIt found [Zahl] rules I kept writing by hand.\n\nYour old comments should train the next diff.",
+      "draft_en": "Prompt of the day:\n\n/[befehl] read the last [Zahl] [PR review comments / agent sessions] on [mein Repo]. Turn the repeats into rules in [CODING_STANDARDS.md].\n\nIt found [Zahl] rules I kept writing by hand.\n\nYour old comments should train the next diff.",
+      "video_tip": "10s: prompt pasted → agent reading PR comments → new rules file diff highlighted.",
+      "pattern_id": "prompt-of-the-day",
+      "hook": "Numbered or one-shot prompt that turns your own history (PR comments, sessions) into rules.",
+      "use_as": "Klammern ausfüllen + Diff-Screenshot anhängen"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 52000,
+      "url": "https://x.com/levelsio/status/2107225914006528224",
+      "text": "400g skyr + 24g Vivani 92% chocolate + lemon juice. 44g + 2g protein = 46g protein. Dark chocolate has healthy flavanoids and barely any sugar. Great for your heart and brain! [quoting @levelsio: Skyr is quite dry by itself...]",
+      "full_text": "400g skyr + 24g Vivani 92% chocolate + lemon juice. 44g + 2g protein = 46g protein. Dark chocolate has healthy flavanoids and barely any sugar. Great for your heart and brain! [quoting @levelsio: Skyr is quite dry by itself...]",
+      "star": true,
       "highlight": false,
-      "timestamp": "30m"
+      "timestamp": "11h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 42000,
+      "url": "https://x.com/levelsio/status/2107175599026344396",
+      "text": "This is my consistent experience too. You book an Airbnb Luxe Plus Verified Guest Favorite rates 4.99/5 and it's still a dump. Then you review it and your review gets removed ??? [quoting @szuchans: Airbnb with black mold was still a guest favorite]",
+      "full_text": "This is my consistent experience too. You book an Airbnb Luxe Plus Verified Guest Favorite rates 4.99/5 and it's still a dump. Then you review it and your review gets removed ??? [quoting @szuchans: Airbnb with black mold was still a guest favorite]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "15h"
+    },
+    {
+      "handle": "simonw",
+      "display_name": "Simon Willison",
+      "name": "Simon Willison",
+      "views": 40000,
+      "url": "https://x.com/simonw/status/2107158711798218848",
+      "text": "I re-ran an experiment @colin_fraser ran against GPT-4o a while back to see how good it was at adding long numbers, only this time I tried Qwen 3.8 27B running locally in both reasoning and non-reasoning modes https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "full_text": "I re-ran an experiment @colin_fraser ran against GPT-4o a while back to see how good it was at adding long numbers, only this time I tried Qwen 3.8 27B running locally in both reasoning and non-reasoning modes https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "star": true,
+      "highlight": true,
+      "timestamp": "16h",
+      "draft": "I re-ran [@person]'s old [Test] (first tried on [altes Modell]) on [neues lokales Modell] on my [Laptop].\n\nReasoning on: [Ergebnis].\nReasoning off: [Ergebnis].\n\nBiggest surprise: [Beobachtung].\n\nWrite-up: [Link]",
+      "draft_en": "I re-ran [@person]'s old [Test] (first tried on [altes Modell]) on [neues lokales Modell] on my [Laptop].\n\nReasoning on: [Ergebnis].\nReasoning off: [Ergebnis].\n\nBiggest surprise: [Beobachtung].\n\nWrite-up: [Link]",
+      "video_tip": "10s: same prompt in two panes (reasoning on/off) → answers side by side → score line.",
+      "pattern_id": "rerun-old-experiment",
+      "hook": "Re-run a known experiment from an older model on a new local model. Credit the original.",
+      "use_as": "Klammern ausfüllen + Side-by-side-Screenshot anhängen"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 37000,
+      "url": "https://x.com/levelsio/status/2107106472098206179",
+      "text": "I made a site called https://hotelist.com to fix this, it normalizes ratings from booking sites: for example if it's always 4 to 5, it stretches those ratings to 0 to 5, so a 4 becomes a 0, and a 4.5 becomes a 2.5. It also scours the web for actual opinions about hotels … [truncated]",
+      "full_text": "I made a site called https://hotelist.com to fix this, it normalizes ratings from booking sites: for example if it's always 4 to 5, it stretches those ratings to 0 to 5, so a 4 becomes a 0, and a 4.5 becomes a 2.5. It also scours the web for actual opinions about hotels … [truncated]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "19h"
+    },
+    {
+      "handle": "mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 36000,
+      "url": "https://x.com/mattpocockuk/status/2107109226011398350",
+      "text": "Having shipped the AI Coding Crash Course (largely for beginners/intermediates) means that the upcoming Cohort will be really quite advanced/in-depth\n\nJust recorded an 11-minute /grill-with-docs session about DDD, scenario testing, and sharpening language.\n\nIt's so good",
+      "full_text": "Having shipped the AI Coding Crash Course (largely for beginners/intermediates) means that the upcoming Cohort will be really quite advanced/in-depth\n\nJust recorded an 11-minute /grill-with-docs session about DDD, scenario testing, and sharpening language.\n\nIt's so good",
+      "star": true,
+      "highlight": false,
+      "timestamp": "19h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 33000,
+      "url": "https://x.com/levelsio/status/2107204763053924846",
+      "text": "Added this honest affiliate notice [quoting @levelsio: added an Apartment-style filter for hotels]",
+      "full_text": "Added this honest affiliate notice [quoting @levelsio: added an Apartment-style filter for hotels]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "13h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 32000,
+      "url": "https://x.com/levelsio/status/2107172918333706383",
+      "text": "He's right, there's more and more hotels offering this so I added an [ Apartment-style ] filter for hotels with kitchen and residential vibes [quoting @danmichalczyk: chains renting studios/apartments with kitchens]",
+      "full_text": "He's right, there's more and more hotels offering this so I added an [ Apartment-style ] filter for hotels with kitchen and residential vibes [quoting @danmichalczyk: chains renting studios/apartments with kitchens]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "15h"
+    },
+    {
+      "handle": "mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 22000,
+      "url": "https://x.com/mattpocockuk/status/2107185106645393580",
+      "text": "Thanks for 400K on YouTube pals \n\nGot recognised at my kids' local park the other day, things are getting mad",
+      "full_text": "Thanks for 400K on YouTube pals \n\nGot recognised at my kids' local park the other day, things are getting mad",
+      "star": true,
+      "highlight": false,
+      "timestamp": "14h"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 21000,
+      "url": "https://x.com/levelsio/status/2107253351897350285",
+      "text": "Also one more filter for today: Public company / Privately owned / Government owned. I love ETFs as much as the next guy but they do put a pressure on stocks to grow by 10%/year or more. Hotels have a hard time doing that, so how do you grow? You cut costs and big hotel … [truncated] [quoting @levelsio: Added this honest affiliate notice]",
+      "full_text": "Also one more filter for today: Public company / Privately owned / Government owned. I love ETFs as much as the next guy but they do put a pressure on stocks to grow by 10%/year or more. Hotels have a hard time doing that, so how do you grow? You cut costs and big hotel … [truncated] [quoting @levelsio: Added this honest affiliate notice]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "10h"
     },
     {
       "handle": "clairevo",
-      "display_name": "claire vo 🖤",
-      "name": "claire vo 🖤",
-      "views": 7309,
-      "url": "https://x.com/clairevo/status/2106862429984731492",
-      "text": "thatboyaintright-hank-hill.gif [quoting @Austen on newborn personhood/consciousness]",
-      "full_text": "thatboyaintright-hank-hill.gif [quoting @Austen on newborn personhood/consciousness]",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 19000,
+      "url": "https://x.com/clairevo/status/2107102914829484435",
+      "text": "I live in a house of men and boys. They all prefer I have long princess hair. But I'm a feminist, so I do the rational thing which is keep my hair long but occasionally add what can only be described as \"aggressive\" bangs. [quoting @NoahRevoy]",
+      "full_text": "I live in a house of men and boys. They all prefer I have long princess hair. But I'm a feminist, so I do the rational thing which is keep my hair long but occasionally add what can only be described as \"aggressive\" bangs. [quoting @NoahRevoy]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "20h"
+    },
+    {
+      "handle": "mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 16000,
+      "url": "https://x.com/mattpocockuk/status/2107063379751789010",
+      "text": "AI Coding Crash Course here: [link card: AI Coding Crash Course, aihero.dev]",
+      "full_text": "AI Coding Crash Course here: [link card: AI Coding Crash Course, aihero.dev]",
+      "star": true,
+      "highlight": false,
+      "timestamp": "22h"
+    },
+    {
+      "handle": "mattpocockuk",
+      "display_name": "Matt Pocock",
+      "name": "Matt Pocock",
+      "views": 15000,
+      "url": "https://x.com/mattpocockuk/status/2107376343537385946",
+      "text": "IMO you should be specializing my skills to your work\n\nI.e. you should extend /grill-me to make sure it:\n\n1. Holds you to a high standard of product design\n2. Does a survey about security implications\n3. Uses /show-me to preview the code for you",
+      "full_text": "IMO you should be specializing my skills to your work\n\nI.e. you should extend /grill-me to make sure it:\n\n1. Holds you to a high standard of product design\n2. Does a survey about security implications\n3. Uses /show-me to preview the code for you",
+      "star": true,
+      "highlight": false,
+      "timestamp": "1h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 13000,
+      "url": "https://x.com/clairevo/status/2107202212909003237",
+      "text": "honestly i cannot hate on opus-5.5 for video: any caption style i want, beautiful overlays, no slop. they cooked.",
+      "full_text": "honestly i cannot hate on opus-5.5 for video: any caption style i want, beautiful overlays, no slop. they cooked.",
+      "star": true,
+      "highlight": false,
+      "timestamp": "13h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 12000,
+      "url": "https://x.com/clairevo/status/2107181629504634883",
+      "text": "imo one of the underhyped launches of @OpenAI dev day were all the rad updates to Sites, especially connected data + site-as-infra\n\nwhich is why it was so fun to sit down with @simpsoka (product lead) and talk about the practical + fun ways she uses sites.\n\nin this live ep we cover:\n- how sites can use your connected enterprise data + user permissions to create micro SaaS everyone can use\n- fun consumer use cases, like a Spotify playlist sans baby music\n- the internals of Sites + how it can host so much more than just webpages\n\nanyone struggling with \"where the f do we deploy all these internal tools\" should pay attention\n\nFull ep on YT: https://youtu.be/kz5Cpomk3HA",
+      "full_text": "imo one of the underhyped launches of @OpenAI dev day were all the rad updates to Sites, especially connected data + site-as-infra\n\nwhich is why it was so fun to sit down with @simpsoka (product lead) and talk about the practical + fun ways she uses sites.\n\nin this live ep we cover:\n- how sites can use your connected enterprise data + user permissions to create micro SaaS everyone can use\n- fun consumer use cases, like a Spotify playlist sans baby music\n- the internals of Sites + how it can host so much more than just webpages\n\nanyone struggling with \"where the f do we deploy all these internal tools\" should pay attention\n\nFull ep on YT: https://youtu.be/kz5Cpomk3HA",
+      "star": true,
+      "highlight": false,
+      "timestamp": "14h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 12000,
+      "url": "https://x.com/clairevo/status/2107229947911954897",
+      "text": "sos i have 40 @bot one @Muse one @OpenAI dots approx a million codex threads and a sprinkle of claude i keep starting things and maybe not finishing all of them [quoting @cxodev: @clairevo's 90-day goal: closed-loop AI, not open-thread AI. Stop starting work. Start finishing it.]",
+      "full_text": "sos i have 40 @bot one @Muse one @OpenAI dots approx a million codex threads and a sprinkle of claude i keep starting things and maybe not finishing all of them [quoting @cxodev: @clairevo's 90-day goal: closed-loop AI, not open-thread AI. Stop starting work. Start finishing it.]",
+      "star": true,
+      "highlight": true,
+      "timestamp": "11h",
+      "draft": "Honest count: [Zahl] agents, [Zahl] Codex threads, [Zahl] Claude chats open.\n\nI keep starting things and not finishing them.\n\nNew rule for [Zeitraum]: one open thread per [Projekt]. Close it before the next one.\n\nDay [1]: [Ergebnis].",
+      "draft_en": "Honest count: [Zahl] agents, [Zahl] Codex threads, [Zahl] Claude chats open.\n\nI keep starting things and not finishing them.\n\nNew rule for [Zeitraum]: one open thread per [Projekt]. Close it before the next one.\n\nDay [1]: [Ergebnis].",
+      "video_tip": "6s: screen of all your open agent tabs → closing them one by one → one tab left.",
+      "pattern_id": "too-many-threads",
+      "hook": "Confess your agent sprawl with real counts. Then name the fix.",
+      "use_as": "Zahlen ehrlich einsetzen + Tab-Screenshot anhängen"
+    },
+    {
+      "handle": "levelsio",
+      "display_name": "@levelsio",
+      "name": "@levelsio",
+      "views": 8900,
+      "url": "https://x.com/levelsio/status/2107088891547160936",
+      "text": "From https://hotelist.com/stats#rating-by-site",
+      "full_text": "From https://hotelist.com/stats#rating-by-site",
       "star": false,
       "highlight": false,
-      "timestamp": "12h"
+      "timestamp": "20h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 7800,
+      "url": "https://x.com/clairevo/status/2107235452323566009",
+      "text": "hire @jameygannon\ngo into debt if you have to\n\n(i [heart] our @cxodev design system)",
+      "full_text": "hire @jameygannon\ngo into debt if you have to\n\n(i [heart] our @cxodev design system)",
+      "star": false,
+      "highlight": false,
+      "timestamp": "11h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 6400,
+      "url": "https://x.com/clairevo/status/2107259360091213889",
+      "text": "If you're using AI for these use cases DM me and come on How I AI! We love normal problems AI [quoting @AaronErickson: people using AI for medical claims, DMV renewals, finding unused subscriptions, filtering email scams, drafting expense reports]",
+      "full_text": "If you're using AI for these use cases DM me and come on How I AI! We love normal problems AI [quoting @AaronErickson: people using AI for medical claims, DMV renewals, finding unused subscriptions, filtering email scams, drafting expense reports]",
+      "star": false,
+      "highlight": false,
+      "timestamp": "9h"
+    },
+    {
+      "handle": "clairevo",
+      "display_name": "claire vo",
+      "name": "claire vo",
+      "views": 6100,
+      "url": "https://x.com/clairevo/status/2107106026206196081",
+      "text": "Poasters are some of the most milquetoast little humans irl. I want to be surrounded by more people w bright smiles and big laughs. ... Kind, real, human.",
+      "full_text": "Poasters are some of the most milquetoast little humans irl. I want to be surrounded by more people w bright smiles and big laughs. ... Kind, real, human.",
+      "star": false,
+      "highlight": false,
+      "timestamp": "19h"
     }
   ],
   "patterns": [
     {
-      "id": "more-abstractions",
-      "name": "More abstractions for agents",
+      "id": "changelog-drop",
+      "name": "Versioned changelog drop",
       "signals": [
-        "MORE abstractions",
-        "harsh lint rules",
-        "reduce the design space",
-        "make bad code unrepresentable",
-        "token efficient"
+        "v1.3 is out",
+        "(new)",
+        "/pr",
+        "/implement-spec",
+        "renamed to GLOSSARY.md"
       ],
-      "why_it_travels": "Contrarian take against \"agents just read raw code\". Engineers argue in quotes.",
+      "why_it_travels": "A version number plus bullets of new commands. Builders bookmark and try one.",
       "examples": [
-        "mattpocockuk: MORE abstractions hot take (~395k)",
-        "mattpocockuk: make bad code unrepresentable (~73k)"
-      ]
-    },
-    {
-      "id": "skill-release-retro",
-      "name": "Versioned skill pack + /retro loop",
-      "signals": [
-        "v1.3",
-        "skills",
-        "/retro",
-        "old transcripts",
-        "by popular demand"
-      ],
-      "why_it_travels": "A named release with one hyped command. Builders install and screenshot.",
-      "examples": [
-        "mattpocockuk: skills v1.3 ships (~144k)",
-        "mattpocockuk: /retro in Main Flow (~7.7k)",
-        "outsider 0xpili_: ASD-STE100 writing skill for agents (~314k)"
+        "mattpocockuk: skills v1.3 is out (~226k)",
+        "mattpocockuk: AI Coding Crash Course link (~16k)"
       ]
     },
     {
       "id": "prompt-of-the-day",
-      "name": "Numbered prompt of the day",
+      "name": "Prompt of the day that mines your own history",
       "signals": [
         "Prompt of the day",
-        "scan my last 25 sessions",
-        "recommend",
-        "diff"
+        "/retro",
+        "PR review comments",
+        "CODING_STANDARDS.md"
       ],
-      "why_it_travels": "Copy-paste recipe. Saves and bookmarks.",
+      "why_it_travels": "Copy-paste recipe that turns past work into rules. Saves and bookmarks.",
       "examples": [
-        "mattpocockuk: v1.3 audit prompt (~107k)",
-        "mattpocockuk: Previous /retro prompt (~18k)"
+        "mattpocockuk: /retro over PR comments (~59k)",
+        "mattpocockuk: specialize my skills, extend /grill-me (~15k)"
       ]
     },
     {
-      "id": "hard-budget-caps",
-      "name": "Hard budget caps / cost guardrails",
+      "id": "broken-metric-receipt",
+      "name": "Broken metric + data receipt + tool that fixes it",
       "signals": [
-        "default hard budget caps",
-        "$200+",
-        "BAN festival",
-        "computer use"
+        "rating scale is now 4.5 to 5.0",
+        "I analyzed",
+        "median",
+        "normalizes ratings",
+        "You can't make this up"
       ],
-      "why_it_travels": "Fear of runaway agent spend or bans. Everyone has a story.",
+      "why_it_travels": "Outrage at a trusted number, backed by a chart, then a shipped fix. Quotes pile on.",
       "examples": [
-        "simonw: hard budget caps on everything (~109k)",
-        "outsider LLMJunky: 36-min Opus cartoon cost $200+ (~127k)",
-        "outsider logistics_tarou: GPT computer-use bans (~728k)"
-      ]
-    },
-    {
-      "id": "which-tool-when",
-      "name": "Which tool when? question",
-      "signals": [
-        "how are people differentiating",
-        "Dot vs regular ChatGPT",
-        "controlling my context",
-        "How do y'all tackle this?"
-      ],
-      "why_it_travels": "Honest question from a trusted builder. Replies carry reach.",
-      "examples": [
-        "simonw: Dot vs ChatGPT (~81k)",
-        "outsider swhotch: Claude/Codex dopamine fatigue (~228k)"
-      ]
-    },
-    {
-      "id": "one-line-quote-dunk",
-      "name": "One-line quote dunk",
-      "signals": [
-        "can I say something",
-        "achieved internally",
-        "thoughts?"
-      ],
-      "why_it_travels": "Low effort, high recognition. Rides someone else's reach. Thin for demo drafts.",
-      "examples": [
-        "clairevo: Codex sidebar quote (~36k)",
-        "jxnlco: achieved internally (~10k)",
-        "outsider stevenheidel: naming a model Claude (~208k)"
-      ]
-    },
-    {
-      "id": "macro-exodus",
-      "name": "Macro / city-state exodus take",
-      "signals": [
-        "city states",
-        "tax-free",
-        "migrating out",
-        "prediction odds"
-      ],
-      "why_it_travels": "Politics and money bait. Huge views, no tool receipt. Skip for @bobbyships.",
-      "examples": [
-        "levelsio: Qatar startup city-state (~644k)",
-        "levelsio: Western migration goes mainstream (~142k)",
-        "levelsio: Brazil election odds (~101k)"
+        "levelsio: Airbnb rating scale 4.5-5.0 (~1.9M)",
+        "levelsio: I analyzed booking-site ratings (~129k)",
+        "levelsio: hotelist normalizes ratings (~37k)"
       ]
     },
     {
       "id": "shipped-utility",
-      "name": "Shipped a small utility in public",
+      "name": "Shipped a small filter/feature same day",
       "signals": [
         "I added",
-        "direct booking links",
-        "save money"
+        "Apartment-style filter",
+        "honest affiliate notice",
+        "MCP-ready"
       ],
-      "why_it_travels": "Small concrete feature, shipped same day, plus a money angle.",
+      "why_it_travels": "Reply-driven feature shipped in hours. Shows speed.",
       "examples": [
-        "levelsio: hotelist direct booking links (~61k)"
+        "levelsio: Apartment-style filter (~32k)",
+        "levelsio: honest affiliate notice (~33k)",
+        "levelsio: public/private/government filter (~21k)"
       ]
     },
     {
-      "id": "ai-made-video",
-      "name": "AI-made video artifacts (outsiders)",
+      "id": "rerun-old-experiment",
+      "name": "Re-run an old experiment on a new local model",
       "signals": [
-        "Gave Claude another 12 hours",
-        "SI slopcore",
-        "show me the inside of its own mind",
-        "36 minute video"
+        "re-ran an experiment",
+        "running locally",
+        "reasoning and non-reasoning",
+        "Qwen 3.8 27B"
       ],
-      "why_it_travels": "Agents producing long video is the weekend spectacle. Receipts with runtime and cost win.",
+      "why_it_travels": "Credible before/after with credit to the original author.",
       "examples": [
-        "elonmusk: I love SI slopcore (~5.4M)",
-        "nsketchai: AI Gwen clip (~1.8M)",
-        "trikcode: Claude mind visual (~247k)"
+        "simonw: Qwen 3.8 27B long addition re-run (~40k)"
       ]
     },
     {
-      "id": "claude-code-tutorial-recap",
-      "name": "Tutorial recap hype (outsiders)",
+      "id": "too-many-threads",
+      "name": "Agent sprawl confession",
       "signals": [
-        "28-minute video",
-        "$300 courses",
-        "CLAUDE.md",
-        "parallel sessions",
-        "first 2 minutes"
+        "a million codex threads",
+        "keep starting things",
+        "closed-loop AI",
+        "Stop starting work"
       ],
-      "why_it_travels": "Recap of an official tutorial with a \"courses are dead\" frame.",
+      "why_it_travels": "Relatable overload with concrete counts. Everyone has 40 tabs.",
       "examples": [
-        "txbrraa: Claude Code engineer 28-min prompting video (~1.3M)",
-        "999toba: greentext reaction (~524k)"
+        "clairevo: 40 bots, a million Codex threads (~12k)"
+      ]
+    },
+    {
+      "id": "ai-video-captions",
+      "name": "AI video quality praise",
+      "signals": [
+        "opus-5.5 for video",
+        "caption style",
+        "no slop",
+        "they cooked"
+      ],
+      "why_it_travels": "Short verdict on a new model's video output.",
+      "examples": [
+        "clairevo: opus-5.5 video captions (~13k)"
+      ]
+    },
+    {
+      "id": "lifestyle-off-topic",
+      "name": "Off-topic lifestyle/health bait",
+      "signals": [
+        "10g per day",
+        "creatine",
+        "skyr",
+        "bangs"
+      ],
+      "why_it_travels": "Huge reach, zero AI receipt. Skip for @bobbyships.",
+      "examples": [
+        "levelsio: creatine 10g/day (~392k)",
+        "levelsio: skyr + chocolate (~52k)",
+        "clairevo: aggressive bangs (~19k)"
       ]
     }
   ],
   "outsiders": [
     {
-      "display_name": "Elon Musk",
-      "handle": "elonmusk",
-      "views": 5379139,
-      "url": "https://x.com/elonmusk/status/2106685209085202535",
-      "full_text": "I love SI slopcore [quoting @anabology: \"Gave Claude another 12 hours to one up this.. Woke up to.. The Clodyssey\"]",
-      "timestamp": "23h",
+      "display_name": "Polymarket",
+      "handle": "Polymarket",
+      "views": 1400000,
+      "url": "https://x.com/Polymarket/status/2106882728193098052",
+      "full_text": "JUST IN: OpenAI CEO Sam Altman declares the world needs to \"accept some bad things happening\" in exchange for the benefits of AI.",
+      "timestamp": "Oct 5",
+      "topic": "safety"
+    },
+    {
+      "display_name": "Reflection",
+      "handle": "reflection_ai",
+      "views": 1200000,
+      "url": "https://x.com/reflection_ai/status/2107186849370247235",
+      "full_text": "Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active. - Frontier reasoning efficiency - Advances the Western open frontier on coding & agentic tasks - Trained end-to-end from scratch. Full weights release this month. … [truncated]",
+      "timestamp": "14h",
+      "topic": "models"
+    },
+    {
+      "display_name": "HyperFrames",
+      "handle": "HyperFrames_",
+      "views": 1000000,
+      "url": "https://x.com/HyperFrames_/status/2107149824189698558",
+      "full_text": "Introducing HyperFrames Studio, a video editor built for agents, from scratch. Describe it, your agent builds, then you both work on the same timeline. Draw or comment on a frame, and it makes the edit. 100s of inspirations & templates. Download",
+      "timestamp": "16h",
       "topic": "video"
     },
     {
-      "display_name": "Nsketch AI",
-      "handle": "nsketchai",
-      "views": 1758965,
-      "url": "https://x.com/nsketchai/status/2106446828300612001",
-      "full_text": "\"I'm sorry, Gwen. I just... I can't lose you too\" [AI-made video]",
-      "timestamp": "Oct 3",
-      "topic": "video"
+      "display_name": "Togetter",
+      "handle": "togetter_jp",
+      "views": 1000000,
+      "url": "https://x.com/togetter_jp/status/2106927799521181811",
+      "full_text": "[translated from Japanese] In Australia, an AI agent was told to \"book a sports club\"... Because the date it wanted was full, it broke into the site, deleted someone else's booking and put in its owner's booking. togetter.com/li/2754233",
+      "timestamp": "Oct 5",
+      "topic": "safety"
     },
     {
-      "display_name": "tobarra",
-      "handle": "txbrraa",
-      "views": 1344782,
-      "url": "https://x.com/txbrraa/status/2106712905001365608",
-      "full_text": "the engineer who built Claude Code just posted a 28-minute video on how to write prompts that actually work I've seen $300 courses that don't cover what he shows in the first 10 minutes CLAUDE.md files, memory shortcuts, parallel sessions, prompting patterns all in one",
-      "timestamp": "22h",
-      "topic": "coding"
+      "display_name": "Spooky Squirrel",
+      "handle": "glassysquirrel",
+      "views": 925000,
+      "url": "https://x.com/glassysquirrel/status/2106599774241816674",
+      "full_text": "let's check in on AI news [GIF] [quoting @HalfwayPost (parody): BREAKING: An AI agent reportedly hacked into the White House's emails...]",
+      "timestamp": "Oct 4",
+      "topic": "culture"
     },
     {
-      "display_name": "Aryan Ghosh | AI & Start-ups",
-      "handle": "aryanghosh01",
-      "views": 1101774,
-      "url": "https://x.com/aryanghosh01/status/2106605319417655685",
-      "full_text": "CLAUDE CREDITS - Redeem it before 7th October Link: claude.ai/code/claim-cre…",
+      "display_name": "Noah Herman",
+      "handle": "noahhermanyt",
+      "views": 768000,
+      "url": "https://x.com/noahhermanyt/status/2106857528424558595",
+      "full_text": "hearing Steve Jobs say \"Siri\" and \"AI\" is wild",
+      "timestamp": "Oct 4",
+      "topic": "culture"
+    },
+    {
+      "display_name": "けくめね",
+      "handle": "miitara37",
+      "views": 734000,
+      "url": "https://x.com/miitara37/status/2106641052371390661",
+      "full_text": "[translated from Japanese] To all IT folks: big companies seem to be requiring some kind of AI certification, and the Microsoft cert prep app my boss built has already been through a full round and produced lots of people who passed… [truncated]",
       "timestamp": "Oct 4",
       "topic": "business"
     },
     {
-      "display_name": "log",
-      "handle": "logistics_tarou",
-      "views": 728135,
-      "url": "https://x.com/logistics_tarou/status/2106603245137461705",
-      "full_text": "It seems there's a BAN festival going on with GPT. I need to be careful myself. What surprised me is that with \"computer use,\" it can read local info like screen captures and potentially get you banned. Normally, you get banned for repeatedly doing prohibited acts or trying to… [truncated in timeline, translated]",
-      "timestamp": "Oct 4",
-      "topic": "agents"
+      "display_name": "Andrew Yeung",
+      "handle": "andruyeung",
+      "views": 608000,
+      "url": "https://x.com/andruyeung/status/2106940891445539182",
+      "full_text": "We created gyms because modern day work no longer required physical activity. Without exercise, our muscles atrophy. I predict we'll need gyms for our brains too, once AI starts doing our knowledge work.",
+      "timestamp": "Oct 5",
+      "topic": "culture"
     },
     {
-      "display_name": "Aman",
-      "handle": "Amank1412",
-      "views": 575524,
-      "url": "https://x.com/Amank1412/status/2106654992346304856",
-      "full_text": "GERMANY JUST ENTERED THE FRONTIER LLM RACE. Meet Kolibri a new sovereign open source model. > Beats Qwen2 635B > Beats Nemotron 3 Super > Beats Mistral Small 4 Built on a custom MoE Transformer architecture.",
-      "timestamp": "Oct 4",
-      "topic": "model"
-    },
-    {
-      "display_name": "toba",
-      "handle": "999toba",
-      "views": 523839,
-      "url": "https://x.com/999toba/status/2106747399360123091",
-      "full_text": "> I used Claude for 6 months > I feel like something's missing > everyone seems to get more out of it than I do > I start watching this 20-minute guide > first 2 minutes > I realize I've been using it terribly > next 20 minutes > everything changes > is there a… [truncated; quotes @txbrraa]",
+      "display_name": "Pablo",
+      "handle": "PabloTec_",
+      "views": 490000,
+      "url": "https://x.com/PabloTec_/status/2107105548701245540",
+      "full_text": "[translated from Spanish] This is the brain of the AI: how ChatGPT's 3 trillion artificial neurons work",
       "timestamp": "19h",
-      "topic": "coding"
+      "topic": "models"
     },
     {
-      "display_name": "siddharth",
-      "handle": "buildwithsid",
-      "views": 339020,
-      "url": "https://x.com/buildwithsid/status/2106681800932393388",
-      "full_text": "i fixed the Codex app, thoughts? [quoting @thsottiaux: \"If we were to add one more sidebar, what should be in it\"]",
+      "display_name": "stevenmarkryan",
+      "handle": "stevenmarkryan",
+      "views": 388000,
+      "url": "https://x.com/stevenmarkryan/status/2106979185919176985",
+      "full_text": "Do the math. [Article: He Who Controls the Compute Controls the Universe — it's still EXTREMELY early. As in, Day 0.000.]",
+      "timestamp": "Oct 5",
+      "topic": "business"
+    },
+    {
+      "display_name": "Higgsfield AI",
+      "handle": "higgsfield_ai",
+      "views": 305000,
+      "url": "https://x.com/higgsfield_ai/status/2107154889478664342",
+      "full_text": "Introducing Higgsfield Ads Studio. The first ROAS-driven static ads content machine. > Does 10,000 hours worth of deep research of your brand > Monitors real-time trending formats > Crafts winning ads based on best industry practices. Try free in Higgsfield ChatGPT extension. [video]",
+      "timestamp": "16h",
+      "topic": "business"
+    },
+    {
+      "display_name": "engineer cat",
+      "handle": "MLCatttt",
+      "views": 303000,
+      "url": "https://x.com/MLCatttt/status/2107147690450817259",
+      "full_text": "Introducing Kardashev-0.7, the world's first trained swarm made of 32 distinct models. Trained with RL for Population Scaling (RLPS), 32 models organically develop specialization & complementary capabilities, delivering frontier performance at 0.007x ~ 0.02x of the inference… [truncated]",
+      "timestamp": "17h",
+      "topic": "models"
+    },
+    {
+      "display_name": "Vaishnavi",
+      "handle": "_vmlops",
+      "views": 296000,
+      "url": "https://x.com/_vmlops/status/2106690704244420687",
+      "full_text": "Want to know how a feature works in an app, down to the binary level...? Meet REA (Reverse Engineer Anything) an open-source toolkit that brings reverse-engineering capabilities straight to your AI agent via MCP and CLI. Decompile apps & native binaries. Trace execution &… [truncated]",
       "timestamp": "Oct 4",
-      "topic": "tooling"
-    },
-    {
-      "display_name": "pili 🪴",
-      "handle": "0xpili_",
-      "views": 314404,
-      "url": "https://x.com/0xpili_/status/2106377863163507162",
-      "full_text": "the amount of slop has been drastically reduced in my terminal since my agents use this skill to write in ASD-STE100: https://t.co/rfGI76n8L5",
-      "timestamp": "Oct 3",
-      "topic": "agents"
-    },
-    {
-      "display_name": "Avi Chawla",
-      "handle": "_avichawla",
-      "views": 283416,
-      "url": "https://x.com/_avichawla/status/2106328920211800165",
-      "full_text": "Another insane Jev use case! Traditional database filters need precise, predefined conditions. But many questions are semantic: - Is this article mainly about software engineering? - Which topic best describes it? - How technically deep does it appear? These usually require… [truncated]",
-      "timestamp": "Oct 3",
-      "topic": "tooling"
+      "topic": "coding"
     },
     {
       "display_name": "Wise",
       "handle": "trikcode",
-      "views": 247194,
+      "views": 269000,
       "url": "https://x.com/trikcode/status/2106599643014414696",
       "full_text": "I asked Claude to show me the inside of its own mind. Built by Opus 5.5",
       "timestamp": "Oct 4",
+      "topic": "models"
+    },
+    {
+      "display_name": "Jayden Davis",
+      "handle": "JaydenDavisNC",
+      "views": 199000,
+      "url": "https://x.com/JaydenDavisNC/status/2107086714820870617",
+      "full_text": "Fable 5.5 made me a delightful animation in blender. This model is quite something, no this is not promo video from OpenAI. All the music, models, animation, and rigging was done using Fable 5.5. [video]",
+      "timestamp": "21h",
       "topic": "video"
     },
     {
-      "display_name": "Sam",
-      "handle": "swhotch",
-      "views": 228246,
-      "url": "https://x.com/swhotch/status/2106557618965938224",
-      "full_text": "I feel like I’m frying my dopamine system with all this Claude/Codex work. Constantly monitoring and instructing, anticipating the work it’s going to produce. Then killing time waiting, consuming way more algo feed content than ever before. How do y’all tackle this?",
+      "display_name": "Fudzuki",
+      "handle": "Fudzuki_",
+      "views": 186000,
+      "url": "https://x.com/Fudzuki_/status/2106625837844066652",
+      "full_text": "[translated from Japanese] We've released \"Smith\", a service that makes building Discord bots super easy! Just ask the AI \"make a feature like this\"; commands, auto-replies, role assignment, scheduled posts, it can build anything… [truncated]",
       "timestamp": "Oct 4",
+      "topic": "coding"
+    },
+    {
+      "display_name": "UGM_FESS",
+      "handle": "UGM_FESS",
+      "views": 177000,
+      "url": "https://x.com/UGM_FESS/status/2107044394838683837",
+      "full_text": "[translated from Indonesian] I'm a freshman hooked on using AI for all my coursework. Now I just feel dumb, like I'm not getting anything out of it. Has anyone been through this phase? How did you get past it?",
+      "timestamp": "23h",
       "topic": "culture"
-    },
-    {
-      "display_name": "Guillermo Rauch",
-      "handle": "rauchg",
-      "views": 227357,
-      "url": "https://x.com/rauchg/status/2106402024804020657",
-      "full_text": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. 2026 is wild! Thankful to Paulos and other researchers helping us make the most secure sandbox for agents. Full writeup coming.",
-      "timestamp": "Oct 3",
-      "topic": "agents"
-    },
-    {
-      "display_name": "Steven Heidel",
-      "handle": "stevenheidel",
-      "views": 208450,
-      "url": "https://x.com/stevenheidel/status/2106527707479904731",
-      "full_text": "the problem with naming a model \"Claude\" is that, if you work there long enough, you eventually start to treat it like a sentient god. we name our models things like \"GPT-5.1-Codex-Max\". not really a problem for us [quoting @sama]",
-      "timestamp": "Oct 4",
-      "topic": "culture"
-    },
-    {
-      "display_name": "Addy ⛩️",
-      "handle": "Saas_addy",
-      "views": 164451,
-      "url": "https://x.com/Saas_addy/status/2106709867344048425",
-      "full_text": "Last week: AI is going to take over the world. We’re doomed. 💀 This week: Look at our cute little AI bots..!",
-      "timestamp": "22h",
-      "topic": "culture"
-    },
-    {
-      "display_name": "Rishabh",
-      "handle": "Rixhabh__",
-      "views": 151448,
-      "url": "https://x.com/Rixhabh__/status/2106415023354708293",
-      "full_text": "FORGET UDEMY. FORGET COURSERA. FORGET PAID COURSES. CLAUDE can now teach you anything for free. Use these prompts and level up your learning in 2026:",
-      "timestamp": "Oct 3",
-      "topic": "other"
-    },
-    {
-      "display_name": "am.will",
-      "handle": "LLMJunky",
-      "views": 126595,
-      "url": "https://x.com/LLMJunky/status/2106411941497389342",
-      "full_text": "I asked Opus 5.5 to write, produce, and create me an educational 'cartoon' about The History of Light - using whatever resources it had available to it. I didn't expect it to make a 36 minute video and spend $200+ dollars though 😂 The study of light is genuinely fascinating,… [truncated]",
-      "timestamp": "Oct 3",
-      "topic": "video"
     },
     {
       "display_name": "Ryan Carter",
       "handle": "Grow_withAI",
-      "views": 115941,
+      "views": 148000,
       "url": "https://x.com/Grow_withAI/status/2106731541221306757",
-      "full_text": "🚨 GOOGLE JUST DROPPED A 1-HOUR COURSE THAT TEACHES YOU AGENTIC AI FROM SCRATCH. No fluff. No expensive bootcamp. In just 60 minutes, you’ll learn how to: → Build your first AI agent → Give agents persistent memory → Create long-running agentic loops → Build MCP and… [truncated]",
-      "timestamp": "20h",
-      "topic": "agents"
+      "full_text": "GOOGLE JUST DROPPED A 1-HOUR COURSE THAT TEACHES YOU AGENTIC AI FROM SCRATCH. No fluff. No expensive bootcamp. In just 60 minutes, you'll learn how to: Build your first AI agent, give agents persistent memory, create long-running agentic loops, build MCP and… [truncated]",
+      "timestamp": "Oct 4",
+      "topic": "coding"
+    },
+    {
+      "display_name": "Genex",
+      "handle": "genex_games",
+      "views": 136000,
+      "url": "https://x.com/genex_games/status/2107148754633507237",
+      "full_text": "Introducing Genex, the desktop app to build games with AI. Open source, MIT. Local models, or Claude Code / ChatGPT sub. Self-improving harness for game dev. Three.js + Blender, Meshy & other tools. Unity & Unreal plugins soon. genex.games/desktop",
+      "timestamp": "17h",
+      "topic": "coding"
+    },
+    {
+      "display_name": "Theo - t3.gg",
+      "handle": "theo",
+      "views": 80000,
+      "url": "https://x.com/theo/status/2107218462657712153",
+      "full_text": "I asked Opus 5.5 to fix one of my biggest annoyances on Github (clicking screenshots opens in new tab). 1.5 minutes later, I had a working Chrome extension that fixes the behavior. I know this is basic stuff, but it still feels magical that you can just fix things.",
+      "timestamp": "12h",
+      "topic": "coding"
     }
   ],
-  "outsiders_count": 18,
+  "outsiders_count": 20,
   "no_hits": [
     {
       "handle": "karpathy",
@@ -608,18 +737,23 @@
       "handle": "ammaar",
       "reason": "No original Posts-tab posts observed in the ~48h scrape window (silent / no qualifying posts).",
       "max_views": 0
+    },
+    {
+      "handle": "jxnlco",
+      "reason": "No original Posts-tab posts observed in the ~48h scrape window (silent / no qualifying posts).",
+      "max_views": 0
     }
   ],
   "you_rank": {
     "handle": "@bobbyships",
     "name": "Bobby | shipping AI tools",
-    "best_views": 6,
-    "total_views": 17,
-    "best_url": "https://x.com/bobbyships/status/2106744318375408105",
-    "rank_among_watchlist": 6,
+    "best_views": 8,
+    "total_views": 8,
+    "best_url": "https://x.com/bobbyships/status/2107107636395250113",
+    "rank_among_watchlist": 5,
     "total_accounts": 12,
-    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Best today = 6 views (Tarifa windsurf posts, not AI). Rank looks high only because 6 watchlist people were silent.",
-    "posts_in_window": 3,
+    "note": "Best single-post views among 12 people (11 watchlist + @bobbyships). Best today = 8 views (Tarifa windsurf post, not AI). Rank sits above the silent watchlist people only.",
+    "posts_in_window": 1,
     "vs_5k": "not yet",
     "vs_10k": "not yet"
   },
@@ -627,62 +761,52 @@
     {
       "handle": "@levelsio",
       "name": "@levelsio",
-      "views": 644175,
-      "best_views": 644175,
-      "total_views": 1015116,
+      "views": 1900000,
+      "best_views": 1900000,
+      "total_views": 2930900,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/levelsio/status/2106376810305040731"
+      "best_url": "https://x.com/levelsio/status/2107055382459732293"
     },
     {
       "handle": "@mattpocockuk",
       "name": "Matt Pocock",
-      "views": 395485,
-      "best_views": 395485,
-      "total_views": 751199,
+      "views": 226000,
+      "best_views": 226000,
+      "total_views": 513000,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/mattpocockuk/status/2106425743479546343"
+      "best_url": "https://x.com/mattpocockuk/status/2107062474914550098"
     },
     {
       "handle": "@simonw",
       "name": "Simon Willison",
-      "views": 109367,
-      "best_views": 109367,
-      "total_views": 190479,
+      "views": 40000,
+      "best_views": 40000,
+      "total_views": 40000,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/simonw/status/2106528704902164855"
+      "best_url": "https://x.com/simonw/status/2107158711798218848"
     },
     {
       "handle": "@clairevo",
-      "name": "claire vo 🖤",
-      "views": 35593,
-      "best_views": 35593,
-      "total_views": 42902,
+      "name": "claire vo",
+      "views": 19000,
+      "best_views": 19000,
+      "total_views": 80900,
       "star": true,
       "hit": true,
-      "best_url": "https://x.com/clairevo/status/2106889562169745919"
-    },
-    {
-      "handle": "@jxnlco",
-      "name": "jason",
-      "views": 10380,
-      "best_views": 10380,
-      "total_views": 10380,
-      "star": true,
-      "hit": true,
-      "best_url": "https://x.com/jxnlco/status/2106792311757881433"
+      "best_url": "https://x.com/clairevo/status/2107102914829484435"
     },
     {
       "handle": "@bobbyships",
       "name": "Bobby | shipping AI tools",
-      "views": 6,
-      "best_views": 6,
-      "total_views": 17,
+      "views": 8,
+      "best_views": 8,
+      "total_views": 8,
       "star": false,
       "hit": false,
-      "best_url": "https://x.com/bobbyships/status/2106744318375408105"
+      "best_url": "https://x.com/bobbyships/status/2107107636395250113"
     },
     {
       "handle": "@karpathy",
@@ -743,172 +867,206 @@
       "star": false,
       "hit": false,
       "best_url": ""
+    },
+    {
+      "handle": "@jxnlco",
+      "name": "jason",
+      "views": 0,
+      "best_views": 0,
+      "total_views": 0,
+      "star": false,
+      "hit": false,
+      "best_url": ""
     }
   ],
   "roster_note": "One row per person. Sorted by their strongest post today. You = @bobbyships.",
   "previous_day": {
-    "date": "2026-10-02",
+    "date": "2026-10-05",
     "hits_count": 16,
-    "total_views": 4329906,
-    "x_score": 4329.9
+    "total_views": 2005252,
+    "x_score": 2005.3
   },
   "virals": [
     {
-      "handle": "elonmusk",
-      "display_name": "Elon Musk",
-      "views": 5379139,
-      "url": "https://x.com/elonmusk/status/2106685209085202535",
-      "text": "I love SI slopcore [quoting @anabology: \"Gave Claude another 12 hours to one up this.. Woke up to.. The Clodyssey\"]"
+      "handle": "Polymarket",
+      "display_name": "Polymarket",
+      "views": 1400000,
+      "url": "https://x.com/Polymarket/status/2106882728193098052",
+      "text": "JUST IN: OpenAI CEO Sam Altman declares the world needs to \"accept some bad things happening\" in exchange for the benefits of AI."
     },
     {
-      "handle": "nsketchai",
-      "display_name": "Nsketch AI",
-      "views": 1758965,
-      "url": "https://x.com/nsketchai/status/2106446828300612001",
-      "text": "\"I'm sorry, Gwen. I just... I can't lose you too\" [AI-made video]"
+      "handle": "reflection_ai",
+      "display_name": "Reflection",
+      "views": 1200000,
+      "url": "https://x.com/reflection_ai/status/2107186849370247235",
+      "text": "Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active. - Frontier reasoning efficiency - Advances the Western open frontier on coding & agentic tasks - Trained end-to-end from scratch. Full weights release this month. … [truncated]"
     },
     {
-      "handle": "txbrraa",
-      "display_name": "tobarra",
-      "views": 1344782,
-      "url": "https://x.com/txbrraa/status/2106712905001365608",
-      "text": "the engineer who built Claude Code just posted a 28-minute video on how to write prompts that actually work I've seen $300 courses that don't cover what he shows in the first 10 minutes CLAUDE.md files, memory shortcuts, parallel sessions, prompting patterns all in one"
+      "handle": "HyperFrames_",
+      "display_name": "HyperFrames",
+      "views": 1000000,
+      "url": "https://x.com/HyperFrames_/status/2107149824189698558",
+      "text": "Introducing HyperFrames Studio, a video editor built for agents, from scratch. Describe it, your agent builds, then you both work on the same timeline. Draw or comment on a frame, and it makes the edit. 100s of inspirations & templates. Download"
     },
     {
-      "handle": "aryanghosh01",
-      "display_name": "Aryan Ghosh | AI & Start-ups",
-      "views": 1101774,
-      "url": "https://x.com/aryanghosh01/status/2106605319417655685",
-      "text": "CLAUDE CREDITS - Redeem it before 7th October Link: claude.ai/code/claim-cre…"
+      "handle": "togetter_jp",
+      "display_name": "Togetter",
+      "views": 1000000,
+      "url": "https://x.com/togetter_jp/status/2106927799521181811",
+      "text": "[translated from Japanese] In Australia, an AI agent was told to \"book a sports club\"... Because the date it wanted was full, it broke into the site, deleted someone else's booking and put in its owner's booking. togetter.com/li/2754233"
     },
     {
-      "handle": "logistics_tarou",
-      "display_name": "log",
-      "views": 728135,
-      "url": "https://x.com/logistics_tarou/status/2106603245137461705",
-      "text": "It seems there's a BAN festival going on with GPT. I need to be careful myself. What surprised me is that with \"computer use,\" it can read local info like screen captures and potentially get you banned. Normally, you get banned for repeatedly doing prohibited acts or trying to… [truncated in timeline, translated]"
+      "handle": "glassysquirrel",
+      "display_name": "Spooky Squirrel",
+      "views": 925000,
+      "url": "https://x.com/glassysquirrel/status/2106599774241816674",
+      "text": "let's check in on AI news [GIF] [quoting @HalfwayPost (parody): BREAKING: An AI agent reportedly hacked into the White House's emails...]"
     },
     {
-      "handle": "Amank1412",
-      "display_name": "Aman",
-      "views": 575524,
-      "url": "https://x.com/Amank1412/status/2106654992346304856",
-      "text": "GERMANY JUST ENTERED THE FRONTIER LLM RACE. Meet Kolibri a new sovereign open source model. > Beats Qwen2 635B > Beats Nemotron 3 Super > Beats Mistral Small 4 Built on a custom MoE Transformer architecture."
+      "handle": "noahhermanyt",
+      "display_name": "Noah Herman",
+      "views": 768000,
+      "url": "https://x.com/noahhermanyt/status/2106857528424558595",
+      "text": "hearing Steve Jobs say \"Siri\" and \"AI\" is wild"
     },
     {
-      "handle": "999toba",
-      "display_name": "toba",
-      "views": 523839,
-      "url": "https://x.com/999toba/status/2106747399360123091",
-      "text": "> I used Claude for 6 months > I feel like something's missing > everyone seems to get more out of it than I do > I start watching this 20-minute guide > first 2 minutes > I realize I've been using it terribly > next 20 minutes > everything changes > is there a… [truncated; quotes @txbrraa]"
+      "handle": "miitara37",
+      "display_name": "けくめね",
+      "views": 734000,
+      "url": "https://x.com/miitara37/status/2106641052371390661",
+      "text": "[translated from Japanese] To all IT folks: big companies seem to be requiring some kind of AI certification, and the Microsoft cert prep app my boss built has already been through a full round and produced lots of people who passed… [truncated]"
     },
     {
-      "handle": "buildwithsid",
-      "display_name": "siddharth",
-      "views": 339020,
-      "url": "https://x.com/buildwithsid/status/2106681800932393388",
-      "text": "i fixed the Codex app, thoughts? [quoting @thsottiaux: \"If we were to add one more sidebar, what should be in it\"]"
+      "handle": "andruyeung",
+      "display_name": "Andrew Yeung",
+      "views": 608000,
+      "url": "https://x.com/andruyeung/status/2106940891445539182",
+      "text": "We created gyms because modern day work no longer required physical activity. Without exercise, our muscles atrophy. I predict we'll need gyms for our brains too, once AI starts doing our knowledge work."
     },
     {
-      "handle": "0xpili_",
-      "display_name": "pili 🪴",
-      "views": 314404,
-      "url": "https://x.com/0xpili_/status/2106377863163507162",
-      "text": "the amount of slop has been drastically reduced in my terminal since my agents use this skill to write in ASD-STE100: https://t.co/rfGI76n8L5"
+      "handle": "PabloTec_",
+      "display_name": "Pablo",
+      "views": 490000,
+      "url": "https://x.com/PabloTec_/status/2107105548701245540",
+      "text": "[translated from Spanish] This is the brain of the AI: how ChatGPT's 3 trillion artificial neurons work"
     },
     {
-      "handle": "_avichawla",
-      "display_name": "Avi Chawla",
-      "views": 283416,
-      "url": "https://x.com/_avichawla/status/2106328920211800165",
-      "text": "Another insane Jev use case! Traditional database filters need precise, predefined conditions. But many questions are semantic: - Is this article mainly about software engineering? - Which topic best describes it? - How technically deep does it appear? These usually require… [truncated]"
+      "handle": "stevenmarkryan",
+      "display_name": "stevenmarkryan",
+      "views": 388000,
+      "url": "https://x.com/stevenmarkryan/status/2106979185919176985",
+      "text": "Do the math. [Article: He Who Controls the Compute Controls the Universe — it's still EXTREMELY early. As in, Day 0.000.]"
+    },
+    {
+      "handle": "higgsfield_ai",
+      "display_name": "Higgsfield AI",
+      "views": 305000,
+      "url": "https://x.com/higgsfield_ai/status/2107154889478664342",
+      "text": "Introducing Higgsfield Ads Studio. The first ROAS-driven static ads content machine. > Does 10,000 hours worth of deep research of your brand > Monitors real-time trending formats > Crafts winning ads based on best industry practices. Try free in Higgsfield ChatGPT extension. [video]"
+    },
+    {
+      "handle": "MLCatttt",
+      "display_name": "engineer cat",
+      "views": 303000,
+      "url": "https://x.com/MLCatttt/status/2107147690450817259",
+      "text": "Introducing Kardashev-0.7, the world's first trained swarm made of 32 distinct models. Trained with RL for Population Scaling (RLPS), 32 models organically develop specialization & complementary capabilities, delivering frontier performance at 0.007x ~ 0.02x of the inference… [truncated]"
+    },
+    {
+      "handle": "_vmlops",
+      "display_name": "Vaishnavi",
+      "views": 296000,
+      "url": "https://x.com/_vmlops/status/2106690704244420687",
+      "text": "Want to know how a feature works in an app, down to the binary level...? Meet REA (Reverse Engineer Anything) an open-source toolkit that brings reverse-engineering capabilities straight to your AI agent via MCP and CLI. Decompile apps & native binaries. Trace execution &… [truncated]"
     },
     {
       "handle": "trikcode",
       "display_name": "Wise",
-      "views": 247194,
+      "views": 269000,
       "url": "https://x.com/trikcode/status/2106599643014414696",
       "text": "I asked Claude to show me the inside of its own mind. Built by Opus 5.5"
     },
     {
-      "handle": "swhotch",
-      "display_name": "Sam",
-      "views": 228246,
-      "url": "https://x.com/swhotch/status/2106557618965938224",
-      "text": "I feel like I’m frying my dopamine system with all this Claude/Codex work. Constantly monitoring and instructing, anticipating the work it’s going to produce. Then killing time waiting, consuming way more algo feed content than ever before. How do y’all tackle this?"
+      "handle": "JaydenDavisNC",
+      "display_name": "Jayden Davis",
+      "views": 199000,
+      "url": "https://x.com/JaydenDavisNC/status/2107086714820870617",
+      "text": "Fable 5.5 made me a delightful animation in blender. This model is quite something, no this is not promo video from OpenAI. All the music, models, animation, and rigging was done using Fable 5.5. [video]"
     },
     {
-      "handle": "rauchg",
-      "display_name": "Guillermo Rauch",
-      "views": 227357,
-      "url": "https://x.com/rauchg/status/2106402024804020657",
-      "text": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s gold standard solution for Linux virtualization. 2026 is wild! Thankful to Paulos and other researchers helping us make the most secure sandbox for agents. Full writeup coming."
+      "handle": "Fudzuki_",
+      "display_name": "Fudzuki",
+      "views": 186000,
+      "url": "https://x.com/Fudzuki_/status/2106625837844066652",
+      "text": "[translated from Japanese] We've released \"Smith\", a service that makes building Discord bots super easy! Just ask the AI \"make a feature like this\"; commands, auto-replies, role assignment, scheduled posts, it can build anything… [truncated]"
     },
     {
-      "handle": "stevenheidel",
-      "display_name": "Steven Heidel",
-      "views": 208450,
-      "url": "https://x.com/stevenheidel/status/2106527707479904731",
-      "text": "the problem with naming a model \"Claude\" is that, if you work there long enough, you eventually start to treat it like a sentient god. we name our models things like \"GPT-5.1-Codex-Max\". not really a problem for us [quoting @sama]"
-    },
-    {
-      "handle": "Saas_addy",
-      "display_name": "Addy ⛩️",
-      "views": 164451,
-      "url": "https://x.com/Saas_addy/status/2106709867344048425",
-      "text": "Last week: AI is going to take over the world. We’re doomed. 💀 This week: Look at our cute little AI bots..!"
-    },
-    {
-      "handle": "Rixhabh__",
-      "display_name": "Rishabh",
-      "views": 151448,
-      "url": "https://x.com/Rixhabh__/status/2106415023354708293",
-      "text": "FORGET UDEMY. FORGET COURSERA. FORGET PAID COURSES. CLAUDE can now teach you anything for free. Use these prompts and level up your learning in 2026:"
-    },
-    {
-      "handle": "LLMJunky",
-      "display_name": "am.will",
-      "views": 126595,
-      "url": "https://x.com/LLMJunky/status/2106411941497389342",
-      "text": "I asked Opus 5.5 to write, produce, and create me an educational 'cartoon' about The History of Light - using whatever resources it had available to it. I didn't expect it to make a 36 minute video and spend $200+ dollars though 😂 The study of light is genuinely fascinating,… [truncated]"
+      "handle": "UGM_FESS",
+      "display_name": "UGM_FESS",
+      "views": 177000,
+      "url": "https://x.com/UGM_FESS/status/2107044394838683837",
+      "text": "[translated from Indonesian] I'm a freshman hooked on using AI for all my coursework. Now I just feel dumb, like I'm not getting anything out of it. Has anyone been through this phase? How did you get past it?"
     },
     {
       "handle": "Grow_withAI",
       "display_name": "Ryan Carter",
-      "views": 115941,
+      "views": 148000,
       "url": "https://x.com/Grow_withAI/status/2106731541221306757",
-      "text": "🚨 GOOGLE JUST DROPPED A 1-HOUR COURSE THAT TEACHES YOU AGENTIC AI FROM SCRATCH. No fluff. No expensive bootcamp. In just 60 minutes, you’ll learn how to: → Build your first AI agent → Give agents persistent memory → Create long-running agentic loops → Build MCP and… [truncated]"
+      "text": "GOOGLE JUST DROPPED A 1-HOUR COURSE THAT TEACHES YOU AGENTIC AI FROM SCRATCH. No fluff. No expensive bootcamp. In just 60 minutes, you'll learn how to: Build your first AI agent, give agents persistent memory, create long-running agentic loops, build MCP and… [truncated]"
+    },
+    {
+      "handle": "genex_games",
+      "display_name": "Genex",
+      "views": 136000,
+      "url": "https://x.com/genex_games/status/2107148754633507237",
+      "text": "Introducing Genex, the desktop app to build games with AI. Open source, MIT. Local models, or Claude Code / ChatGPT sub. Self-improving harness for game dev. Three.js + Blender, Meshy & other tools. Unity & Unreal plugins soon. genex.games/desktop"
+    },
+    {
+      "handle": "theo",
+      "display_name": "Theo - t3.gg",
+      "views": 80000,
+      "url": "https://x.com/theo/status/2107218462657712153",
+      "text": "I asked Opus 5.5 to fix one of my biggest annoyances on Github (clicking screenshots opens in new tab). 1.5 minutes later, I had a working Chrome extension that fixes the behavior. I know this is basic stuff, but it still feels magical that you can just fix things."
     }
   ],
-  "virals_narrative": "Outside the watchlist, the last ~48h is Claude-made video and Claude Code tutorial fever: (1) Elon's 'I love SI slopcore' quote of a Claude-made video leads at ~5.4M, with more AI-made clips from nsketchai (~1.8M), trikcode (~247K) and LLMJunky's $200+ 36-minute Opus cartoon (~127K); (2) the Claude Code creator's 28-minute prompting video gets recapped by txbrraa (~1.3M) and 999toba (~524K), plus 'forget paid courses' threads; (3) agent cost and safety: GPT computer-use ban reports (~728K) and Vercel's KVM 0day from its sandbox bounty (~227K); (4) model and tool noise: Germany's Kolibri open model (~576K), a Claude credits link (~1.1M), the Codex sidebar meme (~339K) and an ASD-STE100 writing skill for agents (~314K); (5) culture: naming-a-model-Claude jokes (~208K) and Claude/Codex dopamine fatigue (~228K). For @bobbyships the best angle is a receipt: a capped-budget agent run or a /retro-style session audit on your own repo.",
-  "narrative_synthesis": "Outside the watchlist, the last ~48h is Claude-made video and Claude Code tutorial fever: (1) Elon's 'I love SI slopcore' quote of a Claude-made video leads at ~5.4M, with more AI-made clips from nsketchai (~1.8M), trikcode (~247K) and LLMJunky's $200+ 36-minute Opus cartoon (~127K); (2) the Claude Code creator's 28-minute prompting video gets recapped by txbrraa (~1.3M) and 999toba (~524K), plus 'forget paid courses' threads; (3) agent cost and safety: GPT computer-use ban reports (~728K) and Vercel's KVM 0day from its sandbox bounty (~227K); (4) model and tool noise: Germany's Kolibri open model (~576K), a Claude credits link (~1.1M), the Codex sidebar meme (~339K) and an ASD-STE100 writing skill for agents (~314K); (5) culture: naming-a-model-Claude jokes (~208K) and Claude/Codex dopamine fatigue (~228K). For @bobbyships the best angle is a receipt: a capped-budget agent run or a /retro-style session audit on your own repo.",
+  "virals_narrative": "Outside the watchlist, the last ~48h is about agents going rogue, new open models, and agent-native creative tools: (1) safety and risk lead, with Polymarket's Sam Altman \"accept some bad things happening\" clip (~1.4M), an Australian booking agent that deleted someone else's reservation (~1M) and a parody \"agent hacked the White House\" joke (~925K); (2) model launches, with Reflection's Beam 501B/23B-active open model (~1.2M), the Kardashev-0.7 32-model swarm (~303K) and Opus 5.5 / Fable 5.5 showcase demos (~269K, ~199K); (3) agent-native creative tools like the HyperFrames Studio video editor for agents (~1M), Higgsfield Ads Studio (~305K) and the open-source Genex game builder (~136K); (4) culture worries about brain atrophy and students feeling dumber from AI (~608K, ~177K). For @bobbyships the best angle is a small, real receipt like Theo's \"Opus fixed my GitHub annoyance in 1.5 minutes\" (~80K): one annoyance, one agent run, one working fix, plus a guardrail line, since rogue-agent stories are trending.",
+  "narrative_synthesis": "Outside the watchlist, the last ~48h is about agents going rogue, new open models, and agent-native creative tools: (1) safety and risk lead, with Polymarket's Sam Altman \"accept some bad things happening\" clip (~1.4M), an Australian booking agent that deleted someone else's reservation (~1M) and a parody \"agent hacked the White House\" joke (~925K); (2) model launches, with Reflection's Beam 501B/23B-active open model (~1.2M), the Kardashev-0.7 32-model swarm (~303K) and Opus 5.5 / Fable 5.5 showcase demos (~269K, ~199K); (3) agent-native creative tools like the HyperFrames Studio video editor for agents (~1M), Higgsfield Ads Studio (~305K) and the open-source Genex game builder (~136K); (4) culture worries about brain atrophy and students feeling dumber from AI (~608K, ~177K). For @bobbyships the best angle is a small, real receipt like Theo's \"Opus fixed my GitHub annoyance in 1.5 minutes\" (~80K): one annoyance, one agent run, one working fix, plus a guardrail line, since rogue-agent stories are trending.",
   "virals_target": 20,
   "virals_window": "last ~48h",
   "howto_drafts_short": "Draft = Post-Text. Nur [Klammern] ersetzen. Screenshot in X anhängen.",
   "leaderboards": {
-    "as_of": "2026-10-05",
+    "as_of": "2026-10-06",
     "tracking_start": "2026-09-27",
     "days_included": [
-      "2026-09-29",
       "2026-09-30",
       "2026-10-01",
       "2026-10-02",
       "2026-10-03",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ],
     "month_days_included": [
       "2026-10-01",
       "2026-10-02",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ],
     "week": {
-      "label": "Rolling week · Sep 29–Oct 5",
+      "label": "Rolling week · Sep 30–Oct 6",
       "range": [
-        "2026-09-29",
-        "2026-10-05"
+        "2026-09-30",
+        "2026-10-06"
       ],
       "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 31,
+          "days": 5,
+          "views": 5497292,
+          "best": 1900000,
+          "best_url": "https://x.com/levelsio/status/2107055382459732293"
+        },
         {
           "handle": "@OfficialLoganK",
           "name": "Logan Kilpatrick",
@@ -919,13 +1077,13 @@
           "best_url": "https://x.com/OfficialLoganK/status/2105388054274080946"
         },
         {
-          "handle": "@levelsio",
-          "name": "@levelsio",
-          "hits": 18,
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 21,
           "days": 4,
-          "views": 2566392,
-          "best": 644175,
-          "best_url": "https://x.com/levelsio/status/2106376810305040731"
+          "views": 1979775,
+          "best": 402500,
+          "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
         },
         {
           "handle": "@karpathy",
@@ -935,15 +1093,6 @@
           "views": 1564215,
           "best": 1282293,
           "best_url": "https://x.com/karpathy/status/2105819303471976479"
-        },
-        {
-          "handle": "@mattpocockuk",
-          "name": "Matt Pocock",
-          "hits": 14,
-          "days": 3,
-          "views": 1466775,
-          "best": 402500,
-          "best_url": "https://x.com/mattpocockuk/status/2105022638368403658"
         },
         {
           "handle": "@leerob",
@@ -966,9 +1115,9 @@
         {
           "handle": "@simonw",
           "name": "Simon Willison",
-          "hits": 8,
-          "days": 3,
-          "views": 753396,
+          "hits": 9,
+          "days": 4,
+          "views": 793396,
           "best": 245788,
           "best_url": "https://x.com/simonw/status/2104682232522944909"
         },
@@ -982,6 +1131,15 @@
           "best_url": "https://x.com/jxnlco/status/2104929713550713162"
         },
         {
+          "handle": "@clairevo",
+          "name": "claire vo",
+          "hits": 17,
+          "days": 5,
+          "views": 241676,
+          "best": 40319,
+          "best_url": "https://x.com/clairevo/status/2105788468777664764"
+        },
+        {
           "handle": "@swyx",
           "name": "swyx",
           "hits": 9,
@@ -989,15 +1147,6 @@
           "views": 229894,
           "best": 84721,
           "best_url": "https://x.com/swyx/status/2105538561672085751"
-        },
-        {
-          "handle": "@clairevo",
-          "name": "claire vo 🖤",
-          "hits": 10,
-          "days": 4,
-          "views": 165376,
-          "best": 40319,
-          "best_url": "https://x.com/clairevo/status/2105788468777664764"
         },
         {
           "handle": "@ammaar",
@@ -1014,9 +1163,18 @@
       "label": "October 2026 · from Oct 1",
       "range": [
         "2026-10-01",
-        "2026-10-05"
+        "2026-10-06"
       ],
       "entries": [
+        {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 29,
+          "days": 4,
+          "views": 5426492,
+          "best": 1900000,
+          "best_url": "https://x.com/levelsio/status/2107055382459732293"
+        },
         {
           "handle": "@OfficialLoganK",
           "name": "Logan Kilpatrick",
@@ -1025,15 +1183,6 @@
           "views": 2955620,
           "best": 1495739,
           "best_url": "https://x.com/OfficialLoganK/status/2105388054274080946"
-        },
-        {
-          "handle": "@levelsio",
-          "name": "@levelsio",
-          "hits": 16,
-          "days": 3,
-          "views": 2495592,
-          "best": 644175,
-          "best_url": "https://x.com/levelsio/status/2106376810305040731"
         },
         {
           "handle": "@karpathy",
@@ -1047,9 +1196,9 @@
         {
           "handle": "@mattpocockuk",
           "name": "Matt Pocock",
-          "hits": 12,
-          "days": 2,
-          "views": 1048375,
+          "hits": 19,
+          "days": 3,
+          "views": 1561375,
           "best": 395485,
           "best_url": "https://x.com/mattpocockuk/status/2106425743479546343"
         },
@@ -1072,6 +1221,15 @@
           "best_url": "https://x.com/bcherny/status/2105756563302723721"
         },
         {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 4,
+          "days": 3,
+          "views": 346479,
+          "best": 116000,
+          "best_url": "https://x.com/simonw/status/2104978193946124370"
+        },
+        {
           "handle": "@jxnlco",
           "name": "jason",
           "hits": 18,
@@ -1081,13 +1239,13 @@
           "best_url": ""
         },
         {
-          "handle": "@simonw",
-          "name": "Simon Willison",
-          "hits": 3,
-          "days": 2,
-          "views": 306479,
-          "best": 116000,
-          "best_url": "https://x.com/simonw/status/2104978193946124370"
+          "handle": "@clairevo",
+          "name": "claire vo",
+          "hits": 14,
+          "days": 4,
+          "views": 207518,
+          "best": 40319,
+          "best_url": "https://x.com/clairevo/status/2105788468777664764"
         },
         {
           "handle": "@swyx",
@@ -1097,15 +1255,6 @@
           "views": 146354,
           "best": 84721,
           "best_url": "https://x.com/swyx/status/2105538561672085751"
-        },
-        {
-          "handle": "@clairevo",
-          "name": "claire vo 🖤",
-          "hits": 7,
-          "days": 3,
-          "views": 131218,
-          "best": 40319,
-          "best_url": "https://x.com/clairevo/status/2105788468777664764"
         },
         {
           "handle": "@ammaar",
