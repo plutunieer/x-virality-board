@@ -482,6 +482,118 @@
           "best_url": "https://x.com/clairevo/status/2108272931772289362"
         }
       }
+    },
+    "2026-10-12": {
+      "accounts": {
+        "karpathy": {
+          "handle": "@karpathy",
+          "name": "Andrej Karpathy",
+          "hits": 1,
+          "best": 3688016,
+          "total": 3688016,
+          "best_url": "https://x.com/karpathy/status/2109361546505966046"
+        },
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 25,
+          "best": 866899,
+          "total": 2647321,
+          "best_url": "https://x.com/levelsio/status/2109262337500705094"
+        },
+        "mattpocockuk": {
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 4,
+          "best": 204942,
+          "total": 532128,
+          "best_url": "https://x.com/mattpocockuk/status/2108985674657362080"
+        },
+        "officiallogank": {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 1,
+          "best": 177107,
+          "total": 177107,
+          "best_url": "https://x.com/OfficialLoganK/status/2109333732847214863"
+        },
+        "clairevo": {
+          "handle": "@clairevo",
+          "name": "claire vo 🖤",
+          "hits": 5,
+          "best": 20064,
+          "total": 56490,
+          "best_url": "https://x.com/clairevo/status/2108784727855616131"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 3,
+          "best": 17316,
+          "total": 40305,
+          "best_url": "https://x.com/jxnlco/status/2108994306052923478"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx 🗽 @aiDotEngineer",
+          "hits": 2,
+          "best": 11744,
+          "total": 19415,
+          "best_url": "https://x.com/swyx/status/2108780918060036335"
+        }
+      }
+    },
+    "2026-10-13": {
+      "accounts": {
+        "officiallogank": {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 1,
+          "best": 598698,
+          "total": 598698,
+          "best_url": "https://x.com/OfficialLoganK/status/2109836485981778260"
+        },
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 10,
+          "best": 446261,
+          "total": 1250245,
+          "best_url": "https://x.com/levelsio/status/2109658835493462465"
+        },
+        "mattpocockuk": {
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 3,
+          "best": 99480,
+          "total": 184903,
+          "best_url": "https://x.com/mattpocockuk/status/2109589900706083024"
+        },
+        "simonw": {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 1,
+          "best": 38400,
+          "total": 38400,
+          "best_url": "https://x.com/simonw/status/2109711203077619768"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx 🗽 @aiDotEngineer",
+          "hits": 2,
+          "best": 20048,
+          "total": 28845,
+          "best_url": "https://x.com/swyx/status/2109640508079263769"
+        },
+        "clairevo": {
+          "handle": "@clairevo",
+          "name": "claire vo 🖤",
+          "hits": 6,
+          "best": 18922,
+          "total": 62293,
+          "best_url": "https://x.com/clairevo/status/2109707396599972256"
+        }
+      }
     }
   }
 }
