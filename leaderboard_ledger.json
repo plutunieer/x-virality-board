@@ -594,6 +594,74 @@
           "best_url": "https://x.com/clairevo/status/2109707396599972256"
         }
       }
+    },
+    "2026-10-14": {
+      "accounts": {
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 9,
+          "best": 927355,
+          "total": 1860740,
+          "best_url": "https://x.com/levelsio/status/2109949585737052316"
+        },
+        "officiallogank": {
+          "handle": "@OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "hits": 1,
+          "best": 909243,
+          "total": 909243,
+          "best_url": "https://x.com/OfficialLoganK/status/2110038940841545827"
+        },
+        "mattpocockuk": {
+          "handle": "@mattpocockuk",
+          "name": "Matt Pocock",
+          "hits": 2,
+          "best": 170406,
+          "total": 188839,
+          "best_url": "https://x.com/mattpocockuk/status/2109973273924579720"
+        },
+        "ammaar": {
+          "handle": "@ammaar",
+          "name": "Ammaar Reshi",
+          "hits": 2,
+          "best": 101212,
+          "total": 109782,
+          "best_url": "https://x.com/ammaar/status/2110057926799073462"
+        },
+        "simonw": {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 1,
+          "best": 35771,
+          "total": 35771,
+          "best_url": "https://x.com/simonw/status/2110151384289223103"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason (Jason Liu)",
+          "hits": 3,
+          "best": 20463,
+          "total": 42853,
+          "best_url": "https://x.com/jxnlco/status/2110085956334477784"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 3,
+          "best": 13060,
+          "total": 26018,
+          "best_url": "https://x.com/swyx/status/2110065576764686421"
+        },
+        "clairevo": {
+          "handle": "@clairevo",
+          "name": "Claire Vo",
+          "hits": 2,
+          "best": 9716,
+          "total": 15578,
+          "best_url": "https://x.com/clairevo/status/2110164048839057905"
+        }
+      }
     }
   }
 }
